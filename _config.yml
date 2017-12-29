@@ -15,13 +15,13 @@
 # in the templates via {{ site.myvariable }}.
 title: Phil Bresnahan
 email: pjbresnahan@ucsd.edu
-description: >- # this means to ignore newlines until "baseurl:"
-  I work and play where the ocean meets the land. I’m a coastal oceanographer,
-  paddleboarder, surfer, rower, sailor, teacher, and learner. Humans have always
-  thought of coasts as playgrounds but we’ve more recently recognized that we
-  also treat them as dumping grounds for our trash, (micro-)plastics, (treated)
-  sewage, and CO_2, to name a few. I study coastal waters because I want to
-  protect them. For myself and for you. And for many generations to come.
+description: # >- # this means to ignore newlines until "baseurl:"
+  # I work and play where the ocean meets the land. I’m a coastal oceanographer,
+  # paddleboarder, surfer, rower, sailor, teacher, and learner. Humans have always
+  # thought of coasts as playgrounds but we’ve more recently recognized that we
+  # also treat them as dumping grounds for our trash, (micro-)plastics, (treated)
+  # sewage, and CO_2, to name a few. I study coastal waters because I want to
+  # protect them. For myself and for you. And for many generations to come.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: supscientist
@@ -29,9 +29,18 @@ github_username:  supscientist
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
+
+defaults:
+  -
+    scope:
+      path: "" # if you want it to apply to a subdir only
+      #type: "posts"
+    values:
+      layout: default
+      #values
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

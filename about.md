@@ -1,10 +1,10 @@
 ---
-layout: page
+layout: default
 title: About
 permalink: /about/
 ---
 
-I work and play where the ocean meets the land. I’m a coastal oceanographer, paddleboarder, surfer, rower, sailor, teacher, and learner. Humans have always thought of coasts as playgrounds but we’ve more recently recognized that we also treat them as dumping grounds for our trash, (micro-)plastics, (treated) sewage, and CO_2, to name a few. I study coastal waters because I want to protect them. For myself and for you. And for many generations to come.
+I work and play where the ocean meets the land. I’m a coastal oceanographer, paddleboarder, surfer, rower, sailor, teacher, and learner. Humans have always thought of coasts as playgrounds but we’ve more recently recognized that we also treat them as dumping grounds for our trash, (micro-)plastics, (treated) sewage, and CO<sub>2</sub>, to name a few. I study coastal waters because I want to protect them. For myself and for you. And for many generations to come.
 
 ### Watersports and Oceanography
 Click to access an interactive map of data I collected from a stand-up paddleboard on World Oceans Day 2015!
