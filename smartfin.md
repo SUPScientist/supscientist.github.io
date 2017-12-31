@@ -10,6 +10,6 @@ Here's a data visualization that I made to show off some of Smartfin's capabilit
 
 Smartfin surf data video
 
-As Smartfin's head of R&D, I am designing new sensors and scientific applications for Smartfin and planning on integrating it with alternate "platforms of opportunity," such as kayaks, sailboats, scuba gear, etc. I am reinventing the Smartfin's core firmware and hardware in order to take advantage of ever-evolving wireless data transfer technologies. With global cellular connectivity, Smartfin will be able to transmit data to the cloud almost as soon as the surfer exits the water, enabling near-real-time coastal data analytics. I am also adapting/miniaturizing technology from the [WavepHOx](../sup-science) in order to enable biogeochemical research using Smartfins. 
+As head of R&D, I am designing new sensors and scientific applications for Smartfin and planning on integrating it with alternate "platforms of opportunity," such as kayaks, sailboats, scuba gear, etc. I am reinventing the Smartfin's core firmware and hardware in order to take advantage of ever-evolving wireless data transfer technologies. With global cellular connectivity, Smartfin will be able to transmit data to the cloud almost as soon as the surfer exits the water, enabling near-real-time coastal data analytics. I am also adapting/miniaturizing technology from the [WavepHOx](../sup-science) in order to enable biogeochemical research using Smartfins. 
 
 Please check out the project's official website at [smartfin.org](https://smartfin.org) for much more info.

@@ -6,10 +6,12 @@ permalink: /about/
 
 I work and play where the ocean meets the land. I’m a coastal oceanographer, paddleboarder, surfer, rower, sailor, teacher, and learner. Humans have always thought of coasts as playgrounds but we’ve more recently recognized that we also treat them as dumping grounds for our trash, (micro-)plastics, (treated) sewage, fossil fuel CO<sub>2</sub> emissions, and countless other chemicals. I study coastal waters because I want to protect them. For myself and for you. And for many generations to come.
 
-### Watersports, Oceanography, and Data Science
+### Watersports, Applied Oceanography, and Data Science
 I’m a research and development engineer at [Scripps Institution of Oceanography](https://scripps.ucsd.edu) and the lead engineer for the [Smartfin Project](../smartfin). I invent and apply novel marine chemical sensing techniques and analytical approaches in the (mostly coastal) ocean in order to investigate natural and anthropogenic phenomena. Please explore my various projects as a [(paddleboarding and surfing) marine chemist @ Scripps Oceanography](../sup-science) and an environmental scientist @ the [San Francisco Estuary Institute](../estuaries) (2015 -- 16).
 
-For a quick snapshot of my work combining watersports, oceanography, and data science, check out the interactive map of data I collected from a stand-up paddleboard on World Oceans Day 2015!
+My primary R&D tools include Python, C/C++, LabVIEW, SolidWorks, and MATLAB and I have also dabbled in R.
+
+For a quick snapshot of my work combining watersports, applied oceanography, and data science, check out the interactive map of data I collected from a stand-up paddleboard on World Oceans Day 2015!
 
 <head>    
     <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
