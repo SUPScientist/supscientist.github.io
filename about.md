@@ -11,4 +11,4 @@ Click to access an interactive map of data I collected from a stand-up paddleboa
 
 INTERACTIVE MAP HERE!
 
-I’m currently the lead engineer for the [Smartfin Project](https://smartfin.org). Smartfin is a surfboard fin (more watercraft models to come) equipped with ocean sensors and a program designed to give environmental health advocates a way to contribute to cutting edge science just by doing what they love. Please explore my various projects as a (paddleboarding) marine chemist @ Scripps Oceanography and an environmental scientist @ the San Francisco Estuary Institute (2015 – 16).
+I’m a research and development engineer at [Scripps Institution of Oceanography](https://scripps.ucsd.edu) and the lead engineer for the [Smartfin Project](https://smartfin.org). I invent and apply novel marine chemical sensing techniques and analytical approaches in the (mostly coastal) ocean in order to investigate natural and anthropogenic phenomena. Please explore my various projects as a (paddleboarding) marine chemist @ Scripps Oceanography and an environmental scientist @ the San Francisco Estuary Institute (2015 – 16).
