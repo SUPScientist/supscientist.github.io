@@ -29,7 +29,7 @@ github_username:  supscientist
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-cayman
+theme: type-on-strap
 plugins:
   - jekyll-feed
 
@@ -42,6 +42,15 @@ defaults:
       layout: default
       #values
 
+# Site menu settings
+menu:
+  - title: "About"
+    url: "/about"
+  - title: "Resume/CV"
+    url: "/resume-cv"
+  - title: "Estuaries"
+    url: "/estuaries"
+# End
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
