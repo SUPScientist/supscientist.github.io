@@ -1,4 +1,4 @@
-For the nicely rendered version of my website, please visit [supscientist.github.io](supscientist.github.io)
+For the nicely rendered version of my website, please visit [supscientist.github.io](https://supscientist.github.io)
 
 I forked Flexible-Jekyll from a repo quite generously provided by [artemsheludko](https://github.com/artemsheludko).
 I'm leaving their original README.md intact below for this GitHub repo but changing the content of just about
