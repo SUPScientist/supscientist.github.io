@@ -1,3 +1,9 @@
+I forked Flexible-Jekyll from a repo quite generously provided by [artemsheludko](https://github.com/artemsheludko).
+I'm leaving their original README.md intact below for this GitHub repo but changing the content of just about
+every other file here. If you want more info or to use this theme, I'd highly recommend you
+go back to their oriignal repo (links below) and follow their instructions as I've removed
+(incidentally/accidentally) much of their great documentation. 
+
 # Flexible-Jekyll is a simple and clean theme for Jekyll
 
 ![](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/promo-img.jpg?raw=true)
