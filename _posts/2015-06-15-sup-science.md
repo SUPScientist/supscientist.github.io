@@ -15,7 +15,7 @@ SUP, Science is my way of reminding myself and others about our role in environm
 
 [KCET CA Coastal Trail KCET CA Coastal Trail](http://www.kcet.org/shows/california_coastal_trail/content/watch/scripps-wavephox.html)
 
-Scripps Oceanography: Around the Pier (web article)
+[Scripps Oceanography: Around the Pier](https://scripps.ucsd.edu/news/around-pier-standing-science)
 
 SUP, Science is all about scientific adventures. We strap a chemical sensor known as the WavepHOx (it measures pH and Oxygen) to Stand Up Paddleboards (SUPs) and paddle in and around the surf-zone. Paddleboards are ideal for near shore measurements because they are extremely mobile while barely disrupting the natural dynamics of the water and shallow ecosystems—-critical for accurate recordings of our environment. This means that our scientific discoveries won’t be hidden in the lab; they’ll be on the water’s surface where all can see and even participate.
 
