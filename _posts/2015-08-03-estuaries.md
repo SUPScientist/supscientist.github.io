@@ -14,6 +14,6 @@ I enjoy visualizing environmental datasets in different ways in order to extract
 
 ![png](../assets/img/LSB_fireworks.gif)
 
-Check out The Mooring Report, a monthly e-newsletter from SFEI (I’m the editor and a frequent contributor) which provides snapshots of San Francisco Bay’s ecosystem nutrition. Take a look at our latest edition [here](http://www.sfei.org/tmr/2016-06) and scroll to the bottom of that page to sign up for future editions!
+Check out The Mooring Report, a monthly e-newsletter from SFEI (I’m the editor and a frequent contributor) which provides snapshots of San Francisco Bay’s ecosystem nutrition. Take a look at our latest edition [here](https://www.sfei.org/tmr/2016-06) and scroll to the bottom of that page to sign up for future editions!
 
 Please check back as I update this page with publications and interesting discoveries about estuarine biogeochemistry and how it affects you!
