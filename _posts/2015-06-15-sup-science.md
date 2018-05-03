@@ -21,6 +21,6 @@ SUP, Science is all about scientific adventures. We strap a chemical sensor know
 
 I spearheaded SUP, Science as a graduate student at Scripps Institution of Oceanography. As an aspiring waterman, oceanographer, and engaged volunteer, I saw an immense opportunity to bring my interests together while meeting the humanity's need for a better understanding of our role in global change.
 
-<iframe width="560" height="315" src="../wavephox-wod.html" frameborder="0"></iframe>
+<iframe width="800" height="600" src="../wavephox-wod.html" frameborder="0"></iframe>
 
 SUP, Science is the result of generous support from Timothy Ray’s family and the Scripps Foundation for Science & the Environment. The WavepHOx was developed in Todd Martz‘s lab at Scripps Oceanography. Thank you!
