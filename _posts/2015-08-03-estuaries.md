@@ -2,7 +2,7 @@
 layout: post
 title: Estuaries
 date: 2015-08-03 00:00:00 -0700
-description: About Phil Bresnahan.
+description: Environmental science at SFEI.
 img: sfbay.jpg # Add image post (optional)
 tags: [water quality, estuary, biogeochemistry] # add tag
 ---
