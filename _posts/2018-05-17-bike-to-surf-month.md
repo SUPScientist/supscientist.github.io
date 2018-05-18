@@ -18,8 +18,8 @@ I am also excited to use my [#biketosurfmonth](https://www.instagram.com/explore
 
 My plan is to hit thirty different breaks along the fifty mile stretch from the Mexican border to Orange County, focusing on those closer to home (Pacific Beach) on week days and the more distant ones on weekends. I don't have it all scoped out yet but, as a start, the map below shows many of San Diego's iconic breaks (according to Magic Seaweed (thanks for getting their coordinates, Alan!)). They're all shown as simple icons now but, as I go, I'll fill them in with my data. I'll post (using [#biketosurf](https://www.instagram.com/explore/tags/biketosurf/) and [#biketosurfmonth](https://www.instagram.com/explore/tags/biketosurfmonth/)) rough plans for each morning session the night before. I hope you'll join me with bike and board for a few waves!
 
-<div class="intrinsic-container intrinsic-container-16x9">
-  <iframe src="../interactive-pages/msw-sandiego.html"></iframe>
+<div class="resp-container">
+    <iframe class="resp-iframe" src="../interactive-pages/msw-sandiego.html"></iframe>
 </div>
 
 Inspired by [Bike to Work Month](https://www.recreation.gov/marketing.do?goto=acm/Explore_And_More/exploreArticles/MayisNationalBikeMonth.htm), [Sustainable Surf](http://sustainablesurf.org/2015/09/bike-to-surf-week/), [My Wave Addiction](http://www.mywaveaddiction.com/bike-to-surf/index.html), and the ocean.
