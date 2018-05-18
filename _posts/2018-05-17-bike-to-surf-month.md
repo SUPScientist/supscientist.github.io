@@ -7,8 +7,8 @@ img: bike-to-surf.jpg
 tags: [cycling, surfing, San Diego, local, Smartfin, sensors] # add tag
 ---
 
-#Bike to Surf Month, June 2018
-##The Sustainable Pursuit of Micro-Adventure
+# Bike to Surf Month, June 2018
+## The Sustainable Pursuit of Micro-Adventure
 Exploration seems to imply--if not require--some sort of long journey. Usually at least one flight or road trip and probably a different time zone. It doesn't have to. In fact, perhaps responsible exploration and tourism shouldn't require long journeys at all.
 
 I know I'm not alone when I say that I'd like to go on an adventure but struggle to figure out how, when, and where. I've long dreamed of biking across a continent and paddling a country's coastline. Maybe someday I'll do at least one of those. But, for now, my plan is to chase micro-adventures: little trips with smaller carbon footprints that don't require putting the rest of my life on hold.
@@ -20,3 +20,5 @@ I am also excited to use my [#biketosurfmonth](https://www.instagram.com/explore
 My plan is to hit thirty different breaks along the fifty mile stretch from the Mexican border to Orange County, focusing on those closer to home (Pacific Beach) on week days and the more distant ones on weekends. I don't have it all scoped out yet but, as a start, the map below shows many of San Diego's iconic breaks (according to Magic Seaweed (thanks for getting their coordinates, Alan!)). They're all shown as empty dots now but, as I go, I'll fill them in and include my data. I'll post (using [#biketosurf](https://www.instagram.com/explore/tags/biketosurf/) and [#biketosurfmonth](https://www.instagram.com/explore/tags/biketosurfmonth/)) rough plans for each morning session the night before. I hope you'll join me with bike and board for a few waves!
 
 <iframe width="800" height="600" src="../interactive-pages/msw-sandiego.html" frameborder="0"></iframe>
+
+Inspired by [Bike to Work Month](https://www.recreation.gov/marketing.do?goto=acm/Explore_And_More/exploreArticles/MayisNationalBikeMonth.htm), [Sustainable Surf](http://sustainablesurf.org/2015/09/bike-to-surf-week/), [My Wave Addiction](http://www.mywaveaddiction.com/bike-to-surf/index.html), and the ocean. 
