@@ -1,0 +1,1568 @@
+<!DOCTYPE html>
+<head>    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script>L_PREFER_CANVAS = false; L_NO_TOUCH = false; L_DISABLE_3D = false;</script>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.2.0/dist/leaflet.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.2.0/dist/leaflet.css" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css" />
+    <link rel="stylesheet" href="https://rawgit.com/python-visualization/folium/master/folium/templates/leaflet.awesome.rotate.css" />
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    
+            <style> #map_109281af16134998a6d19866cd274594 {
+                position : relative;
+                width : 100.0%;
+                height: 100.0%;
+                left: 0.0%;
+                top: 0.0%;
+                }
+            </style>
+        
+</head>
+<body>    
+    
+            <div class="folium-map" id="map_109281af16134998a6d19866cd274594" ></div>
+        
+</body>
+<script>    
+    
+
+            
+                var bounds = null;
+            
+
+            var map_109281af16134998a6d19866cd274594 = L.map(
+                                  'map_109281af16134998a6d19866cd274594',
+                                  {center: [32.875,-117.265],
+                                  zoom: 10,
+                                  maxBounds: bounds,
+                                  layers: [],
+                                  worldCopyJump: false,
+                                  crs: L.CRS.EPSG3857
+                                 });
+            
+        
+    
+            var tile_layer_93f345fa817442599ef1f7a4277cf301 = L.tileLayer(
+                'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
+                {
+  "attribution": null,
+  "detectRetina": false,
+  "maxZoom": 18,
+  "minZoom": 1,
+  "noWrap": false,
+  "subdomains": "abc"
+}
+                ).addTo(map_109281af16134998a6d19866cd274594);
+        
+    
+            var tile_layer_d00be5bce32147a5b31ef12023d81b3f = L.tileLayer(
+                'http://services.arcgisonline.com/arcgis/rest/services/NatGeo_World_Map/MapServer/MapServer/tile/{z}/{y}/{x}',
+                {
+  "attribution": "ESRI",
+  "detectRetina": false,
+  "maxZoom": 18,
+  "minZoom": 1,
+  "noWrap": false,
+  "subdomains": "abc"
+}
+                ).addTo(map_109281af16134998a6d19866cd274594);
+        
+    
+            var tile_layer_8d79bbfb6fc8491798ec6a9934850525 = L.tileLayer(
+                'http://services.arcgisonline.com/arcgis/rest/services/Ocean/World_Ocean_Reference/MapServer/tile/{z}/{y}/{x}',
+                {
+  "attribution": "ESRI",
+  "detectRetina": false,
+  "maxZoom": 18,
+  "minZoom": 1,
+  "noWrap": false,
+  "subdomains": "abc"
+}
+                ).addTo(map_109281af16134998a6d19866cd274594);
+        
+    
+            var tile_layer_b72e0cd150e047ceb12e228cd6fdc62c = L.tileLayer(
+                'http://services.arcgisonline.com/arcgis/rest/services/Ocean/World_Ocean_Base/MapServer/tile/{z}/{y}/{x}',
+                {
+  "attribution": "ESRI",
+  "detectRetina": false,
+  "maxZoom": 18,
+  "minZoom": 1,
+  "noWrap": false,
+  "subdomains": "abc"
+}
+                ).addTo(map_109281af16134998a6d19866cd274594);
+        
+    
+            var layer_control_b69cb0f0a27d4923b3a73df6dbfa0aff = {
+                base_layers : { "openstreetmap" : tile_layer_93f345fa817442599ef1f7a4277cf301, },
+                overlays : { "NatGeo_World_Map" : tile_layer_d00be5bce32147a5b31ef12023d81b3f,"World_Ocean_Reference" : tile_layer_8d79bbfb6fc8491798ec6a9934850525,"World_Ocean_Base" : tile_layer_b72e0cd150e047ceb12e228cd6fdc62c, }
+                };
+            L.control.layers(
+                layer_control_b69cb0f0a27d4923b3a73df6dbfa0aff.base_layers,
+                layer_control_b69cb0f0a27d4923b3a73df6dbfa0aff.overlays,
+                {position: 'topright',
+                 collapsed: true,
+                 autoZIndex: true
+                }).addTo(map_109281af16134998a6d19866cd274594);
+        
+    
+
+            var marker_700e3feeb4824750a2c85ba56002bb47 = L.marker(
+                [33.0646,-117.3064],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_109281af16134998a6d19866cd274594);
+            
+    
+            var popup_ed11e44d3c3b45c390154230db8cf660 = L.popup({maxWidth: '300'});
+
+            
+                var html_9d4d168b91f646b6ad342266a68aaa44 = $('<div id="html_9d4d168b91f646b6ad342266a68aaa44" style="width: 100.0%; height: 100.0%;">Beacons</div>')[0];
+                popup_ed11e44d3c3b45c390154230db8cf660.setContent(html_9d4d168b91f646b6ad342266a68aaa44);
+            
+
+            marker_700e3feeb4824750a2c85ba56002bb47.bindPopup(popup_ed11e44d3c3b45c390154230db8cf660);
+
+            
+        
+    
+
+            var marker_51a936eaf42f481f94ffae5f5a813be2 = L.marker(
+                [32.8142,-117.275],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_109281af16134998a6d19866cd274594);
+            
+    
+            var popup_3a6d2f4c974249daa7fc758be963f617 = L.popup({maxWidth: '300'});
+
+            
+                var html_b07e41d541e54609b4531c44a38aec38 = $('<div id="html_b07e41d541e54609b4531c44a38aec38" style="width: 100.0%; height: 100.0%;">Birdrock</div>')[0];
+                popup_3a6d2f4c974249daa7fc758be963f617.setContent(html_b07e41d541e54609b4531c44a38aec38);
+            
+
+            marker_51a936eaf42f481f94ffae5f5a813be2.bindPopup(popup_3a6d2f4c974249daa7fc758be963f617);
+
+            
+        
+    
+
+            var marker_ef7abaee2d0a4efca3127ca2a2bfb70a = L.marker(
+                [33.0148,-117.2845],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_109281af16134998a6d19866cd274594);
+            
+    
+            var popup_ba8c8d24bc3c4e53bd04b412f053b5df = L.popup({maxWidth: '300'});
+
+            
+                var html_7eaf4ea751e84112b470f321d821185c = $('<div id="html_7eaf4ea751e84112b470f321d821185c" style="width: 100.0%; height: 100.0%;">Cardiff Reef</div>')[0];
+                popup_ba8c8d24bc3c4e53bd04b412f053b5df.setContent(html_7eaf4ea751e84112b470f321d821185c);
+            
+
+            marker_ef7abaee2d0a4efca3127ca2a2bfb70a.bindPopup(popup_ba8c8d24bc3c4e53bd04b412f053b5df);
+
+            
+        
+    
+
+            var marker_0164d7a63d824b47b64a9e529ed88f26 = L.marker(
+                [33.1577,-117.35600000000001],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_109281af16134998a6d19866cd274594);
+            
+    
+            var popup_1b3b959e86174bda96658d0c20d85672 = L.popup({maxWidth: '300'});
+
+            
+                var html_6db121125b4d4d68b0ce0d160a0e8026 = $('<div id="html_6db121125b4d4d68b0ce0d160a0e8026" style="width: 100.0%; height: 100.0%;">Carlsbad</div>')[0];
+                popup_1b3b959e86174bda96658d0c20d85672.setContent(html_6db121125b4d4d68b0ce0d160a0e8026);
+            
+
+            marker_0164d7a63d824b47b64a9e529ed88f26.bindPopup(popup_1b3b959e86174bda96658d0c20d85672);
+
+            
+        
+    
+
+            var marker_c523ef3b0e254078a782ce29e8444b19 = L.marker(
+                [32.959,-117.26799999999999],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_109281af16134998a6d19866cd274594);
+            
+    
+            var popup_c7dec0ee817e4c1e8468e1b0c190b62f = L.popup({maxWidth: '300'});
+
+            
+                var html_99fa1455226d42e29fd1332d038a123a = $('<div id="html_99fa1455226d42e29fd1332d038a123a" style="width: 100.0%; height: 100.0%;">Del Mar</div>')[0];
+                popup_c7dec0ee817e4c1e8468e1b0c190b62f.setContent(html_99fa1455226d42e29fd1332d038a123a);
+            
+
+            marker_c523ef3b0e254078a782ce29e8444b19.bindPopup(popup_c7dec0ee817e4c1e8468e1b0c190b62f);
+
+            
+        
+    
+
+            var marker_36ed845b5bef4656ae87c98f7cf29680 = L.marker(
+                [33.0758,-117.3112],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_109281af16134998a6d19866cd274594);
+            
+    
+            var popup_53d70690c83748fb8dd61e80c950177c = L.popup({maxWidth: '300'});
+
+            
+                var html_3c1f9744ceb644cc974b4c241b4034ba = $('<div id="html_3c1f9744ceb644cc974b4c241b4034ba" style="width: 100.0%; height: 100.0%;">Grandview</div>')[0];
+                popup_53d70690c83748fb8dd61e80c950177c.setContent(html_3c1f9744ceb644cc974b4c241b4034ba);
+            
+
+            marker_36ed845b5bef4656ae87c98f7cf29680.bindPopup(popup_53d70690c83748fb8dd61e80c950177c);
+
+            
+        
+    
+
+            var marker_38dd902d546e43ecaea3ee19282ed19d = L.marker(
+                [32.8396,-117.28399999999999],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_109281af16134998a6d19866cd274594);
+            
+    
+            var popup_b9714a72f30e40eb80611a75c94341b9 = L.popup({maxWidth: '300'});
+
+            
+                var html_0298935e0c204b1780064fd0d38f46cc = $('<div id="html_0298935e0c204b1780064fd0d38f46cc" style="width: 100.0%; height: 100.0%;">Horseshoe</div>')[0];
+                popup_b9714a72f30e40eb80611a75c94341b9.setContent(html_0298935e0c204b1780064fd0d38f46cc);
+            
+
+            marker_38dd902d546e43ecaea3ee19282ed19d.bindPopup(popup_b9714a72f30e40eb80611a75c94341b9);
+
+            
+        
+    
+
+            var marker_de565c3b50e74cc3b08d96b50255b54a = L.marker(
+                [32.5774,-117.134],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_109281af16134998a6d19866cd274594);
+            
+    
+            var popup_95509c8625d14b6097c17e8e4a83af8f = L.popup({maxWidth: '300'});
+
+            
+                var html_52203d309b0a47bf9e1925d8cfd4c9d9 = $('<div id="html_52203d309b0a47bf9e1925d8cfd4c9d9" style="width: 100.0%; height: 100.0%;">Imperial Beach</div>')[0];
+                popup_95509c8625d14b6097c17e8e4a83af8f.setContent(html_52203d309b0a47bf9e1925d8cfd4c9d9);
+            
+
+            marker_de565c3b50e74cc3b08d96b50255b54a.bindPopup(popup_95509c8625d14b6097c17e8e4a83af8f);
+
+            
+        
+    
+
+            var marker_7f50f054917b4e18accdb9f03296bf19 = L.marker(
+                [32.7762,-117.255],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_109281af16134998a6d19866cd274594);
+            
+    
+            var popup_141054208b374a759345f250496f16c5 = L.popup({maxWidth: '300'});
+
+            
+                var html_f0fbde535ac644da890ac98edac946dd = $('<div id="html_f0fbde535ac644da890ac98edac946dd" style="width: 100.0%; height: 100.0%;">Mission Beach (San Diego)</div>')[0];
+                popup_141054208b374a759345f250496f16c5.setContent(html_f0fbde535ac644da890ac98edac946dd);
+            
+
+            marker_7f50f054917b4e18accdb9f03296bf19.bindPopup(popup_141054208b374a759345f250496f16c5);
+
+            
+        
+    
+
+            var marker_595833713c08473b8631d6357d50ccb1 = L.marker(
+                [33.0481,-117.3001],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_109281af16134998a6d19866cd274594);
+            
+    
+            var popup_a903a503105a4d3f858959b4d13f8a9b = L.popup({maxWidth: '300'});
+
+            
+                var html_fd6c656808f4472db6aedfeddc073431 = $('<div id="html_fd6c656808f4472db6aedfeddc073431" style="width: 100.0%; height: 100.0%;">Moonlight</div>')[0];
+                popup_a903a503105a4d3f858959b4d13f8a9b.setContent(html_fd6c656808f4472db6aedfeddc073431);
+            
+
+            marker_595833713c08473b8631d6357d50ccb1.bindPopup(popup_a903a503105a4d3f858959b4d13f8a9b);
+
+            
+        
+    
+
+            var marker_f8c9c4c58c2b4915b37f87dcb772aea2 = L.marker(
+                [32.9754,-117.271],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_109281af16134998a6d19866cd274594);
+            
+    
+            var popup_e0d2a6230874411cbbba35e7d0e3b85b = L.popup({maxWidth: '300'});
+
+            
+                var html_68fc08da26bd432b84b648ccec5d85e6 = $('<div id="html_68fc08da26bd432b84b648ccec5d85e6" style="width: 100.0%; height: 100.0%;">North Del Mar</div>')[0];
+                popup_e0d2a6230874411cbbba35e7d0e3b85b.setContent(html_68fc08da26bd432b84b648ccec5d85e6);
+            
+
+            marker_f8c9c4c58c2b4915b37f87dcb772aea2.bindPopup(popup_e0d2a6230874411cbbba35e7d0e3b85b);
+
+            
+        
+    
+
+            var marker_c2cb23318ec5400f9b85353567a8cb1d = L.marker(
+                [32.7481,-117.256],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_109281af16134998a6d19866cd274594);
+            
+    
+            var popup_43af674d3bfe4db1b5185a237d904f12 = L.popup({maxWidth: '300'});
+
+            
+                var html_2da114f2d4e8422bb8e41d6051470f9b = $('<div id="html_2da114f2d4e8422bb8e41d6051470f9b" style="width: 100.0%; height: 100.0%;">Ocean beach</div>')[0];
+                popup_43af674d3bfe4db1b5185a237d904f12.setContent(html_2da114f2d4e8422bb8e41d6051470f9b);
+            
+
+            marker_c2cb23318ec5400f9b85353567a8cb1d.bindPopup(popup_43af674d3bfe4db1b5185a237d904f12);
+
+            
+        
+    
+
+            var marker_9ded8ef673d64781a954237a5a65ab68 = L.marker(
+                [33.1922,-117.38600000000001],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_109281af16134998a6d19866cd274594);
+            
+    
+            var popup_6d853cdd5ab5439599d3c0aba2bdcb1f = L.popup({maxWidth: '300'});
+
+            
+                var html_14e2d27d021a4db0a5c28aea34b6ce4a = $('<div id="html_14e2d27d021a4db0a5c28aea34b6ce4a" style="width: 100.0%; height: 100.0%;">Oceanside</div>')[0];
+                popup_6d853cdd5ab5439599d3c0aba2bdcb1f.setContent(html_14e2d27d021a4db0a5c28aea34b6ce4a);
+            
+
+            marker_9ded8ef673d64781a954237a5a65ab68.bindPopup(popup_6d853cdd5ab5439599d3c0aba2bdcb1f);
+
+            
+        
+    
+
+            var marker_ec80fd7cbeeb4ec8809949e90bde288c = L.marker(
+                [32.7965,-117.2581],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_109281af16134998a6d19866cd274594);
+            
+    
+            var popup_d6d3cb00eebe44ab89ee7cca8db85fd6 = L.popup({maxWidth: '300'});
+
+            
+                var html_768d34b9ca3d45b1aaa1e1d569a97b58 = $('<div id="html_768d34b9ca3d45b1aaa1e1d569a97b58" style="width: 100.0%; height: 100.0%;">Pacific Beach</div>')[0];
+                popup_d6d3cb00eebe44ab89ee7cca8db85fd6.setContent(html_768d34b9ca3d45b1aaa1e1d569a97b58);
+            
+
+            marker_ec80fd7cbeeb4ec8809949e90bde288c.bindPopup(popup_d6d3cb00eebe44ab89ee7cca8db85fd6);
+
+            
+        
+    
+
+            var marker_2e2550b61afd4d8a8ba1e5d1853c0674 = L.marker(
+                [32.6647,-117.24600000000001],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_109281af16134998a6d19866cd274594);
+            
+    
+            var popup_e38497f4b3804508ac69e8bce91e0322 = L.popup({maxWidth: '300'});
+
+            
+                var html_a8fbad7a5f364ab8b385538385475881 = $('<div id="html_a8fbad7a5f364ab8b385538385475881" style="width: 100.0%; height: 100.0%;">Point Loma</div>')[0];
+                popup_e38497f4b3804508ac69e8bce91e0322.setContent(html_a8fbad7a5f364ab8b385538385475881);
+            
+
+            marker_2e2550b61afd4d8a8ba1e5d1853c0674.bindPopup(popup_e38497f4b3804508ac69e8bce91e0322);
+
+            
+        
+    
+
+            var marker_93aa20ba8f2f419b82c7c96066e976b2 = L.marker(
+                [33.0886,-117.315],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_109281af16134998a6d19866cd274594);
+            
+    
+            var popup_9165c456d22347278b9ff6b88b3055ca = L.popup({maxWidth: '300'});
+
+            
+                var html_c72839d3cc92475788b638c912372aef = $('<div id="html_c72839d3cc92475788b638c912372aef" style="width: 100.0%; height: 100.0%;">Ponto</div>')[0];
+                popup_9165c456d22347278b9ff6b88b3055ca.setContent(html_c72839d3cc92475788b638c912372aef);
+            
+
+            marker_93aa20ba8f2f419b82c7c96066e976b2.bindPopup(popup_9165c456d22347278b9ff6b88b3055ca);
+
+            
+        
+    
+
+            var marker_a54fd4fa4cf14dd59c0490a4ec132f59 = L.marker(
+                [32.8642,-117.256],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_109281af16134998a6d19866cd274594);
+            
+    
+            var popup_7b2bcdb231744719987c690f3aff1c6e = L.popup({maxWidth: '300'});
+
+            
+                var html_51ccbc2b0f424db88524f99af5c9d56f = $('<div id="html_51ccbc2b0f424db88524f99af5c9d56f" style="width: 100.0%; height: 100.0%;">Scripps Pier/La Jolla</div>')[0];
+                popup_7b2bcdb231744719987c690f3aff1c6e.setContent(html_51ccbc2b0f424db88524f99af5c9d56f);
+            
+
+            marker_a54fd4fa4cf14dd59c0490a4ec132f59.bindPopup(popup_7b2bcdb231744719987c690f3aff1c6e);
+
+            
+        
+    
+
+            var marker_1f624d906cb9403f9f21be5e94893e30 = L.marker(
+                [32.99,-117.27],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_109281af16134998a6d19866cd274594);
+            
+    
+            var popup_275b174590534dec9b7274d2d7aa3b52 = L.popup({maxWidth: '300'});
+
+            
+                var html_8a7d6cac8dc145d9984ac9172a747337 = $('<div id="html_8a7d6cac8dc145d9984ac9172a747337" style="width: 100.0%; height: 100.0%;">Solana Beach</div>')[0];
+                popup_275b174590534dec9b7274d2d7aa3b52.setContent(html_8a7d6cac8dc145d9984ac9172a747337);
+            
+
+            marker_1f624d906cb9403f9f21be5e94893e30.bindPopup(popup_275b174590534dec9b7274d2d7aa3b52);
+
+            
+        
+    
+
+            var marker_0d26af55bf104308862645f15eb612a0 = L.marker(
+                [32.7159,-117.257],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_109281af16134998a6d19866cd274594);
+            
+    
+            var popup_2efd8b868e694acebd1edfe1f947fc1c = L.popup({maxWidth: '300'});
+
+            
+                var html_e14af334a318416eba094c20c4112bca = $('<div id="html_e14af334a318416eba094c20c4112bca" style="width: 100.0%; height: 100.0%;">Sunset Cliffs</div>')[0];
+                popup_2efd8b868e694acebd1edfe1f947fc1c.setContent(html_e14af334a318416eba094c20c4112bca);
+            
+
+            marker_0d26af55bf104308862645f15eb612a0.bindPopup(popup_2efd8b868e694acebd1edfe1f947fc1c);
+
+            
+        
+    
+
+            var marker_dd4307a0a1bc49a4a900eb407f29b8ea = L.marker(
+                [33.0346,-117.295],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_109281af16134998a6d19866cd274594);
+            
+    
+            var popup_9bd076a0abf24cd2a0b5a5ce10ea0d80 = L.popup({maxWidth: '300'});
+
+            
+                var html_00171999d6014eba9cc0439bedce2332 = $('<div id="html_00171999d6014eba9cc0439bedce2332" style="width: 100.0%; height: 100.0%;">Swamis</div>')[0];
+                popup_9bd076a0abf24cd2a0b5a5ce10ea0d80.setContent(html_00171999d6014eba9cc0439bedce2332);
+            
+
+            marker_dd4307a0a1bc49a4a900eb407f29b8ea.bindPopup(popup_9bd076a0abf24cd2a0b5a5ce10ea0d80);
+
+            
+        
+    
+
+            var marker_06acb6eeddd9402b8e35d10ba6d27e2c = L.marker(
+                [32.8833,-117.255],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_109281af16134998a6d19866cd274594);
+            
+    
+            var popup_df76ec23b0274d20be5e6fd2a1dd0832 = L.popup({maxWidth: '300'});
+
+            
+                var html_3a3b7b99fa474e929ef0ed02e501719b = $('<div id="html_3a3b7b99fa474e929ef0ed02e501719b" style="width: 100.0%; height: 100.0%;">Torrey Pines/Blacks Beach</div>')[0];
+                popup_df76ec23b0274d20be5e6fd2a1dd0832.setContent(html_3a3b7b99fa474e929ef0ed02e501719b);
+            
+
+            marker_06acb6eeddd9402b8e35d10ba6d27e2c.bindPopup(popup_df76ec23b0274d20be5e6fd2a1dd0832);
+
+            
+        
+    
+
+            var marker_7c9118878f4f4cf1b8999b2b42a08724 = L.marker(
+                [32.8295,-117.28200000000001],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_109281af16134998a6d19866cd274594);
+            
+    
+            var popup_9d5c15ee9049497cafebbf3e00fdbbad = L.popup({maxWidth: '300'});
+
+            
+                var html_44b03a6ee664477d94a85258dc4946e3 = $('<div id="html_44b03a6ee664477d94a85258dc4946e3" style="width: 100.0%; height: 100.0%;">Windansea Beach</div>')[0];
+                popup_9d5c15ee9049497cafebbf3e00fdbbad.setContent(html_44b03a6ee664477d94a85258dc4946e3);
+            
+
+            marker_7c9118878f4f4cf1b8999b2b42a08724.bindPopup(popup_9d5c15ee9049497cafebbf3e00fdbbad);
+
+            
+        
+    
+
+            var marker_8fc3ce7c8a2f468bb43e54745c97a99b = L.marker(
+                [33.0646,-117.3064],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_109281af16134998a6d19866cd274594);
+            
+    
+            var popup_ff264cc00d5a4dbe82e30e674bb9b2b0 = L.popup({maxWidth: '300'});
+
+            
+                var html_187455ad7bc8407aa2b15f23161cfc4c = $('<div id="html_187455ad7bc8407aa2b15f23161cfc4c" style="width: 100.0%; height: 100.0%;">Beacons</div>')[0];
+                popup_ff264cc00d5a4dbe82e30e674bb9b2b0.setContent(html_187455ad7bc8407aa2b15f23161cfc4c);
+            
+
+            marker_8fc3ce7c8a2f468bb43e54745c97a99b.bindPopup(popup_ff264cc00d5a4dbe82e30e674bb9b2b0);
+
+            
+        
+    
+
+            var marker_07b717aa8cf84bfd952800ab1abb0ba0 = L.marker(
+                [32.8142,-117.275],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_109281af16134998a6d19866cd274594);
+            
+    
+            var popup_d97e9e7b2fa242a5bb8b3b1b3599542d = L.popup({maxWidth: '300'});
+
+            
+                var html_420b2a364b814a579c79a90b916f1e15 = $('<div id="html_420b2a364b814a579c79a90b916f1e15" style="width: 100.0%; height: 100.0%;">Birdrock</div>')[0];
+                popup_d97e9e7b2fa242a5bb8b3b1b3599542d.setContent(html_420b2a364b814a579c79a90b916f1e15);
+            
+
+            marker_07b717aa8cf84bfd952800ab1abb0ba0.bindPopup(popup_d97e9e7b2fa242a5bb8b3b1b3599542d);
+
+            
+        
+    
+
+            var marker_3d271dcbb8d14db884f40b3e48ab7d0b = L.marker(
+                [33.0148,-117.2845],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_109281af16134998a6d19866cd274594);
+            
+    
+            var popup_00ed7f3f9f59486ca913c89233287f31 = L.popup({maxWidth: '300'});
+
+            
+                var html_2bb5ff75b1334a62861657558fd16431 = $('<div id="html_2bb5ff75b1334a62861657558fd16431" style="width: 100.0%; height: 100.0%;">Cardiff Reef</div>')[0];
+                popup_00ed7f3f9f59486ca913c89233287f31.setContent(html_2bb5ff75b1334a62861657558fd16431);
+            
+
+            marker_3d271dcbb8d14db884f40b3e48ab7d0b.bindPopup(popup_00ed7f3f9f59486ca913c89233287f31);
+
+            
+        
+    
+
+            var marker_ee3e85d045b24fdf8ad015ad8bd39c15 = L.marker(
+                [33.1577,-117.35600000000001],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_109281af16134998a6d19866cd274594);
+            
+    
+            var popup_a27aaf21f6dd4b368248c13e5f299650 = L.popup({maxWidth: '300'});
+
+            
+                var html_9a1090a0d1dc443281d08b575a6c6453 = $('<div id="html_9a1090a0d1dc443281d08b575a6c6453" style="width: 100.0%; height: 100.0%;">Carlsbad</div>')[0];
+                popup_a27aaf21f6dd4b368248c13e5f299650.setContent(html_9a1090a0d1dc443281d08b575a6c6453);
+            
+
+            marker_ee3e85d045b24fdf8ad015ad8bd39c15.bindPopup(popup_a27aaf21f6dd4b368248c13e5f299650);
+
+            
+        
+    
+
+            var marker_0871cf1cfae941b1becc5edf045981f1 = L.marker(
+                [32.959,-117.26799999999999],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_109281af16134998a6d19866cd274594);
+            
+    
+            var popup_589e483c1d1f4820a8b30eeda1aa9898 = L.popup({maxWidth: '300'});
+
+            
+                var html_5b176479a1054fcf8319d3c11954c410 = $('<div id="html_5b176479a1054fcf8319d3c11954c410" style="width: 100.0%; height: 100.0%;">Del Mar</div>')[0];
+                popup_589e483c1d1f4820a8b30eeda1aa9898.setContent(html_5b176479a1054fcf8319d3c11954c410);
+            
+
+            marker_0871cf1cfae941b1becc5edf045981f1.bindPopup(popup_589e483c1d1f4820a8b30eeda1aa9898);
+
+            
+        
+    
+
+            var marker_e3eac6ed9be9442c83924e7b041addf8 = L.marker(
+                [33.0758,-117.3112],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_109281af16134998a6d19866cd274594);
+            
+    
+            var popup_e11dc21acbe944e0b0c53e4d9c9b9587 = L.popup({maxWidth: '300'});
+
+            
+                var html_2933ab307f65448fba762cfcc2825d8a = $('<div id="html_2933ab307f65448fba762cfcc2825d8a" style="width: 100.0%; height: 100.0%;">Grandview</div>')[0];
+                popup_e11dc21acbe944e0b0c53e4d9c9b9587.setContent(html_2933ab307f65448fba762cfcc2825d8a);
+            
+
+            marker_e3eac6ed9be9442c83924e7b041addf8.bindPopup(popup_e11dc21acbe944e0b0c53e4d9c9b9587);
+
+            
+        
+    
+
+            var marker_270ce8a289fa434e94f858b514485be1 = L.marker(
+                [32.8396,-117.28399999999999],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_109281af16134998a6d19866cd274594);
+            
+    
+            var popup_139568270e9a4a0b990279e6256e6a21 = L.popup({maxWidth: '300'});
+
+            
+                var html_e816280028cf4172982722588d6a155a = $('<div id="html_e816280028cf4172982722588d6a155a" style="width: 100.0%; height: 100.0%;">Horseshoe</div>')[0];
+                popup_139568270e9a4a0b990279e6256e6a21.setContent(html_e816280028cf4172982722588d6a155a);
+            
+
+            marker_270ce8a289fa434e94f858b514485be1.bindPopup(popup_139568270e9a4a0b990279e6256e6a21);
+
+            
+        
+    
+
+            var marker_cc9c0b0676d54b97a9962c955ce9a240 = L.marker(
+                [32.5774,-117.134],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_109281af16134998a6d19866cd274594);
+            
+    
+            var popup_a4a652888ed44b73a45b1c45f8c40d50 = L.popup({maxWidth: '300'});
+
+            
+                var html_bde4d5731e3144c2bdd72b6e1f987b46 = $('<div id="html_bde4d5731e3144c2bdd72b6e1f987b46" style="width: 100.0%; height: 100.0%;">Imperial Beach</div>')[0];
+                popup_a4a652888ed44b73a45b1c45f8c40d50.setContent(html_bde4d5731e3144c2bdd72b6e1f987b46);
+            
+
+            marker_cc9c0b0676d54b97a9962c955ce9a240.bindPopup(popup_a4a652888ed44b73a45b1c45f8c40d50);
+
+            
+        
+    
+
+            var marker_51c1bb0432d740e0a363071a3ce9fb8b = L.marker(
+                [32.7762,-117.255],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_109281af16134998a6d19866cd274594);
+            
+    
+            var popup_f06807bb4121411eb31a2337b513aae2 = L.popup({maxWidth: '300'});
+
+            
+                var html_b5312fcfd6134647b1edd57c357b70de = $('<div id="html_b5312fcfd6134647b1edd57c357b70de" style="width: 100.0%; height: 100.0%;">Mission Beach (San Diego)</div>')[0];
+                popup_f06807bb4121411eb31a2337b513aae2.setContent(html_b5312fcfd6134647b1edd57c357b70de);
+            
+
+            marker_51c1bb0432d740e0a363071a3ce9fb8b.bindPopup(popup_f06807bb4121411eb31a2337b513aae2);
+
+            
+        
+    
+
+            var marker_c15400c024cc4711ba2a72e74478ed7b = L.marker(
+                [33.0481,-117.3001],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_109281af16134998a6d19866cd274594);
+            
+    
+            var popup_9e8e8b03e35d420ebf4fe8d26b8ede27 = L.popup({maxWidth: '300'});
+
+            
+                var html_048db295fc6e47f29854bcac64bd8ca6 = $('<div id="html_048db295fc6e47f29854bcac64bd8ca6" style="width: 100.0%; height: 100.0%;">Moonlight</div>')[0];
+                popup_9e8e8b03e35d420ebf4fe8d26b8ede27.setContent(html_048db295fc6e47f29854bcac64bd8ca6);
+            
+
+            marker_c15400c024cc4711ba2a72e74478ed7b.bindPopup(popup_9e8e8b03e35d420ebf4fe8d26b8ede27);
+
+            
+        
+    
+
+            var marker_a83105afe8c541668ba09cab31fb9875 = L.marker(
+                [32.9754,-117.271],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_109281af16134998a6d19866cd274594);
+            
+    
+            var popup_f06569f7ff3c41a6aef239fdfcabd95a = L.popup({maxWidth: '300'});
+
+            
+                var html_e12c974792884f3ca21eb69028d9130e = $('<div id="html_e12c974792884f3ca21eb69028d9130e" style="width: 100.0%; height: 100.0%;">North Del Mar</div>')[0];
+                popup_f06569f7ff3c41a6aef239fdfcabd95a.setContent(html_e12c974792884f3ca21eb69028d9130e);
+            
+
+            marker_a83105afe8c541668ba09cab31fb9875.bindPopup(popup_f06569f7ff3c41a6aef239fdfcabd95a);
+
+            
+        
+    
+
+            var marker_85083a79532448f0af6147601b02bc2f = L.marker(
+                [32.7481,-117.256],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_109281af16134998a6d19866cd274594);
+            
+    
+            var popup_f79dda60aeec44dea85b730f1e711beb = L.popup({maxWidth: '300'});
+
+            
+                var html_0b6ac81f7a2d4c86b655118c00b878a3 = $('<div id="html_0b6ac81f7a2d4c86b655118c00b878a3" style="width: 100.0%; height: 100.0%;">Ocean beach</div>')[0];
+                popup_f79dda60aeec44dea85b730f1e711beb.setContent(html_0b6ac81f7a2d4c86b655118c00b878a3);
+            
+
+            marker_85083a79532448f0af6147601b02bc2f.bindPopup(popup_f79dda60aeec44dea85b730f1e711beb);
+
+            
+        
+    
+
+            var marker_810d17f47eed42e2aa7da83fd78d0d83 = L.marker(
+                [33.1922,-117.38600000000001],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_109281af16134998a6d19866cd274594);
+            
+    
+            var popup_456aefdd253947ce9c5e29614a9231c8 = L.popup({maxWidth: '300'});
+
+            
+                var html_b1dc385c1acd42a3b32879eccf56a3f2 = $('<div id="html_b1dc385c1acd42a3b32879eccf56a3f2" style="width: 100.0%; height: 100.0%;">Oceanside</div>')[0];
+                popup_456aefdd253947ce9c5e29614a9231c8.setContent(html_b1dc385c1acd42a3b32879eccf56a3f2);
+            
+
+            marker_810d17f47eed42e2aa7da83fd78d0d83.bindPopup(popup_456aefdd253947ce9c5e29614a9231c8);
+
+            
+        
+    
+
+            var marker_8a24f566052f4f6b955f79a4a46fee53 = L.marker(
+                [32.7965,-117.2581],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_109281af16134998a6d19866cd274594);
+            
+    
+            var popup_6ffde15d0c62401dba07c24f8ffbe1e5 = L.popup({maxWidth: '300'});
+
+            
+                var html_6ffd8a6bb9fe4311811ebf3ca2c3247d = $('<div id="html_6ffd8a6bb9fe4311811ebf3ca2c3247d" style="width: 100.0%; height: 100.0%;">Pacific Beach</div>')[0];
+                popup_6ffde15d0c62401dba07c24f8ffbe1e5.setContent(html_6ffd8a6bb9fe4311811ebf3ca2c3247d);
+            
+
+            marker_8a24f566052f4f6b955f79a4a46fee53.bindPopup(popup_6ffde15d0c62401dba07c24f8ffbe1e5);
+
+            
+        
+    
+
+            var marker_8db4f5ebf09c47238763929cbf982ba8 = L.marker(
+                [32.6647,-117.24600000000001],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_109281af16134998a6d19866cd274594);
+            
+    
+            var popup_cdbf9e8ab8a349c293f42fa3193279a9 = L.popup({maxWidth: '300'});
+
+            
+                var html_2dae696c11344877a34162c36aeea76f = $('<div id="html_2dae696c11344877a34162c36aeea76f" style="width: 100.0%; height: 100.0%;">Point Loma</div>')[0];
+                popup_cdbf9e8ab8a349c293f42fa3193279a9.setContent(html_2dae696c11344877a34162c36aeea76f);
+            
+
+            marker_8db4f5ebf09c47238763929cbf982ba8.bindPopup(popup_cdbf9e8ab8a349c293f42fa3193279a9);
+
+            
+        
+    
+
+            var marker_7a202f0068c2468a91af5299804b1187 = L.marker(
+                [33.0886,-117.315],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_109281af16134998a6d19866cd274594);
+            
+    
+            var popup_0623de9898fa4110bd403a606f4fd6cf = L.popup({maxWidth: '300'});
+
+            
+                var html_05b5980018824672a6b5e2db9d90d474 = $('<div id="html_05b5980018824672a6b5e2db9d90d474" style="width: 100.0%; height: 100.0%;">Ponto</div>')[0];
+                popup_0623de9898fa4110bd403a606f4fd6cf.setContent(html_05b5980018824672a6b5e2db9d90d474);
+            
+
+            marker_7a202f0068c2468a91af5299804b1187.bindPopup(popup_0623de9898fa4110bd403a606f4fd6cf);
+
+            
+        
+    
+
+            var marker_5784ee8c8c7c41fdbfc2a52baeb94c7b = L.marker(
+                [32.8642,-117.256],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_109281af16134998a6d19866cd274594);
+            
+    
+            var popup_7fbf04dbd5d34b80b0902b9335b46a82 = L.popup({maxWidth: '300'});
+
+            
+                var html_5185153973704d24bbb749154c293420 = $('<div id="html_5185153973704d24bbb749154c293420" style="width: 100.0%; height: 100.0%;">Scripps Pier/La Jolla</div>')[0];
+                popup_7fbf04dbd5d34b80b0902b9335b46a82.setContent(html_5185153973704d24bbb749154c293420);
+            
+
+            marker_5784ee8c8c7c41fdbfc2a52baeb94c7b.bindPopup(popup_7fbf04dbd5d34b80b0902b9335b46a82);
+
+            
+        
+    
+
+            var marker_49276ffa0b8b49598432610b1820b791 = L.marker(
+                [32.99,-117.27],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_109281af16134998a6d19866cd274594);
+            
+    
+            var popup_7cc768f8e3a74aae9f8e07b51c194f1f = L.popup({maxWidth: '300'});
+
+            
+                var html_1a172158a0914880bb84782400420a89 = $('<div id="html_1a172158a0914880bb84782400420a89" style="width: 100.0%; height: 100.0%;">Solana Beach</div>')[0];
+                popup_7cc768f8e3a74aae9f8e07b51c194f1f.setContent(html_1a172158a0914880bb84782400420a89);
+            
+
+            marker_49276ffa0b8b49598432610b1820b791.bindPopup(popup_7cc768f8e3a74aae9f8e07b51c194f1f);
+
+            
+        
+    
+
+            var marker_1f20d66915994c9aad70db3e7d5111b0 = L.marker(
+                [32.7159,-117.257],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_109281af16134998a6d19866cd274594);
+            
+    
+            var popup_fdaeab59a5834733850a9c2f2bef97ee = L.popup({maxWidth: '300'});
+
+            
+                var html_3762ac55b7d74b788ce08d4dd46bd26b = $('<div id="html_3762ac55b7d74b788ce08d4dd46bd26b" style="width: 100.0%; height: 100.0%;">Sunset Cliffs</div>')[0];
+                popup_fdaeab59a5834733850a9c2f2bef97ee.setContent(html_3762ac55b7d74b788ce08d4dd46bd26b);
+            
+
+            marker_1f20d66915994c9aad70db3e7d5111b0.bindPopup(popup_fdaeab59a5834733850a9c2f2bef97ee);
+
+            
+        
+    
+
+            var marker_d2d9f40f8cdc4edfb576f03511e3cdc7 = L.marker(
+                [33.0346,-117.295],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_109281af16134998a6d19866cd274594);
+            
+    
+            var popup_b26711e970174760a85e5558778fe223 = L.popup({maxWidth: '300'});
+
+            
+                var html_317728220129427c89c504125ee660b1 = $('<div id="html_317728220129427c89c504125ee660b1" style="width: 100.0%; height: 100.0%;">Swamis</div>')[0];
+                popup_b26711e970174760a85e5558778fe223.setContent(html_317728220129427c89c504125ee660b1);
+            
+
+            marker_d2d9f40f8cdc4edfb576f03511e3cdc7.bindPopup(popup_b26711e970174760a85e5558778fe223);
+
+            
+        
+    
+
+            var marker_a4e8bade75da4fce8377e795d5a06ee0 = L.marker(
+                [32.8833,-117.255],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_109281af16134998a6d19866cd274594);
+            
+    
+            var popup_8631a2b04d584b18a306b806df477751 = L.popup({maxWidth: '300'});
+
+            
+                var html_7763ae6aca464209a087fc034418feb5 = $('<div id="html_7763ae6aca464209a087fc034418feb5" style="width: 100.0%; height: 100.0%;">Torrey Pines/Blacks Beach</div>')[0];
+                popup_8631a2b04d584b18a306b806df477751.setContent(html_7763ae6aca464209a087fc034418feb5);
+            
+
+            marker_a4e8bade75da4fce8377e795d5a06ee0.bindPopup(popup_8631a2b04d584b18a306b806df477751);
+
+            
+        
+    
+
+            var marker_6869d6c7c7c1406aa0d35945a0e87cdc = L.marker(
+                [32.8295,-117.28200000000001],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_109281af16134998a6d19866cd274594);
+            
+    
+            var popup_963fef7249ca41fcbebc92c218749f7c = L.popup({maxWidth: '300'});
+
+            
+                var html_c13de1a7f3194db68a823cbe0e3321a1 = $('<div id="html_c13de1a7f3194db68a823cbe0e3321a1" style="width: 100.0%; height: 100.0%;">Windansea Beach</div>')[0];
+                popup_963fef7249ca41fcbebc92c218749f7c.setContent(html_c13de1a7f3194db68a823cbe0e3321a1);
+            
+
+            marker_6869d6c7c7c1406aa0d35945a0e87cdc.bindPopup(popup_963fef7249ca41fcbebc92c218749f7c);
+
+            
+        
+    
+
+            var marker_7eea261c4906421dbfd532942b77a6c8 = L.marker(
+                [33.0646,-117.3064],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_109281af16134998a6d19866cd274594);
+            
+    
+            var popup_ddca9ec1732a4970af944beff3fa6ff4 = L.popup({maxWidth: '300'});
+
+            
+                var html_facd2fdf317742b1a1e0ef62901de111 = $('<div id="html_facd2fdf317742b1a1e0ef62901de111" style="width: 100.0%; height: 100.0%;">Beacons</div>')[0];
+                popup_ddca9ec1732a4970af944beff3fa6ff4.setContent(html_facd2fdf317742b1a1e0ef62901de111);
+            
+
+            marker_7eea261c4906421dbfd532942b77a6c8.bindPopup(popup_ddca9ec1732a4970af944beff3fa6ff4);
+
+            
+        
+    
+
+            var marker_35c71a1d56214505af6f20559381bae7 = L.marker(
+                [32.8142,-117.275],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_109281af16134998a6d19866cd274594);
+            
+    
+            var popup_94ac4c20331e4dee9de4e23a53fc7c20 = L.popup({maxWidth: '300'});
+
+            
+                var html_65d178f2efed4b4a93f889ad9a7a94fe = $('<div id="html_65d178f2efed4b4a93f889ad9a7a94fe" style="width: 100.0%; height: 100.0%;">Birdrock</div>')[0];
+                popup_94ac4c20331e4dee9de4e23a53fc7c20.setContent(html_65d178f2efed4b4a93f889ad9a7a94fe);
+            
+
+            marker_35c71a1d56214505af6f20559381bae7.bindPopup(popup_94ac4c20331e4dee9de4e23a53fc7c20);
+
+            
+        
+    
+
+            var marker_9bf6fd7437014fe5b22802fb8241c53e = L.marker(
+                [33.0148,-117.2845],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_109281af16134998a6d19866cd274594);
+            
+    
+            var popup_0c18708c5a37478cb1372346052b59e3 = L.popup({maxWidth: '300'});
+
+            
+                var html_e80697a6a8f3422aa5a268b064a0bfbc = $('<div id="html_e80697a6a8f3422aa5a268b064a0bfbc" style="width: 100.0%; height: 100.0%;">Cardiff Reef</div>')[0];
+                popup_0c18708c5a37478cb1372346052b59e3.setContent(html_e80697a6a8f3422aa5a268b064a0bfbc);
+            
+
+            marker_9bf6fd7437014fe5b22802fb8241c53e.bindPopup(popup_0c18708c5a37478cb1372346052b59e3);
+
+            
+        
+    
+
+            var marker_2e21d5137a1a42d7935895f67a6dbeff = L.marker(
+                [33.1577,-117.35600000000001],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_109281af16134998a6d19866cd274594);
+            
+    
+            var popup_e66f388480e64cc18150547a941ba95e = L.popup({maxWidth: '300'});
+
+            
+                var html_f3b4eb7cfea049198d59e4f53bf943d0 = $('<div id="html_f3b4eb7cfea049198d59e4f53bf943d0" style="width: 100.0%; height: 100.0%;">Carlsbad</div>')[0];
+                popup_e66f388480e64cc18150547a941ba95e.setContent(html_f3b4eb7cfea049198d59e4f53bf943d0);
+            
+
+            marker_2e21d5137a1a42d7935895f67a6dbeff.bindPopup(popup_e66f388480e64cc18150547a941ba95e);
+
+            
+        
+    
+
+            var marker_682d6d31f073458fac64669dea5189ac = L.marker(
+                [32.959,-117.26799999999999],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_109281af16134998a6d19866cd274594);
+            
+    
+            var popup_42a35fb78b284af682cca837ca0f53c2 = L.popup({maxWidth: '300'});
+
+            
+                var html_581e7e76b00d416bac3967c0ef5938d3 = $('<div id="html_581e7e76b00d416bac3967c0ef5938d3" style="width: 100.0%; height: 100.0%;">Del Mar</div>')[0];
+                popup_42a35fb78b284af682cca837ca0f53c2.setContent(html_581e7e76b00d416bac3967c0ef5938d3);
+            
+
+            marker_682d6d31f073458fac64669dea5189ac.bindPopup(popup_42a35fb78b284af682cca837ca0f53c2);
+
+            
+        
+    
+
+            var marker_771709334e0f4b8d8e85cc30dca27e5b = L.marker(
+                [33.0758,-117.3112],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_109281af16134998a6d19866cd274594);
+            
+    
+            var popup_db6e2b718a59487d8de5db122b689924 = L.popup({maxWidth: '300'});
+
+            
+                var html_11ebffe2df5c42eca0cea0f65a97b7c9 = $('<div id="html_11ebffe2df5c42eca0cea0f65a97b7c9" style="width: 100.0%; height: 100.0%;">Grandview</div>')[0];
+                popup_db6e2b718a59487d8de5db122b689924.setContent(html_11ebffe2df5c42eca0cea0f65a97b7c9);
+            
+
+            marker_771709334e0f4b8d8e85cc30dca27e5b.bindPopup(popup_db6e2b718a59487d8de5db122b689924);
+
+            
+        
+    
+
+            var marker_a2acb50fdd4b43c4a027af62838353b7 = L.marker(
+                [32.8396,-117.28399999999999],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_109281af16134998a6d19866cd274594);
+            
+    
+            var popup_b21e9614858c4d858a9d9b8b7ef1d790 = L.popup({maxWidth: '300'});
+
+            
+                var html_5ca81eff7b374b4f8c44472ee724ebfb = $('<div id="html_5ca81eff7b374b4f8c44472ee724ebfb" style="width: 100.0%; height: 100.0%;">Horseshoe</div>')[0];
+                popup_b21e9614858c4d858a9d9b8b7ef1d790.setContent(html_5ca81eff7b374b4f8c44472ee724ebfb);
+            
+
+            marker_a2acb50fdd4b43c4a027af62838353b7.bindPopup(popup_b21e9614858c4d858a9d9b8b7ef1d790);
+
+            
+        
+    
+
+            var marker_eb36e33f23884b16b9a54812af7fd76c = L.marker(
+                [32.5774,-117.134],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_109281af16134998a6d19866cd274594);
+            
+    
+            var popup_a81f3faf110c4baf960a2c94e2b431ff = L.popup({maxWidth: '300'});
+
+            
+                var html_2e0a2150813b4b5da15dfb7b48a6182f = $('<div id="html_2e0a2150813b4b5da15dfb7b48a6182f" style="width: 100.0%; height: 100.0%;">Imperial Beach</div>')[0];
+                popup_a81f3faf110c4baf960a2c94e2b431ff.setContent(html_2e0a2150813b4b5da15dfb7b48a6182f);
+            
+
+            marker_eb36e33f23884b16b9a54812af7fd76c.bindPopup(popup_a81f3faf110c4baf960a2c94e2b431ff);
+
+            
+        
+    
+
+            var marker_edd7de418403484695593ef0e87219bd = L.marker(
+                [32.7762,-117.255],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_109281af16134998a6d19866cd274594);
+            
+    
+            var popup_70d7fce6ad254249b70b1844f47a4fb4 = L.popup({maxWidth: '300'});
+
+            
+                var html_2c337c2803264a54bf19e5bf9cf8cf54 = $('<div id="html_2c337c2803264a54bf19e5bf9cf8cf54" style="width: 100.0%; height: 100.0%;">Mission Beach (San Diego)</div>')[0];
+                popup_70d7fce6ad254249b70b1844f47a4fb4.setContent(html_2c337c2803264a54bf19e5bf9cf8cf54);
+            
+
+            marker_edd7de418403484695593ef0e87219bd.bindPopup(popup_70d7fce6ad254249b70b1844f47a4fb4);
+
+            
+        
+    
+
+            var marker_20c3efc564934ffdbc207d197e67cacc = L.marker(
+                [33.0481,-117.3001],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_109281af16134998a6d19866cd274594);
+            
+    
+            var popup_2601ccb019db4e7b9af92dcc10537b22 = L.popup({maxWidth: '300'});
+
+            
+                var html_57884f287e2241ce86fd37d16c360f29 = $('<div id="html_57884f287e2241ce86fd37d16c360f29" style="width: 100.0%; height: 100.0%;">Moonlight</div>')[0];
+                popup_2601ccb019db4e7b9af92dcc10537b22.setContent(html_57884f287e2241ce86fd37d16c360f29);
+            
+
+            marker_20c3efc564934ffdbc207d197e67cacc.bindPopup(popup_2601ccb019db4e7b9af92dcc10537b22);
+
+            
+        
+    
+
+            var marker_7b2bc162a3bd4556a1a8351ddc54119e = L.marker(
+                [32.9754,-117.271],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_109281af16134998a6d19866cd274594);
+            
+    
+            var popup_a965602bf01240919524b4e9741fad11 = L.popup({maxWidth: '300'});
+
+            
+                var html_63375decbb48444ba747627f1f44bcf3 = $('<div id="html_63375decbb48444ba747627f1f44bcf3" style="width: 100.0%; height: 100.0%;">North Del Mar</div>')[0];
+                popup_a965602bf01240919524b4e9741fad11.setContent(html_63375decbb48444ba747627f1f44bcf3);
+            
+
+            marker_7b2bc162a3bd4556a1a8351ddc54119e.bindPopup(popup_a965602bf01240919524b4e9741fad11);
+
+            
+        
+    
+
+            var marker_636ca8a6613946b583c4ea580b186764 = L.marker(
+                [32.7481,-117.256],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_109281af16134998a6d19866cd274594);
+            
+    
+            var popup_3a15c23d0e344f149b65dda6b5c1e0ef = L.popup({maxWidth: '300'});
+
+            
+                var html_3128f51c9a574e51a8348b1680f556c4 = $('<div id="html_3128f51c9a574e51a8348b1680f556c4" style="width: 100.0%; height: 100.0%;">Ocean beach</div>')[0];
+                popup_3a15c23d0e344f149b65dda6b5c1e0ef.setContent(html_3128f51c9a574e51a8348b1680f556c4);
+            
+
+            marker_636ca8a6613946b583c4ea580b186764.bindPopup(popup_3a15c23d0e344f149b65dda6b5c1e0ef);
+
+            
+        
+    
+
+            var marker_a23cf67c94a141a6bced5e426acf86fc = L.marker(
+                [33.1922,-117.38600000000001],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_109281af16134998a6d19866cd274594);
+            
+    
+            var popup_adfa0cf2716149b9a4c65d45b1fbbec8 = L.popup({maxWidth: '300'});
+
+            
+                var html_61646fa7e10b4a9ab90c5b83bbe8bb0d = $('<div id="html_61646fa7e10b4a9ab90c5b83bbe8bb0d" style="width: 100.0%; height: 100.0%;">Oceanside</div>')[0];
+                popup_adfa0cf2716149b9a4c65d45b1fbbec8.setContent(html_61646fa7e10b4a9ab90c5b83bbe8bb0d);
+            
+
+            marker_a23cf67c94a141a6bced5e426acf86fc.bindPopup(popup_adfa0cf2716149b9a4c65d45b1fbbec8);
+
+            
+        
+    
+
+            var marker_2fb7b8a887794abda4b662a48cb95c68 = L.marker(
+                [32.7965,-117.2581],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_109281af16134998a6d19866cd274594);
+            
+    
+            var popup_77aebb932e2c427db85aa450c86f79d6 = L.popup({maxWidth: '300'});
+
+            
+                var html_8d456f6197104a31b8112b8697434383 = $('<div id="html_8d456f6197104a31b8112b8697434383" style="width: 100.0%; height: 100.0%;">Pacific Beach</div>')[0];
+                popup_77aebb932e2c427db85aa450c86f79d6.setContent(html_8d456f6197104a31b8112b8697434383);
+            
+
+            marker_2fb7b8a887794abda4b662a48cb95c68.bindPopup(popup_77aebb932e2c427db85aa450c86f79d6);
+
+            
+        
+    
+
+            var marker_f2f6788ebdd7433f927c93de2999b71b = L.marker(
+                [32.6647,-117.24600000000001],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_109281af16134998a6d19866cd274594);
+            
+    
+            var popup_47fe4cd85e6146f5b87a2925eaf5309d = L.popup({maxWidth: '300'});
+
+            
+                var html_168448a8922f418399d24d548ccaa6f6 = $('<div id="html_168448a8922f418399d24d548ccaa6f6" style="width: 100.0%; height: 100.0%;">Point Loma</div>')[0];
+                popup_47fe4cd85e6146f5b87a2925eaf5309d.setContent(html_168448a8922f418399d24d548ccaa6f6);
+            
+
+            marker_f2f6788ebdd7433f927c93de2999b71b.bindPopup(popup_47fe4cd85e6146f5b87a2925eaf5309d);
+
+            
+        
+    
+
+            var marker_cfc45b93a8264bada1450ea676d8a0b7 = L.marker(
+                [33.0886,-117.315],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_109281af16134998a6d19866cd274594);
+            
+    
+            var popup_f59f3335c1154d18b7056732dfad01bf = L.popup({maxWidth: '300'});
+
+            
+                var html_200ab521266443448cefa71bb61a6c59 = $('<div id="html_200ab521266443448cefa71bb61a6c59" style="width: 100.0%; height: 100.0%;">Ponto</div>')[0];
+                popup_f59f3335c1154d18b7056732dfad01bf.setContent(html_200ab521266443448cefa71bb61a6c59);
+            
+
+            marker_cfc45b93a8264bada1450ea676d8a0b7.bindPopup(popup_f59f3335c1154d18b7056732dfad01bf);
+
+            
+        
+    
+
+            var marker_4f4eea5d8293460db6ea408e1003236f = L.marker(
+                [32.8642,-117.256],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_109281af16134998a6d19866cd274594);
+            
+    
+            var popup_c1b2375d405745aa876493ea0678538c = L.popup({maxWidth: '300'});
+
+            
+                var html_a80a8b33919c43219c3b794a6dfab6d8 = $('<div id="html_a80a8b33919c43219c3b794a6dfab6d8" style="width: 100.0%; height: 100.0%;">Scripps Pier/La Jolla</div>')[0];
+                popup_c1b2375d405745aa876493ea0678538c.setContent(html_a80a8b33919c43219c3b794a6dfab6d8);
+            
+
+            marker_4f4eea5d8293460db6ea408e1003236f.bindPopup(popup_c1b2375d405745aa876493ea0678538c);
+
+            
+        
+    
+
+            var marker_60dcfdca04594d868c1813e3c55d44b0 = L.marker(
+                [32.99,-117.27],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_109281af16134998a6d19866cd274594);
+            
+    
+            var popup_41ee8f8fa3da4731b56967241af2397e = L.popup({maxWidth: '300'});
+
+            
+                var html_acf2f50d913c4171a41fb7d0b6509cca = $('<div id="html_acf2f50d913c4171a41fb7d0b6509cca" style="width: 100.0%; height: 100.0%;">Solana Beach</div>')[0];
+                popup_41ee8f8fa3da4731b56967241af2397e.setContent(html_acf2f50d913c4171a41fb7d0b6509cca);
+            
+
+            marker_60dcfdca04594d868c1813e3c55d44b0.bindPopup(popup_41ee8f8fa3da4731b56967241af2397e);
+
+            
+        
+    
+
+            var marker_b9fbfb11faf349e8b30aee697c67d046 = L.marker(
+                [32.7159,-117.257],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_109281af16134998a6d19866cd274594);
+            
+    
+            var popup_9913d4b4d4474ef885e03830ca55809c = L.popup({maxWidth: '300'});
+
+            
+                var html_c400303ae2694b61ad52277283028451 = $('<div id="html_c400303ae2694b61ad52277283028451" style="width: 100.0%; height: 100.0%;">Sunset Cliffs</div>')[0];
+                popup_9913d4b4d4474ef885e03830ca55809c.setContent(html_c400303ae2694b61ad52277283028451);
+            
+
+            marker_b9fbfb11faf349e8b30aee697c67d046.bindPopup(popup_9913d4b4d4474ef885e03830ca55809c);
+
+            
+        
+    
+
+            var marker_0e190c893eb1478cb82869d39497143e = L.marker(
+                [33.0346,-117.295],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_109281af16134998a6d19866cd274594);
+            
+    
+            var popup_0b2ff74c622b487bac7ca18c32dfac59 = L.popup({maxWidth: '300'});
+
+            
+                var html_5342f6116b8a463ebafe483437f2c3a8 = $('<div id="html_5342f6116b8a463ebafe483437f2c3a8" style="width: 100.0%; height: 100.0%;">Swamis</div>')[0];
+                popup_0b2ff74c622b487bac7ca18c32dfac59.setContent(html_5342f6116b8a463ebafe483437f2c3a8);
+            
+
+            marker_0e190c893eb1478cb82869d39497143e.bindPopup(popup_0b2ff74c622b487bac7ca18c32dfac59);
+
+            
+        
+    
+
+            var marker_1985b631758d4e7289afd2dfb2d11fcf = L.marker(
+                [32.8833,-117.255],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_109281af16134998a6d19866cd274594);
+            
+    
+            var popup_d4a7e16014c24de2995e0d5b718799ef = L.popup({maxWidth: '300'});
+
+            
+                var html_a100fd8231524726ac8ad65b8d827e41 = $('<div id="html_a100fd8231524726ac8ad65b8d827e41" style="width: 100.0%; height: 100.0%;">Torrey Pines/Blacks Beach</div>')[0];
+                popup_d4a7e16014c24de2995e0d5b718799ef.setContent(html_a100fd8231524726ac8ad65b8d827e41);
+            
+
+            marker_1985b631758d4e7289afd2dfb2d11fcf.bindPopup(popup_d4a7e16014c24de2995e0d5b718799ef);
+
+            
+        
+    
+
+            var marker_48d74afe41a04df08e03a5764c64c805 = L.marker(
+                [32.8295,-117.28200000000001],
+                {
+                    icon: new L.Icon.Default()
+                    }
+                )
+                .addTo(map_109281af16134998a6d19866cd274594);
+            
+    
+            var popup_8bab4a9f5cfc4621a195d211ffeb68a0 = L.popup({maxWidth: '300'});
+
+            
+                var html_96a7a33b5430488eb4c0b81517fa81fc = $('<div id="html_96a7a33b5430488eb4c0b81517fa81fc" style="width: 100.0%; height: 100.0%;">Windansea Beach</div>')[0];
+                popup_8bab4a9f5cfc4621a195d211ffeb68a0.setContent(html_96a7a33b5430488eb4c0b81517fa81fc);
+            
+
+            marker_48d74afe41a04df08e03a5764c64c805.bindPopup(popup_8bab4a9f5cfc4621a195d211ffeb68a0);
+
+            
+        
+</script>
