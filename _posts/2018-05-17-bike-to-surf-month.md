@@ -1,14 +1,13 @@
 ---
 layout: post
-title: Bike to Surf Month
+title: Bike to Surf Month: June 2018
 date: 2018-05-18 00:00:00 -0700
 description: Biking around San Diego County's surf breaks.
 img: bike-to-surf.jpg
 tags: [cycling, surfing, San Diego, local, Smartfin, sensors] # add tag
 ---
 
-## Bike to Surf Month, June 2018
-### The Sustainable Pursuit of Micro-Adventure
+### The Sustainable Pursuit of Micro-Adventures
 Exploration seems to imply--if not require--some sort of long journey. Usually at least one flight or road trip and probably a different time zone. It doesn't have to. In fact, perhaps responsible exploration and tourism shouldn't require long journeys at all.
 
 I know I'm not alone when I say that I'd like to go on an adventure but struggle to figure out how, when, and where. I've long dreamed of biking across a continent and paddling a country's coastline. Maybe someday I'll do at least one of those. But, for now, my plan is to chase micro-adventures: little trips with smaller carbon footprints that don't require putting the rest of my life on hold.
