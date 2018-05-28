@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<head>    
+<head>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
     <script>L_PREFER_CANVAS = false; L_NO_TOUCH = false; L_DISABLE_3D = false;</script>
     <script src="https://cdn.jsdelivr.net/npm/leaflet@1.2.0/dist/leaflet.js"></script>
@@ -14,8 +13,8 @@
     <link rel="stylesheet" href="https://rawgit.com/python-visualization/folium/master/folium/templates/leaflet.awesome.rotate.css" />
     <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
     <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
-    
-            <style> #map_109281af16134998a6d19866cd274594 {
+
+            <style> #map_4c555b647aad40a8b47cadd5f3f295e2 {
                 position : relative;
                 width : 100.0%;
                 height: 100.0%;
@@ -23,22 +22,22 @@
                 top: 0.0%;
                 }
             </style>
-        
+
 </head>
-<body>    
-    
-            <div class="folium-map" id="map_109281af16134998a6d19866cd274594" ></div>
-        
+<body>
+
+            <div class="folium-map" id="map_4c555b647aad40a8b47cadd5f3f295e2" ></div>
+
 </body>
-<script>    
-    
+<script>
 
-            
+
+
                 var bounds = null;
-            
 
-            var map_109281af16134998a6d19866cd274594 = L.map(
-                                  'map_109281af16134998a6d19866cd274594',
+
+            var map_4c555b647aad40a8b47cadd5f3f295e2 = L.map(
+                                  'map_4c555b647aad40a8b47cadd5f3f295e2',
                                   {center: [32.875,-117.265],
                                   zoom: 10,
                                   maxBounds: bounds,
@@ -46,10 +45,10 @@
                                   worldCopyJump: false,
                                   crs: L.CRS.EPSG3857
                                  });
-            
-        
-    
-            var tile_layer_93f345fa817442599ef1f7a4277cf301 = L.tileLayer(
+
+
+
+            var tile_layer_b7e3d57abd254559b24d0738c7f2489e = L.tileLayer(
                 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
                 {
   "attribution": null,
@@ -59,10 +58,10 @@
   "noWrap": false,
   "subdomains": "abc"
 }
-                ).addTo(map_109281af16134998a6d19866cd274594);
-        
-    
-            var tile_layer_d00be5bce32147a5b31ef12023d81b3f = L.tileLayer(
+                ).addTo(map_4c555b647aad40a8b47cadd5f3f295e2);
+
+
+            var tile_layer_d5eb8ea29a4d40aaba0153996d049370 = L.tileLayer(
                 'http://services.arcgisonline.com/arcgis/rest/services/NatGeo_World_Map/MapServer/MapServer/tile/{z}/{y}/{x}',
                 {
   "attribution": "ESRI",
@@ -72,23 +71,10 @@
   "noWrap": false,
   "subdomains": "abc"
 }
-                ).addTo(map_109281af16134998a6d19866cd274594);
-        
-    
-            var tile_layer_8d79bbfb6fc8491798ec6a9934850525 = L.tileLayer(
-                'http://services.arcgisonline.com/arcgis/rest/services/Ocean/World_Ocean_Reference/MapServer/tile/{z}/{y}/{x}',
-                {
-  "attribution": "ESRI",
-  "detectRetina": false,
-  "maxZoom": 18,
-  "minZoom": 1,
-  "noWrap": false,
-  "subdomains": "abc"
-}
-                ).addTo(map_109281af16134998a6d19866cd274594);
-        
-    
-            var tile_layer_b72e0cd150e047ceb12e228cd6fdc62c = L.tileLayer(
+                ).addTo(map_4c555b647aad40a8b47cadd5f3f295e2);
+
+
+            var tile_layer_5c36f151b96645f49862b1764efdfc81 = L.tileLayer(
                 'http://services.arcgisonline.com/arcgis/rest/services/Ocean/World_Ocean_Base/MapServer/tile/{z}/{y}/{x}',
                 {
   "attribution": "ESRI",
@@ -98,1471 +84,3125 @@
   "noWrap": false,
   "subdomains": "abc"
 }
-                ).addTo(map_109281af16134998a6d19866cd274594);
-        
-    
-            var layer_control_b69cb0f0a27d4923b3a73df6dbfa0aff = {
-                base_layers : { "openstreetmap" : tile_layer_93f345fa817442599ef1f7a4277cf301, },
-                overlays : { "NatGeo_World_Map" : tile_layer_d00be5bce32147a5b31ef12023d81b3f,"World_Ocean_Reference" : tile_layer_8d79bbfb6fc8491798ec6a9934850525,"World_Ocean_Base" : tile_layer_b72e0cd150e047ceb12e228cd6fdc62c, }
+                ).addTo(map_4c555b647aad40a8b47cadd5f3f295e2);
+
+
+            var tile_layer_c297f4b2aab14154ad387c58a03033c9 = L.tileLayer(
+                'http://services.arcgisonline.com/arcgis/rest/services/Ocean/World_Ocean_Reference/MapServer/tile/{z}/{y}/{x}',
+                {
+  "attribution": "ESRI",
+  "detectRetina": false,
+  "maxZoom": 18,
+  "minZoom": 1,
+  "noWrap": false,
+  "subdomains": "abc"
+}
+                ).addTo(map_4c555b647aad40a8b47cadd5f3f295e2);
+
+
+            var layer_control_a46741c67a3a4536993d91b1f1b6d28f = {
+                base_layers : { "openstreetmap" : tile_layer_b7e3d57abd254559b24d0738c7f2489e, },
+                overlays : { "NatGeo_World_Map" : tile_layer_d5eb8ea29a4d40aaba0153996d049370,"World_Ocean_Base" : tile_layer_5c36f151b96645f49862b1764efdfc81,"World_Ocean_Reference" : tile_layer_c297f4b2aab14154ad387c58a03033c9, }
                 };
             L.control.layers(
-                layer_control_b69cb0f0a27d4923b3a73df6dbfa0aff.base_layers,
-                layer_control_b69cb0f0a27d4923b3a73df6dbfa0aff.overlays,
+                layer_control_a46741c67a3a4536993d91b1f1b6d28f.base_layers,
+                layer_control_a46741c67a3a4536993d91b1f1b6d28f.overlays,
                 {position: 'topright',
                  collapsed: true,
                  autoZIndex: true
-                }).addTo(map_109281af16134998a6d19866cd274594);
-        
-    
+                }).addTo(map_4c555b647aad40a8b47cadd5f3f295e2);
 
-            var marker_700e3feeb4824750a2c85ba56002bb47 = L.marker(
-                [33.0646,-117.3064],
+
+            var circle_marker_36cfe18f648d4b228cbb99d9379ceec2 = L.circleMarker(
+                [33.201538,-117.39413200000001],
                 {
-                    icon: new L.Icon.Default()
-                    }
-                )
-                .addTo(map_109281af16134998a6d19866cd274594);
-            
-    
-            var popup_ed11e44d3c3b45c390154230db8cf660 = L.popup({maxWidth: '300'});
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": false,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 2,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_4c555b647aad40a8b47cadd5f3f295e2);
 
-            
-                var html_9d4d168b91f646b6ad342266a68aaa44 = $('<div id="html_9d4d168b91f646b6ad342266a68aaa44" style="width: 100.0%; height: 100.0%;">Beacons</div>')[0];
-                popup_ed11e44d3c3b45c390154230db8cf660.setContent(html_9d4d168b91f646b6ad342266a68aaa44);
-            
 
-            marker_700e3feeb4824750a2c85ba56002bb47.bindPopup(popup_ed11e44d3c3b45c390154230db8cf660);
+            var popup_afc76ed6301a4482939ce08df1b85678 = L.popup({maxWidth: '300'});
 
-            
-        
-    
 
-            var marker_51a936eaf42f481f94ffae5f5a813be2 = L.marker(
-                [32.8142,-117.275],
-                {
-                    icon: new L.Icon.Default()
-                    }
-                )
-                .addTo(map_109281af16134998a6d19866cd274594);
-            
-    
-            var popup_3a6d2f4c974249daa7fc758be963f617 = L.popup({maxWidth: '300'});
+                var html_9ded6db6d155499d80ca51f6213e2f35 = $('<div id="html_9ded6db6d155499d80ca51f6213e2f35" style="width: 100.0%; height: 100.0%;"><a href="https://www.google.com/maps/dir/Scripps+Institution+of+Oceanography,+8622+Kennel+Way,+La+Jolla,+CA+92037/33.201538,-117.39413200000001/@32.8857266,-117.4829295,10z/data=!4m2!4m1!3e1">Oceanside Harbor</a></div>')[0];
+                popup_afc76ed6301a4482939ce08df1b85678.setContent(html_9ded6db6d155499d80ca51f6213e2f35);
 
-            
-                var html_b07e41d541e54609b4531c44a38aec38 = $('<div id="html_b07e41d541e54609b4531c44a38aec38" style="width: 100.0%; height: 100.0%;">Birdrock</div>')[0];
-                popup_3a6d2f4c974249daa7fc758be963f617.setContent(html_b07e41d541e54609b4531c44a38aec38);
-            
 
-            marker_51a936eaf42f481f94ffae5f5a813be2.bindPopup(popup_3a6d2f4c974249daa7fc758be963f617);
+            circle_marker_36cfe18f648d4b228cbb99d9379ceec2.bindPopup(popup_afc76ed6301a4482939ce08df1b85678);
 
-            
-        
-    
 
-            var marker_ef7abaee2d0a4efca3127ca2a2bfb70a = L.marker(
-                [33.0148,-117.2845],
-                {
-                    icon: new L.Icon.Default()
-                    }
-                )
-                .addTo(map_109281af16134998a6d19866cd274594);
-            
-    
-            var popup_ba8c8d24bc3c4e53bd04b412f053b5df = L.popup({maxWidth: '300'});
 
-            
-                var html_7eaf4ea751e84112b470f321d821185c = $('<div id="html_7eaf4ea751e84112b470f321d821185c" style="width: 100.0%; height: 100.0%;">Cardiff Reef</div>')[0];
-                popup_ba8c8d24bc3c4e53bd04b412f053b5df.setContent(html_7eaf4ea751e84112b470f321d821185c);
-            
 
-            marker_ef7abaee2d0a4efca3127ca2a2bfb70a.bindPopup(popup_ba8c8d24bc3c4e53bd04b412f053b5df);
-
-            
-        
-    
-
-            var marker_0164d7a63d824b47b64a9e529ed88f26 = L.marker(
-                [33.1577,-117.35600000000001],
-                {
-                    icon: new L.Icon.Default()
-                    }
-                )
-                .addTo(map_109281af16134998a6d19866cd274594);
-            
-    
-            var popup_1b3b959e86174bda96658d0c20d85672 = L.popup({maxWidth: '300'});
-
-            
-                var html_6db121125b4d4d68b0ce0d160a0e8026 = $('<div id="html_6db121125b4d4d68b0ce0d160a0e8026" style="width: 100.0%; height: 100.0%;">Carlsbad</div>')[0];
-                popup_1b3b959e86174bda96658d0c20d85672.setContent(html_6db121125b4d4d68b0ce0d160a0e8026);
-            
-
-            marker_0164d7a63d824b47b64a9e529ed88f26.bindPopup(popup_1b3b959e86174bda96658d0c20d85672);
-
-            
-        
-    
-
-            var marker_c523ef3b0e254078a782ce29e8444b19 = L.marker(
-                [32.959,-117.26799999999999],
-                {
-                    icon: new L.Icon.Default()
-                    }
-                )
-                .addTo(map_109281af16134998a6d19866cd274594);
-            
-    
-            var popup_c7dec0ee817e4c1e8468e1b0c190b62f = L.popup({maxWidth: '300'});
-
-            
-                var html_99fa1455226d42e29fd1332d038a123a = $('<div id="html_99fa1455226d42e29fd1332d038a123a" style="width: 100.0%; height: 100.0%;">Del Mar</div>')[0];
-                popup_c7dec0ee817e4c1e8468e1b0c190b62f.setContent(html_99fa1455226d42e29fd1332d038a123a);
-            
-
-            marker_c523ef3b0e254078a782ce29e8444b19.bindPopup(popup_c7dec0ee817e4c1e8468e1b0c190b62f);
-
-            
-        
-    
-
-            var marker_36ed845b5bef4656ae87c98f7cf29680 = L.marker(
-                [33.0758,-117.3112],
-                {
-                    icon: new L.Icon.Default()
-                    }
-                )
-                .addTo(map_109281af16134998a6d19866cd274594);
-            
-    
-            var popup_53d70690c83748fb8dd61e80c950177c = L.popup({maxWidth: '300'});
-
-            
-                var html_3c1f9744ceb644cc974b4c241b4034ba = $('<div id="html_3c1f9744ceb644cc974b4c241b4034ba" style="width: 100.0%; height: 100.0%;">Grandview</div>')[0];
-                popup_53d70690c83748fb8dd61e80c950177c.setContent(html_3c1f9744ceb644cc974b4c241b4034ba);
-            
-
-            marker_36ed845b5bef4656ae87c98f7cf29680.bindPopup(popup_53d70690c83748fb8dd61e80c950177c);
-
-            
-        
-    
-
-            var marker_38dd902d546e43ecaea3ee19282ed19d = L.marker(
-                [32.8396,-117.28399999999999],
-                {
-                    icon: new L.Icon.Default()
-                    }
-                )
-                .addTo(map_109281af16134998a6d19866cd274594);
-            
-    
-            var popup_b9714a72f30e40eb80611a75c94341b9 = L.popup({maxWidth: '300'});
-
-            
-                var html_0298935e0c204b1780064fd0d38f46cc = $('<div id="html_0298935e0c204b1780064fd0d38f46cc" style="width: 100.0%; height: 100.0%;">Horseshoe</div>')[0];
-                popup_b9714a72f30e40eb80611a75c94341b9.setContent(html_0298935e0c204b1780064fd0d38f46cc);
-            
-
-            marker_38dd902d546e43ecaea3ee19282ed19d.bindPopup(popup_b9714a72f30e40eb80611a75c94341b9);
-
-            
-        
-    
-
-            var marker_de565c3b50e74cc3b08d96b50255b54a = L.marker(
-                [32.5774,-117.134],
-                {
-                    icon: new L.Icon.Default()
-                    }
-                )
-                .addTo(map_109281af16134998a6d19866cd274594);
-            
-    
-            var popup_95509c8625d14b6097c17e8e4a83af8f = L.popup({maxWidth: '300'});
-
-            
-                var html_52203d309b0a47bf9e1925d8cfd4c9d9 = $('<div id="html_52203d309b0a47bf9e1925d8cfd4c9d9" style="width: 100.0%; height: 100.0%;">Imperial Beach</div>')[0];
-                popup_95509c8625d14b6097c17e8e4a83af8f.setContent(html_52203d309b0a47bf9e1925d8cfd4c9d9);
-            
-
-            marker_de565c3b50e74cc3b08d96b50255b54a.bindPopup(popup_95509c8625d14b6097c17e8e4a83af8f);
-
-            
-        
-    
-
-            var marker_7f50f054917b4e18accdb9f03296bf19 = L.marker(
-                [32.7762,-117.255],
-                {
-                    icon: new L.Icon.Default()
-                    }
-                )
-                .addTo(map_109281af16134998a6d19866cd274594);
-            
-    
-            var popup_141054208b374a759345f250496f16c5 = L.popup({maxWidth: '300'});
-
-            
-                var html_f0fbde535ac644da890ac98edac946dd = $('<div id="html_f0fbde535ac644da890ac98edac946dd" style="width: 100.0%; height: 100.0%;">Mission Beach (San Diego)</div>')[0];
-                popup_141054208b374a759345f250496f16c5.setContent(html_f0fbde535ac644da890ac98edac946dd);
-            
-
-            marker_7f50f054917b4e18accdb9f03296bf19.bindPopup(popup_141054208b374a759345f250496f16c5);
-
-            
-        
-    
-
-            var marker_595833713c08473b8631d6357d50ccb1 = L.marker(
-                [33.0481,-117.3001],
-                {
-                    icon: new L.Icon.Default()
-                    }
-                )
-                .addTo(map_109281af16134998a6d19866cd274594);
-            
-    
-            var popup_a903a503105a4d3f858959b4d13f8a9b = L.popup({maxWidth: '300'});
-
-            
-                var html_fd6c656808f4472db6aedfeddc073431 = $('<div id="html_fd6c656808f4472db6aedfeddc073431" style="width: 100.0%; height: 100.0%;">Moonlight</div>')[0];
-                popup_a903a503105a4d3f858959b4d13f8a9b.setContent(html_fd6c656808f4472db6aedfeddc073431);
-            
-
-            marker_595833713c08473b8631d6357d50ccb1.bindPopup(popup_a903a503105a4d3f858959b4d13f8a9b);
-
-            
-        
-    
-
-            var marker_f8c9c4c58c2b4915b37f87dcb772aea2 = L.marker(
-                [32.9754,-117.271],
-                {
-                    icon: new L.Icon.Default()
-                    }
-                )
-                .addTo(map_109281af16134998a6d19866cd274594);
-            
-    
-            var popup_e0d2a6230874411cbbba35e7d0e3b85b = L.popup({maxWidth: '300'});
-
-            
-                var html_68fc08da26bd432b84b648ccec5d85e6 = $('<div id="html_68fc08da26bd432b84b648ccec5d85e6" style="width: 100.0%; height: 100.0%;">North Del Mar</div>')[0];
-                popup_e0d2a6230874411cbbba35e7d0e3b85b.setContent(html_68fc08da26bd432b84b648ccec5d85e6);
-            
-
-            marker_f8c9c4c58c2b4915b37f87dcb772aea2.bindPopup(popup_e0d2a6230874411cbbba35e7d0e3b85b);
-
-            
-        
-    
-
-            var marker_c2cb23318ec5400f9b85353567a8cb1d = L.marker(
-                [32.7481,-117.256],
-                {
-                    icon: new L.Icon.Default()
-                    }
-                )
-                .addTo(map_109281af16134998a6d19866cd274594);
-            
-    
-            var popup_43af674d3bfe4db1b5185a237d904f12 = L.popup({maxWidth: '300'});
-
-            
-                var html_2da114f2d4e8422bb8e41d6051470f9b = $('<div id="html_2da114f2d4e8422bb8e41d6051470f9b" style="width: 100.0%; height: 100.0%;">Ocean beach</div>')[0];
-                popup_43af674d3bfe4db1b5185a237d904f12.setContent(html_2da114f2d4e8422bb8e41d6051470f9b);
-            
-
-            marker_c2cb23318ec5400f9b85353567a8cb1d.bindPopup(popup_43af674d3bfe4db1b5185a237d904f12);
-
-            
-        
-    
-
-            var marker_9ded8ef673d64781a954237a5a65ab68 = L.marker(
+            var circle_marker_a7838ea5a38b44a185771c835abfa0c7 = L.circleMarker(
                 [33.1922,-117.38600000000001],
                 {
-                    icon: new L.Icon.Default()
-                    }
-                )
-                .addTo(map_109281af16134998a6d19866cd274594);
-            
-    
-            var popup_6d853cdd5ab5439599d3c0aba2bdcb1f = L.popup({maxWidth: '300'});
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": false,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 2,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_4c555b647aad40a8b47cadd5f3f295e2);
 
-            
-                var html_14e2d27d021a4db0a5c28aea34b6ce4a = $('<div id="html_14e2d27d021a4db0a5c28aea34b6ce4a" style="width: 100.0%; height: 100.0%;">Oceanside</div>')[0];
-                popup_6d853cdd5ab5439599d3c0aba2bdcb1f.setContent(html_14e2d27d021a4db0a5c28aea34b6ce4a);
-            
 
-            marker_9ded8ef673d64781a954237a5a65ab68.bindPopup(popup_6d853cdd5ab5439599d3c0aba2bdcb1f);
+            var popup_7372d2e6df4a4fad98b45c050d1a767e = L.popup({maxWidth: '300'});
 
-            
-        
-    
 
-            var marker_ec80fd7cbeeb4ec8809949e90bde288c = L.marker(
-                [32.7965,-117.2581],
-                {
-                    icon: new L.Icon.Default()
-                    }
-                )
-                .addTo(map_109281af16134998a6d19866cd274594);
-            
-    
-            var popup_d6d3cb00eebe44ab89ee7cca8db85fd6 = L.popup({maxWidth: '300'});
+                var html_51e3bc12435645dab37863433fdf455f = $('<div id="html_51e3bc12435645dab37863433fdf455f" style="width: 100.0%; height: 100.0%;"><a href="https://www.google.com/maps/dir/Scripps+Institution+of+Oceanography,+8622+Kennel+Way,+La+Jolla,+CA+92037/33.1922,-117.38600000000001/@32.8857266,-117.4829295,10z/data=!4m2!4m1!3e1">Oceanside</a></div>')[0];
+                popup_7372d2e6df4a4fad98b45c050d1a767e.setContent(html_51e3bc12435645dab37863433fdf455f);
 
-            
-                var html_768d34b9ca3d45b1aaa1e1d569a97b58 = $('<div id="html_768d34b9ca3d45b1aaa1e1d569a97b58" style="width: 100.0%; height: 100.0%;">Pacific Beach</div>')[0];
-                popup_d6d3cb00eebe44ab89ee7cca8db85fd6.setContent(html_768d34b9ca3d45b1aaa1e1d569a97b58);
-            
 
-            marker_ec80fd7cbeeb4ec8809949e90bde288c.bindPopup(popup_d6d3cb00eebe44ab89ee7cca8db85fd6);
+            circle_marker_a7838ea5a38b44a185771c835abfa0c7.bindPopup(popup_7372d2e6df4a4fad98b45c050d1a767e);
 
-            
-        
-    
 
-            var marker_2e2550b61afd4d8a8ba1e5d1853c0674 = L.marker(
-                [32.6647,-117.24600000000001],
-                {
-                    icon: new L.Icon.Default()
-                    }
-                )
-                .addTo(map_109281af16134998a6d19866cd274594);
-            
-    
-            var popup_e38497f4b3804508ac69e8bce91e0322 = L.popup({maxWidth: '300'});
 
-            
-                var html_a8fbad7a5f364ab8b385538385475881 = $('<div id="html_a8fbad7a5f364ab8b385538385475881" style="width: 100.0%; height: 100.0%;">Point Loma</div>')[0];
-                popup_e38497f4b3804508ac69e8bce91e0322.setContent(html_a8fbad7a5f364ab8b385538385475881);
-            
 
-            marker_2e2550b61afd4d8a8ba1e5d1853c0674.bindPopup(popup_e38497f4b3804508ac69e8bce91e0322);
-
-            
-        
-    
-
-            var marker_93aa20ba8f2f419b82c7c96066e976b2 = L.marker(
-                [33.0886,-117.315],
-                {
-                    icon: new L.Icon.Default()
-                    }
-                )
-                .addTo(map_109281af16134998a6d19866cd274594);
-            
-    
-            var popup_9165c456d22347278b9ff6b88b3055ca = L.popup({maxWidth: '300'});
-
-            
-                var html_c72839d3cc92475788b638c912372aef = $('<div id="html_c72839d3cc92475788b638c912372aef" style="width: 100.0%; height: 100.0%;">Ponto</div>')[0];
-                popup_9165c456d22347278b9ff6b88b3055ca.setContent(html_c72839d3cc92475788b638c912372aef);
-            
-
-            marker_93aa20ba8f2f419b82c7c96066e976b2.bindPopup(popup_9165c456d22347278b9ff6b88b3055ca);
-
-            
-        
-    
-
-            var marker_a54fd4fa4cf14dd59c0490a4ec132f59 = L.marker(
-                [32.8642,-117.256],
-                {
-                    icon: new L.Icon.Default()
-                    }
-                )
-                .addTo(map_109281af16134998a6d19866cd274594);
-            
-    
-            var popup_7b2bcdb231744719987c690f3aff1c6e = L.popup({maxWidth: '300'});
-
-            
-                var html_51ccbc2b0f424db88524f99af5c9d56f = $('<div id="html_51ccbc2b0f424db88524f99af5c9d56f" style="width: 100.0%; height: 100.0%;">Scripps Pier/La Jolla</div>')[0];
-                popup_7b2bcdb231744719987c690f3aff1c6e.setContent(html_51ccbc2b0f424db88524f99af5c9d56f);
-            
-
-            marker_a54fd4fa4cf14dd59c0490a4ec132f59.bindPopup(popup_7b2bcdb231744719987c690f3aff1c6e);
-
-            
-        
-    
-
-            var marker_1f624d906cb9403f9f21be5e94893e30 = L.marker(
-                [32.99,-117.27],
-                {
-                    icon: new L.Icon.Default()
-                    }
-                )
-                .addTo(map_109281af16134998a6d19866cd274594);
-            
-    
-            var popup_275b174590534dec9b7274d2d7aa3b52 = L.popup({maxWidth: '300'});
-
-            
-                var html_8a7d6cac8dc145d9984ac9172a747337 = $('<div id="html_8a7d6cac8dc145d9984ac9172a747337" style="width: 100.0%; height: 100.0%;">Solana Beach</div>')[0];
-                popup_275b174590534dec9b7274d2d7aa3b52.setContent(html_8a7d6cac8dc145d9984ac9172a747337);
-            
-
-            marker_1f624d906cb9403f9f21be5e94893e30.bindPopup(popup_275b174590534dec9b7274d2d7aa3b52);
-
-            
-        
-    
-
-            var marker_0d26af55bf104308862645f15eb612a0 = L.marker(
-                [32.7159,-117.257],
-                {
-                    icon: new L.Icon.Default()
-                    }
-                )
-                .addTo(map_109281af16134998a6d19866cd274594);
-            
-    
-            var popup_2efd8b868e694acebd1edfe1f947fc1c = L.popup({maxWidth: '300'});
-
-            
-                var html_e14af334a318416eba094c20c4112bca = $('<div id="html_e14af334a318416eba094c20c4112bca" style="width: 100.0%; height: 100.0%;">Sunset Cliffs</div>')[0];
-                popup_2efd8b868e694acebd1edfe1f947fc1c.setContent(html_e14af334a318416eba094c20c4112bca);
-            
-
-            marker_0d26af55bf104308862645f15eb612a0.bindPopup(popup_2efd8b868e694acebd1edfe1f947fc1c);
-
-            
-        
-    
-
-            var marker_dd4307a0a1bc49a4a900eb407f29b8ea = L.marker(
-                [33.0346,-117.295],
-                {
-                    icon: new L.Icon.Default()
-                    }
-                )
-                .addTo(map_109281af16134998a6d19866cd274594);
-            
-    
-            var popup_9bd076a0abf24cd2a0b5a5ce10ea0d80 = L.popup({maxWidth: '300'});
-
-            
-                var html_00171999d6014eba9cc0439bedce2332 = $('<div id="html_00171999d6014eba9cc0439bedce2332" style="width: 100.0%; height: 100.0%;">Swamis</div>')[0];
-                popup_9bd076a0abf24cd2a0b5a5ce10ea0d80.setContent(html_00171999d6014eba9cc0439bedce2332);
-            
-
-            marker_dd4307a0a1bc49a4a900eb407f29b8ea.bindPopup(popup_9bd076a0abf24cd2a0b5a5ce10ea0d80);
-
-            
-        
-    
-
-            var marker_06acb6eeddd9402b8e35d10ba6d27e2c = L.marker(
-                [32.8833,-117.255],
-                {
-                    icon: new L.Icon.Default()
-                    }
-                )
-                .addTo(map_109281af16134998a6d19866cd274594);
-            
-    
-            var popup_df76ec23b0274d20be5e6fd2a1dd0832 = L.popup({maxWidth: '300'});
-
-            
-                var html_3a3b7b99fa474e929ef0ed02e501719b = $('<div id="html_3a3b7b99fa474e929ef0ed02e501719b" style="width: 100.0%; height: 100.0%;">Torrey Pines/Blacks Beach</div>')[0];
-                popup_df76ec23b0274d20be5e6fd2a1dd0832.setContent(html_3a3b7b99fa474e929ef0ed02e501719b);
-            
-
-            marker_06acb6eeddd9402b8e35d10ba6d27e2c.bindPopup(popup_df76ec23b0274d20be5e6fd2a1dd0832);
-
-            
-        
-    
-
-            var marker_7c9118878f4f4cf1b8999b2b42a08724 = L.marker(
-                [32.8295,-117.28200000000001],
-                {
-                    icon: new L.Icon.Default()
-                    }
-                )
-                .addTo(map_109281af16134998a6d19866cd274594);
-            
-    
-            var popup_9d5c15ee9049497cafebbf3e00fdbbad = L.popup({maxWidth: '300'});
-
-            
-                var html_44b03a6ee664477d94a85258dc4946e3 = $('<div id="html_44b03a6ee664477d94a85258dc4946e3" style="width: 100.0%; height: 100.0%;">Windansea Beach</div>')[0];
-                popup_9d5c15ee9049497cafebbf3e00fdbbad.setContent(html_44b03a6ee664477d94a85258dc4946e3);
-            
-
-            marker_7c9118878f4f4cf1b8999b2b42a08724.bindPopup(popup_9d5c15ee9049497cafebbf3e00fdbbad);
-
-            
-        
-    
-
-            var marker_8fc3ce7c8a2f468bb43e54745c97a99b = L.marker(
-                [33.0646,-117.3064],
-                {
-                    icon: new L.Icon.Default()
-                    }
-                )
-                .addTo(map_109281af16134998a6d19866cd274594);
-            
-    
-            var popup_ff264cc00d5a4dbe82e30e674bb9b2b0 = L.popup({maxWidth: '300'});
-
-            
-                var html_187455ad7bc8407aa2b15f23161cfc4c = $('<div id="html_187455ad7bc8407aa2b15f23161cfc4c" style="width: 100.0%; height: 100.0%;">Beacons</div>')[0];
-                popup_ff264cc00d5a4dbe82e30e674bb9b2b0.setContent(html_187455ad7bc8407aa2b15f23161cfc4c);
-            
-
-            marker_8fc3ce7c8a2f468bb43e54745c97a99b.bindPopup(popup_ff264cc00d5a4dbe82e30e674bb9b2b0);
-
-            
-        
-    
-
-            var marker_07b717aa8cf84bfd952800ab1abb0ba0 = L.marker(
-                [32.8142,-117.275],
-                {
-                    icon: new L.Icon.Default()
-                    }
-                )
-                .addTo(map_109281af16134998a6d19866cd274594);
-            
-    
-            var popup_d97e9e7b2fa242a5bb8b3b1b3599542d = L.popup({maxWidth: '300'});
-
-            
-                var html_420b2a364b814a579c79a90b916f1e15 = $('<div id="html_420b2a364b814a579c79a90b916f1e15" style="width: 100.0%; height: 100.0%;">Birdrock</div>')[0];
-                popup_d97e9e7b2fa242a5bb8b3b1b3599542d.setContent(html_420b2a364b814a579c79a90b916f1e15);
-            
-
-            marker_07b717aa8cf84bfd952800ab1abb0ba0.bindPopup(popup_d97e9e7b2fa242a5bb8b3b1b3599542d);
-
-            
-        
-    
-
-            var marker_3d271dcbb8d14db884f40b3e48ab7d0b = L.marker(
-                [33.0148,-117.2845],
-                {
-                    icon: new L.Icon.Default()
-                    }
-                )
-                .addTo(map_109281af16134998a6d19866cd274594);
-            
-    
-            var popup_00ed7f3f9f59486ca913c89233287f31 = L.popup({maxWidth: '300'});
-
-            
-                var html_2bb5ff75b1334a62861657558fd16431 = $('<div id="html_2bb5ff75b1334a62861657558fd16431" style="width: 100.0%; height: 100.0%;">Cardiff Reef</div>')[0];
-                popup_00ed7f3f9f59486ca913c89233287f31.setContent(html_2bb5ff75b1334a62861657558fd16431);
-            
-
-            marker_3d271dcbb8d14db884f40b3e48ab7d0b.bindPopup(popup_00ed7f3f9f59486ca913c89233287f31);
-
-            
-        
-    
-
-            var marker_ee3e85d045b24fdf8ad015ad8bd39c15 = L.marker(
+            var circle_marker_3951ed2d74b34d6495d126529c6f4ead = L.circleMarker(
                 [33.1577,-117.35600000000001],
                 {
-                    icon: new L.Icon.Default()
-                    }
-                )
-                .addTo(map_109281af16134998a6d19866cd274594);
-            
-    
-            var popup_a27aaf21f6dd4b368248c13e5f299650 = L.popup({maxWidth: '300'});
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": false,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 2,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_4c555b647aad40a8b47cadd5f3f295e2);
 
-            
-                var html_9a1090a0d1dc443281d08b575a6c6453 = $('<div id="html_9a1090a0d1dc443281d08b575a6c6453" style="width: 100.0%; height: 100.0%;">Carlsbad</div>')[0];
-                popup_a27aaf21f6dd4b368248c13e5f299650.setContent(html_9a1090a0d1dc443281d08b575a6c6453);
-            
 
-            marker_ee3e85d045b24fdf8ad015ad8bd39c15.bindPopup(popup_a27aaf21f6dd4b368248c13e5f299650);
+            var popup_796135918d31476d9c6406a89d4dd104 = L.popup({maxWidth: '300'});
 
-            
-        
-    
 
-            var marker_0871cf1cfae941b1becc5edf045981f1 = L.marker(
-                [32.959,-117.26799999999999],
+                var html_6e5e5c77e78143ceb114d7cc2aac698a = $('<div id="html_6e5e5c77e78143ceb114d7cc2aac698a" style="width: 100.0%; height: 100.0%;"><a href="https://www.google.com/maps/dir/Scripps+Institution+of+Oceanography,+8622+Kennel+Way,+La+Jolla,+CA+92037/33.1577,-117.35600000000001/@32.8857266,-117.4829295,10z/data=!4m2!4m1!3e1">Carlsbad</a></div>')[0];
+                popup_796135918d31476d9c6406a89d4dd104.setContent(html_6e5e5c77e78143ceb114d7cc2aac698a);
+
+
+            circle_marker_3951ed2d74b34d6495d126529c6f4ead.bindPopup(popup_796135918d31476d9c6406a89d4dd104);
+
+
+
+
+            var circle_marker_4aba3842b07949a2a26eecf657b10050 = L.circleMarker(
+                [33.14653,-117.34725300000001],
                 {
-                    icon: new L.Icon.Default()
-                    }
-                )
-                .addTo(map_109281af16134998a6d19866cd274594);
-            
-    
-            var popup_589e483c1d1f4820a8b30eeda1aa9898 = L.popup({maxWidth: '300'});
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": false,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 2,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_4c555b647aad40a8b47cadd5f3f295e2);
 
-            
-                var html_5b176479a1054fcf8319d3c11954c410 = $('<div id="html_5b176479a1054fcf8319d3c11954c410" style="width: 100.0%; height: 100.0%;">Del Mar</div>')[0];
-                popup_589e483c1d1f4820a8b30eeda1aa9898.setContent(html_5b176479a1054fcf8319d3c11954c410);
-            
 
-            marker_0871cf1cfae941b1becc5edf045981f1.bindPopup(popup_589e483c1d1f4820a8b30eeda1aa9898);
+            var popup_6979ef800324471991e207e470130a57 = L.popup({maxWidth: '300'});
 
-            
-        
-    
 
-            var marker_e3eac6ed9be9442c83924e7b041addf8 = L.marker(
-                [33.0758,-117.3112],
+                var html_891a4690bbe7413b841f1036284a919c = $('<div id="html_891a4690bbe7413b841f1036284a919c" style="width: 100.0%; height: 100.0%;"><a href="https://www.google.com/maps/dir/Scripps+Institution+of+Oceanography,+8622+Kennel+Way,+La+Jolla,+CA+92037/33.14653,-117.34725300000001/@32.8857266,-117.4829295,10z/data=!4m2!4m1!3e1">Tamarack </a></div>')[0];
+                popup_6979ef800324471991e207e470130a57.setContent(html_891a4690bbe7413b841f1036284a919c);
+
+
+            circle_marker_4aba3842b07949a2a26eecf657b10050.bindPopup(popup_6979ef800324471991e207e470130a57);
+
+
+
+
+            var circle_marker_cb63aad06abf4eff808db87c3d399947 = L.circleMarker(
+                [33.12918,-117.33781299999998],
                 {
-                    icon: new L.Icon.Default()
-                    }
-                )
-                .addTo(map_109281af16134998a6d19866cd274594);
-            
-    
-            var popup_e11dc21acbe944e0b0c53e4d9c9b9587 = L.popup({maxWidth: '300'});
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": false,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 2,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_4c555b647aad40a8b47cadd5f3f295e2);
 
-            
-                var html_2933ab307f65448fba762cfcc2825d8a = $('<div id="html_2933ab307f65448fba762cfcc2825d8a" style="width: 100.0%; height: 100.0%;">Grandview</div>')[0];
-                popup_e11dc21acbe944e0b0c53e4d9c9b9587.setContent(html_2933ab307f65448fba762cfcc2825d8a);
-            
 
-            marker_e3eac6ed9be9442c83924e7b041addf8.bindPopup(popup_e11dc21acbe944e0b0c53e4d9c9b9587);
+            var popup_e751a16b06184bd99cebeaf577e8a95e = L.popup({maxWidth: '300'});
 
-            
-        
-    
 
-            var marker_270ce8a289fa434e94f858b514485be1 = L.marker(
-                [32.8396,-117.28399999999999],
-                {
-                    icon: new L.Icon.Default()
-                    }
-                )
-                .addTo(map_109281af16134998a6d19866cd274594);
-            
-    
-            var popup_139568270e9a4a0b990279e6256e6a21 = L.popup({maxWidth: '300'});
+                var html_52f71455605f46d6933922727815623c = $('<div id="html_52f71455605f46d6933922727815623c" style="width: 100.0%; height: 100.0%;"><a href="https://www.google.com/maps/dir/Scripps+Institution+of+Oceanography,+8622+Kennel+Way,+La+Jolla,+CA+92037/33.12918,-117.33781299999998/@32.8857266,-117.4829295,10z/data=!4m2!4m1!3e1">Terra Mar</a></div>')[0];
+                popup_e751a16b06184bd99cebeaf577e8a95e.setContent(html_52f71455605f46d6933922727815623c);
 
-            
-                var html_e816280028cf4172982722588d6a155a = $('<div id="html_e816280028cf4172982722588d6a155a" style="width: 100.0%; height: 100.0%;">Horseshoe</div>')[0];
-                popup_139568270e9a4a0b990279e6256e6a21.setContent(html_e816280028cf4172982722588d6a155a);
-            
 
-            marker_270ce8a289fa434e94f858b514485be1.bindPopup(popup_139568270e9a4a0b990279e6256e6a21);
+            circle_marker_cb63aad06abf4eff808db87c3d399947.bindPopup(popup_e751a16b06184bd99cebeaf577e8a95e);
 
-            
-        
-    
 
-            var marker_cc9c0b0676d54b97a9962c955ce9a240 = L.marker(
-                [32.5774,-117.134],
-                {
-                    icon: new L.Icon.Default()
-                    }
-                )
-                .addTo(map_109281af16134998a6d19866cd274594);
-            
-    
-            var popup_a4a652888ed44b73a45b1c45f8c40d50 = L.popup({maxWidth: '300'});
 
-            
-                var html_bde4d5731e3144c2bdd72b6e1f987b46 = $('<div id="html_bde4d5731e3144c2bdd72b6e1f987b46" style="width: 100.0%; height: 100.0%;">Imperial Beach</div>')[0];
-                popup_a4a652888ed44b73a45b1c45f8c40d50.setContent(html_bde4d5731e3144c2bdd72b6e1f987b46);
-            
 
-            marker_cc9c0b0676d54b97a9962c955ce9a240.bindPopup(popup_a4a652888ed44b73a45b1c45f8c40d50);
-
-            
-        
-    
-
-            var marker_51c1bb0432d740e0a363071a3ce9fb8b = L.marker(
-                [32.7762,-117.255],
-                {
-                    icon: new L.Icon.Default()
-                    }
-                )
-                .addTo(map_109281af16134998a6d19866cd274594);
-            
-    
-            var popup_f06807bb4121411eb31a2337b513aae2 = L.popup({maxWidth: '300'});
-
-            
-                var html_b5312fcfd6134647b1edd57c357b70de = $('<div id="html_b5312fcfd6134647b1edd57c357b70de" style="width: 100.0%; height: 100.0%;">Mission Beach (San Diego)</div>')[0];
-                popup_f06807bb4121411eb31a2337b513aae2.setContent(html_b5312fcfd6134647b1edd57c357b70de);
-            
-
-            marker_51c1bb0432d740e0a363071a3ce9fb8b.bindPopup(popup_f06807bb4121411eb31a2337b513aae2);
-
-            
-        
-    
-
-            var marker_c15400c024cc4711ba2a72e74478ed7b = L.marker(
-                [33.0481,-117.3001],
-                {
-                    icon: new L.Icon.Default()
-                    }
-                )
-                .addTo(map_109281af16134998a6d19866cd274594);
-            
-    
-            var popup_9e8e8b03e35d420ebf4fe8d26b8ede27 = L.popup({maxWidth: '300'});
-
-            
-                var html_048db295fc6e47f29854bcac64bd8ca6 = $('<div id="html_048db295fc6e47f29854bcac64bd8ca6" style="width: 100.0%; height: 100.0%;">Moonlight</div>')[0];
-                popup_9e8e8b03e35d420ebf4fe8d26b8ede27.setContent(html_048db295fc6e47f29854bcac64bd8ca6);
-            
-
-            marker_c15400c024cc4711ba2a72e74478ed7b.bindPopup(popup_9e8e8b03e35d420ebf4fe8d26b8ede27);
-
-            
-        
-    
-
-            var marker_a83105afe8c541668ba09cab31fb9875 = L.marker(
-                [32.9754,-117.271],
-                {
-                    icon: new L.Icon.Default()
-                    }
-                )
-                .addTo(map_109281af16134998a6d19866cd274594);
-            
-    
-            var popup_f06569f7ff3c41a6aef239fdfcabd95a = L.popup({maxWidth: '300'});
-
-            
-                var html_e12c974792884f3ca21eb69028d9130e = $('<div id="html_e12c974792884f3ca21eb69028d9130e" style="width: 100.0%; height: 100.0%;">North Del Mar</div>')[0];
-                popup_f06569f7ff3c41a6aef239fdfcabd95a.setContent(html_e12c974792884f3ca21eb69028d9130e);
-            
-
-            marker_a83105afe8c541668ba09cab31fb9875.bindPopup(popup_f06569f7ff3c41a6aef239fdfcabd95a);
-
-            
-        
-    
-
-            var marker_85083a79532448f0af6147601b02bc2f = L.marker(
-                [32.7481,-117.256],
-                {
-                    icon: new L.Icon.Default()
-                    }
-                )
-                .addTo(map_109281af16134998a6d19866cd274594);
-            
-    
-            var popup_f79dda60aeec44dea85b730f1e711beb = L.popup({maxWidth: '300'});
-
-            
-                var html_0b6ac81f7a2d4c86b655118c00b878a3 = $('<div id="html_0b6ac81f7a2d4c86b655118c00b878a3" style="width: 100.0%; height: 100.0%;">Ocean beach</div>')[0];
-                popup_f79dda60aeec44dea85b730f1e711beb.setContent(html_0b6ac81f7a2d4c86b655118c00b878a3);
-            
-
-            marker_85083a79532448f0af6147601b02bc2f.bindPopup(popup_f79dda60aeec44dea85b730f1e711beb);
-
-            
-        
-    
-
-            var marker_810d17f47eed42e2aa7da83fd78d0d83 = L.marker(
-                [33.1922,-117.38600000000001],
-                {
-                    icon: new L.Icon.Default()
-                    }
-                )
-                .addTo(map_109281af16134998a6d19866cd274594);
-            
-    
-            var popup_456aefdd253947ce9c5e29614a9231c8 = L.popup({maxWidth: '300'});
-
-            
-                var html_b1dc385c1acd42a3b32879eccf56a3f2 = $('<div id="html_b1dc385c1acd42a3b32879eccf56a3f2" style="width: 100.0%; height: 100.0%;">Oceanside</div>')[0];
-                popup_456aefdd253947ce9c5e29614a9231c8.setContent(html_b1dc385c1acd42a3b32879eccf56a3f2);
-            
-
-            marker_810d17f47eed42e2aa7da83fd78d0d83.bindPopup(popup_456aefdd253947ce9c5e29614a9231c8);
-
-            
-        
-    
-
-            var marker_8a24f566052f4f6b955f79a4a46fee53 = L.marker(
-                [32.7965,-117.2581],
-                {
-                    icon: new L.Icon.Default()
-                    }
-                )
-                .addTo(map_109281af16134998a6d19866cd274594);
-            
-    
-            var popup_6ffde15d0c62401dba07c24f8ffbe1e5 = L.popup({maxWidth: '300'});
-
-            
-                var html_6ffd8a6bb9fe4311811ebf3ca2c3247d = $('<div id="html_6ffd8a6bb9fe4311811ebf3ca2c3247d" style="width: 100.0%; height: 100.0%;">Pacific Beach</div>')[0];
-                popup_6ffde15d0c62401dba07c24f8ffbe1e5.setContent(html_6ffd8a6bb9fe4311811ebf3ca2c3247d);
-            
-
-            marker_8a24f566052f4f6b955f79a4a46fee53.bindPopup(popup_6ffde15d0c62401dba07c24f8ffbe1e5);
-
-            
-        
-    
-
-            var marker_8db4f5ebf09c47238763929cbf982ba8 = L.marker(
-                [32.6647,-117.24600000000001],
-                {
-                    icon: new L.Icon.Default()
-                    }
-                )
-                .addTo(map_109281af16134998a6d19866cd274594);
-            
-    
-            var popup_cdbf9e8ab8a349c293f42fa3193279a9 = L.popup({maxWidth: '300'});
-
-            
-                var html_2dae696c11344877a34162c36aeea76f = $('<div id="html_2dae696c11344877a34162c36aeea76f" style="width: 100.0%; height: 100.0%;">Point Loma</div>')[0];
-                popup_cdbf9e8ab8a349c293f42fa3193279a9.setContent(html_2dae696c11344877a34162c36aeea76f);
-            
-
-            marker_8db4f5ebf09c47238763929cbf982ba8.bindPopup(popup_cdbf9e8ab8a349c293f42fa3193279a9);
-
-            
-        
-    
-
-            var marker_7a202f0068c2468a91af5299804b1187 = L.marker(
+            var circle_marker_699c3d7bf4b440179600ab826cc52423 = L.circleMarker(
                 [33.0886,-117.315],
                 {
-                    icon: new L.Icon.Default()
-                    }
-                )
-                .addTo(map_109281af16134998a6d19866cd274594);
-            
-    
-            var popup_0623de9898fa4110bd403a606f4fd6cf = L.popup({maxWidth: '300'});
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": false,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 2,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_4c555b647aad40a8b47cadd5f3f295e2);
 
-            
-                var html_05b5980018824672a6b5e2db9d90d474 = $('<div id="html_05b5980018824672a6b5e2db9d90d474" style="width: 100.0%; height: 100.0%;">Ponto</div>')[0];
-                popup_0623de9898fa4110bd403a606f4fd6cf.setContent(html_05b5980018824672a6b5e2db9d90d474);
-            
 
-            marker_7a202f0068c2468a91af5299804b1187.bindPopup(popup_0623de9898fa4110bd403a606f4fd6cf);
+            var popup_46f731a3105b4e5ba0240649cceaf824 = L.popup({maxWidth: '300'});
 
-            
-        
-    
 
-            var marker_5784ee8c8c7c41fdbfc2a52baeb94c7b = L.marker(
-                [32.8642,-117.256],
+                var html_afd98aeef25345fd83a645d424b85eb5 = $('<div id="html_afd98aeef25345fd83a645d424b85eb5" style="width: 100.0%; height: 100.0%;"><a href="https://www.google.com/maps/dir/Scripps+Institution+of+Oceanography,+8622+Kennel+Way,+La+Jolla,+CA+92037/33.0886,-117.315/@32.8857266,-117.4829295,10z/data=!4m2!4m1!3e1">Ponto</a></div>')[0];
+                popup_46f731a3105b4e5ba0240649cceaf824.setContent(html_afd98aeef25345fd83a645d424b85eb5);
+
+
+            circle_marker_699c3d7bf4b440179600ab826cc52423.bindPopup(popup_46f731a3105b4e5ba0240649cceaf824);
+
+
+
+
+            var circle_marker_47f73ad895fe4ff9ae0f17f5b7fa86da = L.circleMarker(
+                [33.0758,-117.3112],
                 {
-                    icon: new L.Icon.Default()
-                    }
-                )
-                .addTo(map_109281af16134998a6d19866cd274594);
-            
-    
-            var popup_7fbf04dbd5d34b80b0902b9335b46a82 = L.popup({maxWidth: '300'});
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": false,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 2,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_4c555b647aad40a8b47cadd5f3f295e2);
 
-            
-                var html_5185153973704d24bbb749154c293420 = $('<div id="html_5185153973704d24bbb749154c293420" style="width: 100.0%; height: 100.0%;">Scripps Pier/La Jolla</div>')[0];
-                popup_7fbf04dbd5d34b80b0902b9335b46a82.setContent(html_5185153973704d24bbb749154c293420);
-            
 
-            marker_5784ee8c8c7c41fdbfc2a52baeb94c7b.bindPopup(popup_7fbf04dbd5d34b80b0902b9335b46a82);
+            var popup_afa0e6720dd04af09080dca5a35fdd46 = L.popup({maxWidth: '300'});
 
-            
-        
-    
 
-            var marker_49276ffa0b8b49598432610b1820b791 = L.marker(
-                [32.99,-117.27],
-                {
-                    icon: new L.Icon.Default()
-                    }
-                )
-                .addTo(map_109281af16134998a6d19866cd274594);
-            
-    
-            var popup_7cc768f8e3a74aae9f8e07b51c194f1f = L.popup({maxWidth: '300'});
+                var html_d8b6509108cd4bc799e48520783e77d4 = $('<div id="html_d8b6509108cd4bc799e48520783e77d4" style="width: 100.0%; height: 100.0%;"><a href="https://www.google.com/maps/dir/Scripps+Institution+of+Oceanography,+8622+Kennel+Way,+La+Jolla,+CA+92037/33.0758,-117.3112/@32.8857266,-117.4829295,10z/data=!4m2!4m1!3e1">Grandview</a></div>')[0];
+                popup_afa0e6720dd04af09080dca5a35fdd46.setContent(html_d8b6509108cd4bc799e48520783e77d4);
 
-            
-                var html_1a172158a0914880bb84782400420a89 = $('<div id="html_1a172158a0914880bb84782400420a89" style="width: 100.0%; height: 100.0%;">Solana Beach</div>')[0];
-                popup_7cc768f8e3a74aae9f8e07b51c194f1f.setContent(html_1a172158a0914880bb84782400420a89);
-            
 
-            marker_49276ffa0b8b49598432610b1820b791.bindPopup(popup_7cc768f8e3a74aae9f8e07b51c194f1f);
+            circle_marker_47f73ad895fe4ff9ae0f17f5b7fa86da.bindPopup(popup_afa0e6720dd04af09080dca5a35fdd46);
 
-            
-        
-    
 
-            var marker_1f20d66915994c9aad70db3e7d5111b0 = L.marker(
-                [32.7159,-117.257],
-                {
-                    icon: new L.Icon.Default()
-                    }
-                )
-                .addTo(map_109281af16134998a6d19866cd274594);
-            
-    
-            var popup_fdaeab59a5834733850a9c2f2bef97ee = L.popup({maxWidth: '300'});
 
-            
-                var html_3762ac55b7d74b788ce08d4dd46bd26b = $('<div id="html_3762ac55b7d74b788ce08d4dd46bd26b" style="width: 100.0%; height: 100.0%;">Sunset Cliffs</div>')[0];
-                popup_fdaeab59a5834733850a9c2f2bef97ee.setContent(html_3762ac55b7d74b788ce08d4dd46bd26b);
-            
 
-            marker_1f20d66915994c9aad70db3e7d5111b0.bindPopup(popup_fdaeab59a5834733850a9c2f2bef97ee);
-
-            
-        
-    
-
-            var marker_d2d9f40f8cdc4edfb576f03511e3cdc7 = L.marker(
-                [33.0346,-117.295],
-                {
-                    icon: new L.Icon.Default()
-                    }
-                )
-                .addTo(map_109281af16134998a6d19866cd274594);
-            
-    
-            var popup_b26711e970174760a85e5558778fe223 = L.popup({maxWidth: '300'});
-
-            
-                var html_317728220129427c89c504125ee660b1 = $('<div id="html_317728220129427c89c504125ee660b1" style="width: 100.0%; height: 100.0%;">Swamis</div>')[0];
-                popup_b26711e970174760a85e5558778fe223.setContent(html_317728220129427c89c504125ee660b1);
-            
-
-            marker_d2d9f40f8cdc4edfb576f03511e3cdc7.bindPopup(popup_b26711e970174760a85e5558778fe223);
-
-            
-        
-    
-
-            var marker_a4e8bade75da4fce8377e795d5a06ee0 = L.marker(
-                [32.8833,-117.255],
-                {
-                    icon: new L.Icon.Default()
-                    }
-                )
-                .addTo(map_109281af16134998a6d19866cd274594);
-            
-    
-            var popup_8631a2b04d584b18a306b806df477751 = L.popup({maxWidth: '300'});
-
-            
-                var html_7763ae6aca464209a087fc034418feb5 = $('<div id="html_7763ae6aca464209a087fc034418feb5" style="width: 100.0%; height: 100.0%;">Torrey Pines/Blacks Beach</div>')[0];
-                popup_8631a2b04d584b18a306b806df477751.setContent(html_7763ae6aca464209a087fc034418feb5);
-            
-
-            marker_a4e8bade75da4fce8377e795d5a06ee0.bindPopup(popup_8631a2b04d584b18a306b806df477751);
-
-            
-        
-    
-
-            var marker_6869d6c7c7c1406aa0d35945a0e87cdc = L.marker(
-                [32.8295,-117.28200000000001],
-                {
-                    icon: new L.Icon.Default()
-                    }
-                )
-                .addTo(map_109281af16134998a6d19866cd274594);
-            
-    
-            var popup_963fef7249ca41fcbebc92c218749f7c = L.popup({maxWidth: '300'});
-
-            
-                var html_c13de1a7f3194db68a823cbe0e3321a1 = $('<div id="html_c13de1a7f3194db68a823cbe0e3321a1" style="width: 100.0%; height: 100.0%;">Windansea Beach</div>')[0];
-                popup_963fef7249ca41fcbebc92c218749f7c.setContent(html_c13de1a7f3194db68a823cbe0e3321a1);
-            
-
-            marker_6869d6c7c7c1406aa0d35945a0e87cdc.bindPopup(popup_963fef7249ca41fcbebc92c218749f7c);
-
-            
-        
-    
-
-            var marker_7eea261c4906421dbfd532942b77a6c8 = L.marker(
+            var circle_marker_d5a4ee246b68452199ac97efb0fd1e8d = L.circleMarker(
                 [33.0646,-117.3064],
                 {
-                    icon: new L.Icon.Default()
-                    }
-                )
-                .addTo(map_109281af16134998a6d19866cd274594);
-            
-    
-            var popup_ddca9ec1732a4970af944beff3fa6ff4 = L.popup({maxWidth: '300'});
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": false,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 2,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_4c555b647aad40a8b47cadd5f3f295e2);
 
-            
-                var html_facd2fdf317742b1a1e0ef62901de111 = $('<div id="html_facd2fdf317742b1a1e0ef62901de111" style="width: 100.0%; height: 100.0%;">Beacons</div>')[0];
-                popup_ddca9ec1732a4970af944beff3fa6ff4.setContent(html_facd2fdf317742b1a1e0ef62901de111);
-            
 
-            marker_7eea261c4906421dbfd532942b77a6c8.bindPopup(popup_ddca9ec1732a4970af944beff3fa6ff4);
+            var popup_f734eb34e49942738f5eb23eb42d6c14 = L.popup({maxWidth: '300'});
 
-            
-        
-    
 
-            var marker_35c71a1d56214505af6f20559381bae7 = L.marker(
-                [32.8142,-117.275],
-                {
-                    icon: new L.Icon.Default()
-                    }
-                )
-                .addTo(map_109281af16134998a6d19866cd274594);
-            
-    
-            var popup_94ac4c20331e4dee9de4e23a53fc7c20 = L.popup({maxWidth: '300'});
+                var html_107a110c4d8d46b39288366485433cd2 = $('<div id="html_107a110c4d8d46b39288366485433cd2" style="width: 100.0%; height: 100.0%;"><a href="https://www.google.com/maps/dir/Scripps+Institution+of+Oceanography,+8622+Kennel+Way,+La+Jolla,+CA+92037/33.0646,-117.3064/@32.8857266,-117.4829295,10z/data=!4m2!4m1!3e1">Beacons</a></div>')[0];
+                popup_f734eb34e49942738f5eb23eb42d6c14.setContent(html_107a110c4d8d46b39288366485433cd2);
 
-            
-                var html_65d178f2efed4b4a93f889ad9a7a94fe = $('<div id="html_65d178f2efed4b4a93f889ad9a7a94fe" style="width: 100.0%; height: 100.0%;">Birdrock</div>')[0];
-                popup_94ac4c20331e4dee9de4e23a53fc7c20.setContent(html_65d178f2efed4b4a93f889ad9a7a94fe);
-            
 
-            marker_35c71a1d56214505af6f20559381bae7.bindPopup(popup_94ac4c20331e4dee9de4e23a53fc7c20);
+            circle_marker_d5a4ee246b68452199ac97efb0fd1e8d.bindPopup(popup_f734eb34e49942738f5eb23eb42d6c14);
 
-            
-        
-    
 
-            var marker_9bf6fd7437014fe5b22802fb8241c53e = L.marker(
-                [33.0148,-117.2845],
-                {
-                    icon: new L.Icon.Default()
-                    }
-                )
-                .addTo(map_109281af16134998a6d19866cd274594);
-            
-    
-            var popup_0c18708c5a37478cb1372346052b59e3 = L.popup({maxWidth: '300'});
 
-            
-                var html_e80697a6a8f3422aa5a268b064a0bfbc = $('<div id="html_e80697a6a8f3422aa5a268b064a0bfbc" style="width: 100.0%; height: 100.0%;">Cardiff Reef</div>')[0];
-                popup_0c18708c5a37478cb1372346052b59e3.setContent(html_e80697a6a8f3422aa5a268b064a0bfbc);
-            
 
-            marker_9bf6fd7437014fe5b22802fb8241c53e.bindPopup(popup_0c18708c5a37478cb1372346052b59e3);
-
-            
-        
-    
-
-            var marker_2e21d5137a1a42d7935895f67a6dbeff = L.marker(
-                [33.1577,-117.35600000000001],
-                {
-                    icon: new L.Icon.Default()
-                    }
-                )
-                .addTo(map_109281af16134998a6d19866cd274594);
-            
-    
-            var popup_e66f388480e64cc18150547a941ba95e = L.popup({maxWidth: '300'});
-
-            
-                var html_f3b4eb7cfea049198d59e4f53bf943d0 = $('<div id="html_f3b4eb7cfea049198d59e4f53bf943d0" style="width: 100.0%; height: 100.0%;">Carlsbad</div>')[0];
-                popup_e66f388480e64cc18150547a941ba95e.setContent(html_f3b4eb7cfea049198d59e4f53bf943d0);
-            
-
-            marker_2e21d5137a1a42d7935895f67a6dbeff.bindPopup(popup_e66f388480e64cc18150547a941ba95e);
-
-            
-        
-    
-
-            var marker_682d6d31f073458fac64669dea5189ac = L.marker(
-                [32.959,-117.26799999999999],
-                {
-                    icon: new L.Icon.Default()
-                    }
-                )
-                .addTo(map_109281af16134998a6d19866cd274594);
-            
-    
-            var popup_42a35fb78b284af682cca837ca0f53c2 = L.popup({maxWidth: '300'});
-
-            
-                var html_581e7e76b00d416bac3967c0ef5938d3 = $('<div id="html_581e7e76b00d416bac3967c0ef5938d3" style="width: 100.0%; height: 100.0%;">Del Mar</div>')[0];
-                popup_42a35fb78b284af682cca837ca0f53c2.setContent(html_581e7e76b00d416bac3967c0ef5938d3);
-            
-
-            marker_682d6d31f073458fac64669dea5189ac.bindPopup(popup_42a35fb78b284af682cca837ca0f53c2);
-
-            
-        
-    
-
-            var marker_771709334e0f4b8d8e85cc30dca27e5b = L.marker(
-                [33.0758,-117.3112],
-                {
-                    icon: new L.Icon.Default()
-                    }
-                )
-                .addTo(map_109281af16134998a6d19866cd274594);
-            
-    
-            var popup_db6e2b718a59487d8de5db122b689924 = L.popup({maxWidth: '300'});
-
-            
-                var html_11ebffe2df5c42eca0cea0f65a97b7c9 = $('<div id="html_11ebffe2df5c42eca0cea0f65a97b7c9" style="width: 100.0%; height: 100.0%;">Grandview</div>')[0];
-                popup_db6e2b718a59487d8de5db122b689924.setContent(html_11ebffe2df5c42eca0cea0f65a97b7c9);
-            
-
-            marker_771709334e0f4b8d8e85cc30dca27e5b.bindPopup(popup_db6e2b718a59487d8de5db122b689924);
-
-            
-        
-    
-
-            var marker_a2acb50fdd4b43c4a027af62838353b7 = L.marker(
-                [32.8396,-117.28399999999999],
-                {
-                    icon: new L.Icon.Default()
-                    }
-                )
-                .addTo(map_109281af16134998a6d19866cd274594);
-            
-    
-            var popup_b21e9614858c4d858a9d9b8b7ef1d790 = L.popup({maxWidth: '300'});
-
-            
-                var html_5ca81eff7b374b4f8c44472ee724ebfb = $('<div id="html_5ca81eff7b374b4f8c44472ee724ebfb" style="width: 100.0%; height: 100.0%;">Horseshoe</div>')[0];
-                popup_b21e9614858c4d858a9d9b8b7ef1d790.setContent(html_5ca81eff7b374b4f8c44472ee724ebfb);
-            
-
-            marker_a2acb50fdd4b43c4a027af62838353b7.bindPopup(popup_b21e9614858c4d858a9d9b8b7ef1d790);
-
-            
-        
-    
-
-            var marker_eb36e33f23884b16b9a54812af7fd76c = L.marker(
-                [32.5774,-117.134],
-                {
-                    icon: new L.Icon.Default()
-                    }
-                )
-                .addTo(map_109281af16134998a6d19866cd274594);
-            
-    
-            var popup_a81f3faf110c4baf960a2c94e2b431ff = L.popup({maxWidth: '300'});
-
-            
-                var html_2e0a2150813b4b5da15dfb7b48a6182f = $('<div id="html_2e0a2150813b4b5da15dfb7b48a6182f" style="width: 100.0%; height: 100.0%;">Imperial Beach</div>')[0];
-                popup_a81f3faf110c4baf960a2c94e2b431ff.setContent(html_2e0a2150813b4b5da15dfb7b48a6182f);
-            
-
-            marker_eb36e33f23884b16b9a54812af7fd76c.bindPopup(popup_a81f3faf110c4baf960a2c94e2b431ff);
-
-            
-        
-    
-
-            var marker_edd7de418403484695593ef0e87219bd = L.marker(
-                [32.7762,-117.255],
-                {
-                    icon: new L.Icon.Default()
-                    }
-                )
-                .addTo(map_109281af16134998a6d19866cd274594);
-            
-    
-            var popup_70d7fce6ad254249b70b1844f47a4fb4 = L.popup({maxWidth: '300'});
-
-            
-                var html_2c337c2803264a54bf19e5bf9cf8cf54 = $('<div id="html_2c337c2803264a54bf19e5bf9cf8cf54" style="width: 100.0%; height: 100.0%;">Mission Beach (San Diego)</div>')[0];
-                popup_70d7fce6ad254249b70b1844f47a4fb4.setContent(html_2c337c2803264a54bf19e5bf9cf8cf54);
-            
-
-            marker_edd7de418403484695593ef0e87219bd.bindPopup(popup_70d7fce6ad254249b70b1844f47a4fb4);
-
-            
-        
-    
-
-            var marker_20c3efc564934ffdbc207d197e67cacc = L.marker(
+            var circle_marker_ca04fc1449844a27916d5c3e598cf682 = L.circleMarker(
                 [33.0481,-117.3001],
                 {
-                    icon: new L.Icon.Default()
-                    }
-                )
-                .addTo(map_109281af16134998a6d19866cd274594);
-            
-    
-            var popup_2601ccb019db4e7b9af92dcc10537b22 = L.popup({maxWidth: '300'});
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": false,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 2,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_4c555b647aad40a8b47cadd5f3f295e2);
 
-            
-                var html_57884f287e2241ce86fd37d16c360f29 = $('<div id="html_57884f287e2241ce86fd37d16c360f29" style="width: 100.0%; height: 100.0%;">Moonlight</div>')[0];
-                popup_2601ccb019db4e7b9af92dcc10537b22.setContent(html_57884f287e2241ce86fd37d16c360f29);
-            
 
-            marker_20c3efc564934ffdbc207d197e67cacc.bindPopup(popup_2601ccb019db4e7b9af92dcc10537b22);
+            var popup_b71e79f59dee402eb27b44b15a1a2ace = L.popup({maxWidth: '300'});
 
-            
-        
-    
 
-            var marker_7b2bc162a3bd4556a1a8351ddc54119e = L.marker(
-                [32.9754,-117.271],
-                {
-                    icon: new L.Icon.Default()
-                    }
-                )
-                .addTo(map_109281af16134998a6d19866cd274594);
-            
-    
-            var popup_a965602bf01240919524b4e9741fad11 = L.popup({maxWidth: '300'});
+                var html_68bbc81bd1a74f9d880e447af12a7545 = $('<div id="html_68bbc81bd1a74f9d880e447af12a7545" style="width: 100.0%; height: 100.0%;"><a href="https://www.google.com/maps/dir/Scripps+Institution+of+Oceanography,+8622+Kennel+Way,+La+Jolla,+CA+92037/33.0481,-117.3001/@32.8857266,-117.4829295,10z/data=!4m2!4m1!3e1">Moonlight</a></div>')[0];
+                popup_b71e79f59dee402eb27b44b15a1a2ace.setContent(html_68bbc81bd1a74f9d880e447af12a7545);
 
-            
-                var html_63375decbb48444ba747627f1f44bcf3 = $('<div id="html_63375decbb48444ba747627f1f44bcf3" style="width: 100.0%; height: 100.0%;">North Del Mar</div>')[0];
-                popup_a965602bf01240919524b4e9741fad11.setContent(html_63375decbb48444ba747627f1f44bcf3);
-            
 
-            marker_7b2bc162a3bd4556a1a8351ddc54119e.bindPopup(popup_a965602bf01240919524b4e9741fad11);
+            circle_marker_ca04fc1449844a27916d5c3e598cf682.bindPopup(popup_b71e79f59dee402eb27b44b15a1a2ace);
 
-            
-        
-    
 
-            var marker_636ca8a6613946b583c4ea580b186764 = L.marker(
-                [32.7481,-117.256],
-                {
-                    icon: new L.Icon.Default()
-                    }
-                )
-                .addTo(map_109281af16134998a6d19866cd274594);
-            
-    
-            var popup_3a15c23d0e344f149b65dda6b5c1e0ef = L.popup({maxWidth: '300'});
 
-            
-                var html_3128f51c9a574e51a8348b1680f556c4 = $('<div id="html_3128f51c9a574e51a8348b1680f556c4" style="width: 100.0%; height: 100.0%;">Ocean beach</div>')[0];
-                popup_3a15c23d0e344f149b65dda6b5c1e0ef.setContent(html_3128f51c9a574e51a8348b1680f556c4);
-            
 
-            marker_636ca8a6613946b583c4ea580b186764.bindPopup(popup_3a15c23d0e344f149b65dda6b5c1e0ef);
-
-            
-        
-    
-
-            var marker_a23cf67c94a141a6bced5e426acf86fc = L.marker(
-                [33.1922,-117.38600000000001],
-                {
-                    icon: new L.Icon.Default()
-                    }
-                )
-                .addTo(map_109281af16134998a6d19866cd274594);
-            
-    
-            var popup_adfa0cf2716149b9a4c65d45b1fbbec8 = L.popup({maxWidth: '300'});
-
-            
-                var html_61646fa7e10b4a9ab90c5b83bbe8bb0d = $('<div id="html_61646fa7e10b4a9ab90c5b83bbe8bb0d" style="width: 100.0%; height: 100.0%;">Oceanside</div>')[0];
-                popup_adfa0cf2716149b9a4c65d45b1fbbec8.setContent(html_61646fa7e10b4a9ab90c5b83bbe8bb0d);
-            
-
-            marker_a23cf67c94a141a6bced5e426acf86fc.bindPopup(popup_adfa0cf2716149b9a4c65d45b1fbbec8);
-
-            
-        
-    
-
-            var marker_2fb7b8a887794abda4b662a48cb95c68 = L.marker(
-                [32.7965,-117.2581],
-                {
-                    icon: new L.Icon.Default()
-                    }
-                )
-                .addTo(map_109281af16134998a6d19866cd274594);
-            
-    
-            var popup_77aebb932e2c427db85aa450c86f79d6 = L.popup({maxWidth: '300'});
-
-            
-                var html_8d456f6197104a31b8112b8697434383 = $('<div id="html_8d456f6197104a31b8112b8697434383" style="width: 100.0%; height: 100.0%;">Pacific Beach</div>')[0];
-                popup_77aebb932e2c427db85aa450c86f79d6.setContent(html_8d456f6197104a31b8112b8697434383);
-            
-
-            marker_2fb7b8a887794abda4b662a48cb95c68.bindPopup(popup_77aebb932e2c427db85aa450c86f79d6);
-
-            
-        
-    
-
-            var marker_f2f6788ebdd7433f927c93de2999b71b = L.marker(
-                [32.6647,-117.24600000000001],
-                {
-                    icon: new L.Icon.Default()
-                    }
-                )
-                .addTo(map_109281af16134998a6d19866cd274594);
-            
-    
-            var popup_47fe4cd85e6146f5b87a2925eaf5309d = L.popup({maxWidth: '300'});
-
-            
-                var html_168448a8922f418399d24d548ccaa6f6 = $('<div id="html_168448a8922f418399d24d548ccaa6f6" style="width: 100.0%; height: 100.0%;">Point Loma</div>')[0];
-                popup_47fe4cd85e6146f5b87a2925eaf5309d.setContent(html_168448a8922f418399d24d548ccaa6f6);
-            
-
-            marker_f2f6788ebdd7433f927c93de2999b71b.bindPopup(popup_47fe4cd85e6146f5b87a2925eaf5309d);
-
-            
-        
-    
-
-            var marker_cfc45b93a8264bada1450ea676d8a0b7 = L.marker(
-                [33.0886,-117.315],
-                {
-                    icon: new L.Icon.Default()
-                    }
-                )
-                .addTo(map_109281af16134998a6d19866cd274594);
-            
-    
-            var popup_f59f3335c1154d18b7056732dfad01bf = L.popup({maxWidth: '300'});
-
-            
-                var html_200ab521266443448cefa71bb61a6c59 = $('<div id="html_200ab521266443448cefa71bb61a6c59" style="width: 100.0%; height: 100.0%;">Ponto</div>')[0];
-                popup_f59f3335c1154d18b7056732dfad01bf.setContent(html_200ab521266443448cefa71bb61a6c59);
-            
-
-            marker_cfc45b93a8264bada1450ea676d8a0b7.bindPopup(popup_f59f3335c1154d18b7056732dfad01bf);
-
-            
-        
-    
-
-            var marker_4f4eea5d8293460db6ea408e1003236f = L.marker(
-                [32.8642,-117.256],
-                {
-                    icon: new L.Icon.Default()
-                    }
-                )
-                .addTo(map_109281af16134998a6d19866cd274594);
-            
-    
-            var popup_c1b2375d405745aa876493ea0678538c = L.popup({maxWidth: '300'});
-
-            
-                var html_a80a8b33919c43219c3b794a6dfab6d8 = $('<div id="html_a80a8b33919c43219c3b794a6dfab6d8" style="width: 100.0%; height: 100.0%;">Scripps Pier/La Jolla</div>')[0];
-                popup_c1b2375d405745aa876493ea0678538c.setContent(html_a80a8b33919c43219c3b794a6dfab6d8);
-            
-
-            marker_4f4eea5d8293460db6ea408e1003236f.bindPopup(popup_c1b2375d405745aa876493ea0678538c);
-
-            
-        
-    
-
-            var marker_60dcfdca04594d868c1813e3c55d44b0 = L.marker(
-                [32.99,-117.27],
-                {
-                    icon: new L.Icon.Default()
-                    }
-                )
-                .addTo(map_109281af16134998a6d19866cd274594);
-            
-    
-            var popup_41ee8f8fa3da4731b56967241af2397e = L.popup({maxWidth: '300'});
-
-            
-                var html_acf2f50d913c4171a41fb7d0b6509cca = $('<div id="html_acf2f50d913c4171a41fb7d0b6509cca" style="width: 100.0%; height: 100.0%;">Solana Beach</div>')[0];
-                popup_41ee8f8fa3da4731b56967241af2397e.setContent(html_acf2f50d913c4171a41fb7d0b6509cca);
-            
-
-            marker_60dcfdca04594d868c1813e3c55d44b0.bindPopup(popup_41ee8f8fa3da4731b56967241af2397e);
-
-            
-        
-    
-
-            var marker_b9fbfb11faf349e8b30aee697c67d046 = L.marker(
-                [32.7159,-117.257],
-                {
-                    icon: new L.Icon.Default()
-                    }
-                )
-                .addTo(map_109281af16134998a6d19866cd274594);
-            
-    
-            var popup_9913d4b4d4474ef885e03830ca55809c = L.popup({maxWidth: '300'});
-
-            
-                var html_c400303ae2694b61ad52277283028451 = $('<div id="html_c400303ae2694b61ad52277283028451" style="width: 100.0%; height: 100.0%;">Sunset Cliffs</div>')[0];
-                popup_9913d4b4d4474ef885e03830ca55809c.setContent(html_c400303ae2694b61ad52277283028451);
-            
-
-            marker_b9fbfb11faf349e8b30aee697c67d046.bindPopup(popup_9913d4b4d4474ef885e03830ca55809c);
-
-            
-        
-    
-
-            var marker_0e190c893eb1478cb82869d39497143e = L.marker(
+            var circle_marker_78e9431252b24f32aca142bb6a374cc9 = L.circleMarker(
                 [33.0346,-117.295],
                 {
-                    icon: new L.Icon.Default()
-                    }
-                )
-                .addTo(map_109281af16134998a6d19866cd274594);
-            
-    
-            var popup_0b2ff74c622b487bac7ca18c32dfac59 = L.popup({maxWidth: '300'});
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": false,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 2,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_4c555b647aad40a8b47cadd5f3f295e2);
 
-            
-                var html_5342f6116b8a463ebafe483437f2c3a8 = $('<div id="html_5342f6116b8a463ebafe483437f2c3a8" style="width: 100.0%; height: 100.0%;">Swamis</div>')[0];
-                popup_0b2ff74c622b487bac7ca18c32dfac59.setContent(html_5342f6116b8a463ebafe483437f2c3a8);
-            
 
-            marker_0e190c893eb1478cb82869d39497143e.bindPopup(popup_0b2ff74c622b487bac7ca18c32dfac59);
+            var popup_921dcf49698343dc850a3af3214db85f = L.popup({maxWidth: '300'});
 
-            
-        
-    
 
-            var marker_1985b631758d4e7289afd2dfb2d11fcf = L.marker(
-                [32.8833,-117.255],
+                var html_ca951d86deb44786a8740904926096ee = $('<div id="html_ca951d86deb44786a8740904926096ee" style="width: 100.0%; height: 100.0%;"><a href="https://www.google.com/maps/dir/Scripps+Institution+of+Oceanography,+8622+Kennel+Way,+La+Jolla,+CA+92037/33.0346,-117.295/@32.8857266,-117.4829295,10z/data=!4m2!4m1!3e1">Swamis</a></div>')[0];
+                popup_921dcf49698343dc850a3af3214db85f.setContent(html_ca951d86deb44786a8740904926096ee);
+
+
+            circle_marker_78e9431252b24f32aca142bb6a374cc9.bindPopup(popup_921dcf49698343dc850a3af3214db85f);
+
+
+
+
+            var circle_marker_c2508f77e54841d2a9700e5f7848a08f = L.circleMarker(
+                [33.021368,-117.28644299999999],
                 {
-                    icon: new L.Icon.Default()
-                    }
-                )
-                .addTo(map_109281af16134998a6d19866cd274594);
-            
-    
-            var popup_d4a7e16014c24de2995e0d5b718799ef = L.popup({maxWidth: '300'});
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": false,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 2,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_4c555b647aad40a8b47cadd5f3f295e2);
 
-            
-                var html_a100fd8231524726ac8ad65b8d827e41 = $('<div id="html_a100fd8231524726ac8ad65b8d827e41" style="width: 100.0%; height: 100.0%;">Torrey Pines/Blacks Beach</div>')[0];
-                popup_d4a7e16014c24de2995e0d5b718799ef.setContent(html_a100fd8231524726ac8ad65b8d827e41);
-            
 
-            marker_1985b631758d4e7289afd2dfb2d11fcf.bindPopup(popup_d4a7e16014c24de2995e0d5b718799ef);
+            var popup_e23db6c3e77349c3a646720daf508e77 = L.popup({maxWidth: '300'});
 
-            
-        
-    
 
-            var marker_48d74afe41a04df08e03a5764c64c805 = L.marker(
+                var html_997f1527dba844bdb960b93dc3ce93bb = $('<div id="html_997f1527dba844bdb960b93dc3ce93bb" style="width: 100.0%; height: 100.0%;"><a href="https://www.google.com/maps/dir/Scripps+Institution+of+Oceanography,+8622+Kennel+Way,+La+Jolla,+CA+92037/33.021368,-117.28644299999999/@32.8857266,-117.4829295,10z/data=!4m2!4m1!3e1">Pipes</a></div>')[0];
+                popup_e23db6c3e77349c3a646720daf508e77.setContent(html_997f1527dba844bdb960b93dc3ce93bb);
+
+
+            circle_marker_c2508f77e54841d2a9700e5f7848a08f.bindPopup(popup_e23db6c3e77349c3a646720daf508e77);
+
+
+
+
+            var circle_marker_2d46ca6756c345808315bb876129ebae = L.circleMarker(
+                [33.0148,-117.2845],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": false,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 2,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_4c555b647aad40a8b47cadd5f3f295e2);
+
+
+            var popup_66b687ff150d447db3bd7514cebfa64d = L.popup({maxWidth: '300'});
+
+
+                var html_5acd83163b6a462fa56aa08fbc675796 = $('<div id="html_5acd83163b6a462fa56aa08fbc675796" style="width: 100.0%; height: 100.0%;"><a href="https://www.google.com/maps/dir/Scripps+Institution+of+Oceanography,+8622+Kennel+Way,+La+Jolla,+CA+92037/33.0148,-117.2845/@32.8857266,-117.4829295,10z/data=!4m2!4m1!3e1">Cardiff Reef</a></div>')[0];
+                popup_66b687ff150d447db3bd7514cebfa64d.setContent(html_5acd83163b6a462fa56aa08fbc675796);
+
+
+            circle_marker_2d46ca6756c345808315bb876129ebae.bindPopup(popup_66b687ff150d447db3bd7514cebfa64d);
+
+
+
+
+            var circle_marker_7ceea69197d249abb52ead141d9afed4 = L.circleMarker(
+                [32.99,-117.277],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": false,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 2,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_4c555b647aad40a8b47cadd5f3f295e2);
+
+
+            var popup_c84545aaf27a4c968ef1fc66a1239318 = L.popup({maxWidth: '300'});
+
+
+                var html_a403ed76134e42838958d60691afb564 = $('<div id="html_a403ed76134e42838958d60691afb564" style="width: 100.0%; height: 100.0%;"><a href="https://www.google.com/maps/dir/Scripps+Institution+of+Oceanography,+8622+Kennel+Way,+La+Jolla,+CA+92037/32.99,-117.277/@32.8857266,-117.4829295,10z/data=!4m2!4m1!3e1">Solana Beach</a></div>')[0];
+                popup_c84545aaf27a4c968ef1fc66a1239318.setContent(html_a403ed76134e42838958d60691afb564);
+
+
+            circle_marker_7ceea69197d249abb52ead141d9afed4.bindPopup(popup_c84545aaf27a4c968ef1fc66a1239318);
+
+
+
+
+            var circle_marker_b04156ab2d2740639a38283bbcd45b94 = L.circleMarker(
+                [32.9754,-117.271],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": false,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 2,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_4c555b647aad40a8b47cadd5f3f295e2);
+
+
+            var popup_39d24fb2eee74b689de58f9bae3deeea = L.popup({maxWidth: '300'});
+
+
+                var html_eec290a63d49418f894cb4ca520ad3e6 = $('<div id="html_eec290a63d49418f894cb4ca520ad3e6" style="width: 100.0%; height: 100.0%;"><a href="https://www.google.com/maps/dir/Scripps+Institution+of+Oceanography,+8622+Kennel+Way,+La+Jolla,+CA+92037/32.9754,-117.271/@32.8857266,-117.4829295,10z/data=!4m2!4m1!3e1">Del Mar Rivermouth</a></div>')[0];
+                popup_39d24fb2eee74b689de58f9bae3deeea.setContent(html_eec290a63d49418f894cb4ca520ad3e6);
+
+
+            circle_marker_b04156ab2d2740639a38283bbcd45b94.bindPopup(popup_39d24fb2eee74b689de58f9bae3deeea);
+
+
+
+
+            var circle_marker_867efa9c3b4a418c9645d08960005b45 = L.circleMarker(
+                [32.959,-117.26799999999999],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": false,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 2,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_4c555b647aad40a8b47cadd5f3f295e2);
+
+
+            var popup_31ce2a74d1714fdb83767947a3b8d62f = L.popup({maxWidth: '300'});
+
+
+                var html_20b13f4819014c229ed32c09e630c1f0 = $('<div id="html_20b13f4819014c229ed32c09e630c1f0" style="width: 100.0%; height: 100.0%;"><a href="https://www.google.com/maps/dir/Scripps+Institution+of+Oceanography,+8622+Kennel+Way,+La+Jolla,+CA+92037/32.959,-117.26799999999999/@32.8857266,-117.4829295,10z/data=!4m2!4m1!3e1">Del Mar</a></div>')[0];
+                popup_31ce2a74d1714fdb83767947a3b8d62f.setContent(html_20b13f4819014c229ed32c09e630c1f0);
+
+
+            circle_marker_867efa9c3b4a418c9645d08960005b45.bindPopup(popup_31ce2a74d1714fdb83767947a3b8d62f);
+
+
+
+
+            var circle_marker_ab91eeedaf354412954673c9a3b09450 = L.circleMarker(
+                [32.926059,-117.26028400000001],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": false,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 2,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_4c555b647aad40a8b47cadd5f3f295e2);
+
+
+            var popup_1650d77c3da44b57949cd98271e0e918 = L.popup({maxWidth: '300'});
+
+
+                var html_606797a401b1447d88fdbd490b4c15a4 = $('<div id="html_606797a401b1447d88fdbd490b4c15a4" style="width: 100.0%; height: 100.0%;"><a href="https://www.google.com/maps/dir/Scripps+Institution+of+Oceanography,+8622+Kennel+Way,+La+Jolla,+CA+92037/32.926059,-117.26028400000001/@32.8857266,-117.4829295,10z/data=!4m2!4m1!3e1">Torrey Pines</a></div>')[0];
+                popup_1650d77c3da44b57949cd98271e0e918.setContent(html_606797a401b1447d88fdbd490b4c15a4);
+
+
+            circle_marker_ab91eeedaf354412954673c9a3b09450.bindPopup(popup_1650d77c3da44b57949cd98271e0e918);
+
+
+
+
+            var circle_marker_e59de924b92c4a899dd5b7b097bab787 = L.circleMarker(
+                [32.884307,-117.253421],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": false,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 2,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_4c555b647aad40a8b47cadd5f3f295e2);
+
+
+            var popup_f4850017617a425dbb65ca0e5b7bbd60 = L.popup({maxWidth: '300'});
+
+
+                var html_97ab7deb4d5d466d962489ffced4121a = $('<div id="html_97ab7deb4d5d466d962489ffced4121a" style="width: 100.0%; height: 100.0%;"><a href="https://www.google.com/maps/dir/Scripps+Institution+of+Oceanography,+8622+Kennel+Way,+La+Jolla,+CA+92037/32.884307,-117.253421/@32.8857266,-117.4829295,10z/data=!4m2!4m1!3e1">Blacks</a></div>')[0];
+                popup_f4850017617a425dbb65ca0e5b7bbd60.setContent(html_97ab7deb4d5d466d962489ffced4121a);
+
+
+            circle_marker_e59de924b92c4a899dd5b7b097bab787.bindPopup(popup_f4850017617a425dbb65ca0e5b7bbd60);
+
+
+
+
+            var circle_marker_7e8af12027104a89b5c7c793c694ecd4 = L.circleMarker(
+                [32.8642,-117.256],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": false,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 2,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_4c555b647aad40a8b47cadd5f3f295e2);
+
+
+            var popup_23091c8142a34b9d84c95f5a8581983b = L.popup({maxWidth: '300'});
+
+
+                var html_701806ae605f4fe3a5f93d33d776d85a = $('<div id="html_701806ae605f4fe3a5f93d33d776d85a" style="width: 100.0%; height: 100.0%;"><a href="https://www.google.com/maps/dir/Scripps+Institution+of+Oceanography,+8622+Kennel+Way,+La+Jolla,+CA+92037/32.8642,-117.256/@32.8857266,-117.4829295,10z/data=!4m2!4m1!3e1">Scripps Pier</a></div>')[0];
+                popup_23091c8142a34b9d84c95f5a8581983b.setContent(html_701806ae605f4fe3a5f93d33d776d85a);
+
+
+            circle_marker_7e8af12027104a89b5c7c793c694ecd4.bindPopup(popup_23091c8142a34b9d84c95f5a8581983b);
+
+
+
+
+            var circle_marker_1073655bc33e4319b7d2b2988c215cc6 = L.circleMarker(
+                [32.8396,-117.28399999999999],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": false,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 2,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_4c555b647aad40a8b47cadd5f3f295e2);
+
+
+            var popup_dde21272a4494bf5ab46f7c19f68d66a = L.popup({maxWidth: '300'});
+
+
+                var html_bbf2120b783f4bc180ede8f38703f619 = $('<div id="html_bbf2120b783f4bc180ede8f38703f619" style="width: 100.0%; height: 100.0%;"><a href="https://www.google.com/maps/dir/Scripps+Institution+of+Oceanography,+8622+Kennel+Way,+La+Jolla,+CA+92037/32.8396,-117.28399999999999/@32.8857266,-117.4829295,10z/data=!4m2!4m1!3e1">Horseshoe</a></div>')[0];
+                popup_dde21272a4494bf5ab46f7c19f68d66a.setContent(html_bbf2120b783f4bc180ede8f38703f619);
+
+
+            circle_marker_1073655bc33e4319b7d2b2988c215cc6.bindPopup(popup_dde21272a4494bf5ab46f7c19f68d66a);
+
+
+
+
+            var circle_marker_e0a530625d35468f94ac37d5ceeb75bf = L.circleMarker(
                 [32.8295,-117.28200000000001],
                 {
-                    icon: new L.Icon.Default()
-                    }
-                )
-                .addTo(map_109281af16134998a6d19866cd274594);
-            
-    
-            var popup_8bab4a9f5cfc4621a195d211ffeb68a0 = L.popup({maxWidth: '300'});
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": false,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 2,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_4c555b647aad40a8b47cadd5f3f295e2);
 
-            
-                var html_96a7a33b5430488eb4c0b81517fa81fc = $('<div id="html_96a7a33b5430488eb4c0b81517fa81fc" style="width: 100.0%; height: 100.0%;">Windansea Beach</div>')[0];
-                popup_8bab4a9f5cfc4621a195d211ffeb68a0.setContent(html_96a7a33b5430488eb4c0b81517fa81fc);
-            
 
-            marker_48d74afe41a04df08e03a5764c64c805.bindPopup(popup_8bab4a9f5cfc4621a195d211ffeb68a0);
+            var popup_12da6b97e8fb4484b8cc946cc8108bca = L.popup({maxWidth: '300'});
 
-            
-        
+
+                var html_dd051dde0e3b42e2bc14ef8007ebbd7b = $('<div id="html_dd051dde0e3b42e2bc14ef8007ebbd7b" style="width: 100.0%; height: 100.0%;"><a href="https://www.google.com/maps/dir/Scripps+Institution+of+Oceanography,+8622+Kennel+Way,+La+Jolla,+CA+92037/32.8295,-117.28200000000001/@32.8857266,-117.4829295,10z/data=!4m2!4m1!3e1">Windansea</a></div>')[0];
+                popup_12da6b97e8fb4484b8cc946cc8108bca.setContent(html_dd051dde0e3b42e2bc14ef8007ebbd7b);
+
+
+            circle_marker_e0a530625d35468f94ac37d5ceeb75bf.bindPopup(popup_12da6b97e8fb4484b8cc946cc8108bca);
+
+
+
+
+            var circle_marker_903f6bea39d84c03b910e7c22101ee8d = L.circleMarker(
+                [32.8142,-117.275],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": false,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 2,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_4c555b647aad40a8b47cadd5f3f295e2);
+
+
+            var popup_a2999fc8f2894958b1a69a8059cb6e5d = L.popup({maxWidth: '300'});
+
+
+                var html_31577ab3ac2e40428a756f596668b0f3 = $('<div id="html_31577ab3ac2e40428a756f596668b0f3" style="width: 100.0%; height: 100.0%;"><a href="https://www.google.com/maps/dir/Scripps+Institution+of+Oceanography,+8622+Kennel+Way,+La+Jolla,+CA+92037/32.8142,-117.275/@32.8857266,-117.4829295,10z/data=!4m2!4m1!3e1">Birdrock</a></div>')[0];
+                popup_a2999fc8f2894958b1a69a8059cb6e5d.setContent(html_31577ab3ac2e40428a756f596668b0f3);
+
+
+            circle_marker_903f6bea39d84c03b910e7c22101ee8d.bindPopup(popup_a2999fc8f2894958b1a69a8059cb6e5d);
+
+
+
+
+            var circle_marker_b4d99e4151ec43028d8e982bd9b29990 = L.circleMarker(
+                [32.807123,-117.26948],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": false,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 2,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_4c555b647aad40a8b47cadd5f3f295e2);
+
+
+            var popup_dad09d75e5e84b34bfdffaa1938fe681 = L.popup({maxWidth: '300'});
+
+
+                var html_61f57a48a40d41f390bad526d8266562 = $('<div id="html_61f57a48a40d41f390bad526d8266562" style="width: 100.0%; height: 100.0%;"><a href="https://www.google.com/maps/dir/Scripps+Institution+of+Oceanography,+8622+Kennel+Way,+La+Jolla,+CA+92037/32.807123,-117.26948/@32.8857266,-117.4829295,10z/data=!4m2!4m1!3e1">PB Point</a></div>')[0];
+                popup_dad09d75e5e84b34bfdffaa1938fe681.setContent(html_61f57a48a40d41f390bad526d8266562);
+
+
+            circle_marker_b4d99e4151ec43028d8e982bd9b29990.bindPopup(popup_dad09d75e5e84b34bfdffaa1938fe681);
+
+
+
+
+            var circle_marker_ef311894c94741e0b83e38570df66b9e = L.circleMarker(
+                [32.804763,-117.263507],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": false,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 2,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_4c555b647aad40a8b47cadd5f3f295e2);
+
+
+            var popup_889bdc9cafc1441db4e6267ec9a5f683 = L.popup({maxWidth: '300'});
+
+
+                var html_df0a154de21d453884f5978b2fc16e22 = $('<div id="html_df0a154de21d453884f5978b2fc16e22" style="width: 100.0%; height: 100.0%;"><a href="https://www.google.com/maps/dir/Scripps+Institution+of+Oceanography,+8622+Kennel+Way,+La+Jolla,+CA+92037/32.804763,-117.263507/@32.8857266,-117.4829295,10z/data=!4m2!4m1!3e1">Tourmo</a></div>')[0];
+                popup_889bdc9cafc1441db4e6267ec9a5f683.setContent(html_df0a154de21d453884f5978b2fc16e22);
+
+
+            circle_marker_ef311894c94741e0b83e38570df66b9e.bindPopup(popup_889bdc9cafc1441db4e6267ec9a5f683);
+
+
+
+
+            var circle_marker_1886cb39e04949f38c1991707f89e170 = L.circleMarker(
+                [32.7965,-117.2581],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": false,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 2,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_4c555b647aad40a8b47cadd5f3f295e2);
+
+
+            var popup_8ce3425aad2a41d399163ee3f8f126a8 = L.popup({maxWidth: '300'});
+
+
+                var html_620ae12c83c144a5b16622633db4c090 = $('<div id="html_620ae12c83c144a5b16622633db4c090" style="width: 100.0%; height: 100.0%;"><a href="https://www.google.com/maps/dir/Scripps+Institution+of+Oceanography,+8622+Kennel+Way,+La+Jolla,+CA+92037/32.7965,-117.2581/@32.8857266,-117.4829295,10z/data=!4m2!4m1!3e1">Pacific Beach</a></div>')[0];
+                popup_8ce3425aad2a41d399163ee3f8f126a8.setContent(html_620ae12c83c144a5b16622633db4c090);
+
+
+            circle_marker_1886cb39e04949f38c1991707f89e170.bindPopup(popup_8ce3425aad2a41d399163ee3f8f126a8);
+
+
+
+
+            var circle_marker_f5da2a84846e4035929b150cb5a1c93f = L.circleMarker(
+                [32.7762,-117.255],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": false,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 2,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_4c555b647aad40a8b47cadd5f3f295e2);
+
+
+            var popup_5859687383f9471c90d856bd785a0ccb = L.popup({maxWidth: '300'});
+
+
+                var html_3b2592be9db9452f8d3887984a44260d = $('<div id="html_3b2592be9db9452f8d3887984a44260d" style="width: 100.0%; height: 100.0%;"><a href="https://www.google.com/maps/dir/Scripps+Institution+of+Oceanography,+8622+Kennel+Way,+La+Jolla,+CA+92037/32.7762,-117.255/@32.8857266,-117.4829295,10z/data=!4m2!4m1!3e1">Mission Beach</a></div>')[0];
+                popup_5859687383f9471c90d856bd785a0ccb.setContent(html_3b2592be9db9452f8d3887984a44260d);
+
+
+            circle_marker_f5da2a84846e4035929b150cb5a1c93f.bindPopup(popup_5859687383f9471c90d856bd785a0ccb);
+
+
+
+
+            var circle_marker_3d035d62e4254a28922b723ab9a77fc1 = L.circleMarker(
+                [32.7481,-117.256],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": false,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 2,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_4c555b647aad40a8b47cadd5f3f295e2);
+
+
+            var popup_daa83fb712374c92809fe2ee8336660f = L.popup({maxWidth: '300'});
+
+
+                var html_cd3d9a9d178347eeb81c9958b87aa3b8 = $('<div id="html_cd3d9a9d178347eeb81c9958b87aa3b8" style="width: 100.0%; height: 100.0%;"><a href="https://www.google.com/maps/dir/Scripps+Institution+of+Oceanography,+8622+Kennel+Way,+La+Jolla,+CA+92037/32.7481,-117.256/@32.8857266,-117.4829295,10z/data=!4m2!4m1!3e1">Ocean Beach</a></div>')[0];
+                popup_daa83fb712374c92809fe2ee8336660f.setContent(html_cd3d9a9d178347eeb81c9958b87aa3b8);
+
+
+            circle_marker_3d035d62e4254a28922b723ab9a77fc1.bindPopup(popup_daa83fb712374c92809fe2ee8336660f);
+
+
+
+
+            var circle_marker_5fae14a62c7343d7bf462937e239b655 = L.circleMarker(
+                [32.7159,-117.257],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": false,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 2,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_4c555b647aad40a8b47cadd5f3f295e2);
+
+
+            var popup_188ad8cf3a634bb38d19716a1ae54712 = L.popup({maxWidth: '300'});
+
+
+                var html_2134ffca0382417dac6068459b1338e8 = $('<div id="html_2134ffca0382417dac6068459b1338e8" style="width: 100.0%; height: 100.0%;"><a href="https://www.google.com/maps/dir/Scripps+Institution+of+Oceanography,+8622+Kennel+Way,+La+Jolla,+CA+92037/32.7159,-117.257/@32.8857266,-117.4829295,10z/data=!4m2!4m1!3e1">Sunset Cliffs</a></div>')[0];
+                popup_188ad8cf3a634bb38d19716a1ae54712.setContent(html_2134ffca0382417dac6068459b1338e8);
+
+
+            circle_marker_5fae14a62c7343d7bf462937e239b655.bindPopup(popup_188ad8cf3a634bb38d19716a1ae54712);
+
+
+
+
+            var circle_marker_272d24818e2a4ba79150d97f27e87a67 = L.circleMarker(
+                [32.672207,-117.171922],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": false,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 2,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_4c555b647aad40a8b47cadd5f3f295e2);
+
+
+            var popup_04be995914494f3d9358f4885a0fdc90 = L.popup({maxWidth: '300'});
+
+
+                var html_890de48ee58e438ea9f915a53e54dd67 = $('<div id="html_890de48ee58e438ea9f915a53e54dd67" style="width: 100.0%; height: 100.0%;"><a href="https://www.google.com/maps/dir/Scripps+Institution+of+Oceanography,+8622+Kennel+Way,+La+Jolla,+CA+92037/32.672207,-117.171922/@32.8857266,-117.4829295,10z/data=!4m2!4m1!3e1">Coronado</a></div>')[0];
+                popup_04be995914494f3d9358f4885a0fdc90.setContent(html_890de48ee58e438ea9f915a53e54dd67);
+
+
+            circle_marker_272d24818e2a4ba79150d97f27e87a67.bindPopup(popup_04be995914494f3d9358f4885a0fdc90);
+
+
+
+
+            var circle_marker_aeba904ccfa84e6d9d38c90dec9b25ee = L.circleMarker(
+                [32.6647,-117.24600000000001],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": false,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 2,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_4c555b647aad40a8b47cadd5f3f295e2);
+
+
+            var popup_5424d576538c48818b610bc90655e1a6 = L.popup({maxWidth: '300'});
+
+
+                var html_b5349a99521148aab2878720345db0b6 = $('<div id="html_b5349a99521148aab2878720345db0b6" style="width: 100.0%; height: 100.0%;"><a href="https://www.google.com/maps/dir/Scripps+Institution+of+Oceanography,+8622+Kennel+Way,+La+Jolla,+CA+92037/32.6647,-117.24600000000001/@32.8857266,-117.4829295,10z/data=!4m2!4m1!3e1">Point Loma</a></div>')[0];
+                popup_5424d576538c48818b610bc90655e1a6.setContent(html_b5349a99521148aab2878720345db0b6);
+
+
+            circle_marker_aeba904ccfa84e6d9d38c90dec9b25ee.bindPopup(popup_5424d576538c48818b610bc90655e1a6);
+
+
+
+
+            var circle_marker_424d09b661094b7784d8ce960fdb3a88 = L.circleMarker(
+                [32.5774,-117.134],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": false,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 2,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_4c555b647aad40a8b47cadd5f3f295e2);
+
+
+            var popup_a5a701731b9e431f84296945e89d96ca = L.popup({maxWidth: '300'});
+
+
+                var html_b6529c2255594962bdbd0d62789205fd = $('<div id="html_b6529c2255594962bdbd0d62789205fd" style="width: 100.0%; height: 100.0%;"><a href="https://www.google.com/maps/dir/Scripps+Institution+of+Oceanography,+8622+Kennel+Way,+La+Jolla,+CA+92037/32.5774,-117.134/@32.8857266,-117.4829295,10z/data=!4m2!4m1!3e1">Imperial Beach</a></div>')[0];
+                popup_a5a701731b9e431f84296945e89d96ca.setContent(html_b6529c2255594962bdbd0d62789205fd);
+
+
+            circle_marker_424d09b661094b7784d8ce960fdb3a88.bindPopup(popup_a5a701731b9e431f84296945e89d96ca);
+
+
+
+
+            var circle_marker_37daadd280d0401893d6ad2f084c1740 = L.circleMarker(
+                [32.553383000000004,-117.12953300000001],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": false,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 2,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_4c555b647aad40a8b47cadd5f3f295e2);
+
+
+            var popup_e7da4e6fdb924f53b44fbc561c636b97 = L.popup({maxWidth: '300'});
+
+
+                var html_fbc8252155b34a588a77085de6a8c9d1 = $('<div id="html_fbc8252155b34a588a77085de6a8c9d1" style="width: 100.0%; height: 100.0%;"><a href="https://www.google.com/maps/dir/Scripps+Institution+of+Oceanography,+8622+Kennel+Way,+La+Jolla,+CA+92037/32.553383000000004,-117.12953300000001/@32.8857266,-117.4829295,10z/data=!4m2!4m1!3e1">Tijuana Slough</a></div>')[0];
+                popup_e7da4e6fdb924f53b44fbc561c636b97.setContent(html_fbc8252155b34a588a77085de6a8c9d1);
+
+
+            circle_marker_37daadd280d0401893d6ad2f084c1740.bindPopup(popup_e7da4e6fdb924f53b44fbc561c636b97);
+
+
+
+
+
+
+                map_4c555b647aad40a8b47cadd5f3f295e2.fitBounds(
+                    [[32.553383000000004, -117.39413200000001], [33.201538, -117.12953300000001]],
+                    {}
+                    );
+
+
+            var circle_marker_45eaf4abf69b4db9923577d27346cb29 = L.circleMarker(
+                [33.201538,-117.39413200000001],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": false,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 2,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_4c555b647aad40a8b47cadd5f3f295e2);
+
+
+            var popup_f48c65239e0d4caf9ef313331073afd7 = L.popup({maxWidth: '300'});
+
+
+                var html_1b1e5af4809e44a4b555f3805414da08 = $('<div id="html_1b1e5af4809e44a4b555f3805414da08" style="width: 100.0%; height: 100.0%;"><a href="https://www.google.com/maps/dir/Scripps+Institution+of+Oceanography,+8622+Kennel+Way,+La+Jolla,+CA+92037/33.201538,-117.39413200000001/@32.8857266,-117.4829295,10z/data=!4m2!4m1!3e1"target="_blank">Oceanside Harbor</a></div>')[0];
+                popup_f48c65239e0d4caf9ef313331073afd7.setContent(html_1b1e5af4809e44a4b555f3805414da08);
+
+
+            circle_marker_45eaf4abf69b4db9923577d27346cb29.bindPopup(popup_f48c65239e0d4caf9ef313331073afd7);
+
+
+
+
+            var circle_marker_2c249bbb59d9434ea15b77ad676eac68 = L.circleMarker(
+                [33.1922,-117.38600000000001],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": false,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 2,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_4c555b647aad40a8b47cadd5f3f295e2);
+
+
+            var popup_06e772a6d4624a6bbf81d22eba3a90d6 = L.popup({maxWidth: '300'});
+
+
+                var html_7a3f9d9b8dd4412e9f46dc4655c0c454 = $('<div id="html_7a3f9d9b8dd4412e9f46dc4655c0c454" style="width: 100.0%; height: 100.0%;"><a href="https://www.google.com/maps/dir/Scripps+Institution+of+Oceanography,+8622+Kennel+Way,+La+Jolla,+CA+92037/33.1922,-117.38600000000001/@32.8857266,-117.4829295,10z/data=!4m2!4m1!3e1"target="_blank">Oceanside</a></div>')[0];
+                popup_06e772a6d4624a6bbf81d22eba3a90d6.setContent(html_7a3f9d9b8dd4412e9f46dc4655c0c454);
+
+
+            circle_marker_2c249bbb59d9434ea15b77ad676eac68.bindPopup(popup_06e772a6d4624a6bbf81d22eba3a90d6);
+
+
+
+
+            var circle_marker_dcc9f8c3df43417c90c554a8e3d02149 = L.circleMarker(
+                [33.1577,-117.35600000000001],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": false,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 2,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_4c555b647aad40a8b47cadd5f3f295e2);
+
+
+            var popup_f59ed9da470f4826ae75c2f9888622cc = L.popup({maxWidth: '300'});
+
+
+                var html_b4b0ec8297c0403fac47b8571a64073d = $('<div id="html_b4b0ec8297c0403fac47b8571a64073d" style="width: 100.0%; height: 100.0%;"><a href="https://www.google.com/maps/dir/Scripps+Institution+of+Oceanography,+8622+Kennel+Way,+La+Jolla,+CA+92037/33.1577,-117.35600000000001/@32.8857266,-117.4829295,10z/data=!4m2!4m1!3e1"target="_blank">Carlsbad</a></div>')[0];
+                popup_f59ed9da470f4826ae75c2f9888622cc.setContent(html_b4b0ec8297c0403fac47b8571a64073d);
+
+
+            circle_marker_dcc9f8c3df43417c90c554a8e3d02149.bindPopup(popup_f59ed9da470f4826ae75c2f9888622cc);
+
+
+
+
+            var circle_marker_b11300434c54427a9d209a43ea7ac21b = L.circleMarker(
+                [33.14653,-117.34725300000001],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": false,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 2,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_4c555b647aad40a8b47cadd5f3f295e2);
+
+
+            var popup_d4804cfd04884a80a8783b44576a6278 = L.popup({maxWidth: '300'});
+
+
+                var html_b878ddb6ac464cd1b30c1be92a702c2a = $('<div id="html_b878ddb6ac464cd1b30c1be92a702c2a" style="width: 100.0%; height: 100.0%;"><a href="https://www.google.com/maps/dir/Scripps+Institution+of+Oceanography,+8622+Kennel+Way,+La+Jolla,+CA+92037/33.14653,-117.34725300000001/@32.8857266,-117.4829295,10z/data=!4m2!4m1!3e1"target="_blank">Tamarack </a></div>')[0];
+                popup_d4804cfd04884a80a8783b44576a6278.setContent(html_b878ddb6ac464cd1b30c1be92a702c2a);
+
+
+            circle_marker_b11300434c54427a9d209a43ea7ac21b.bindPopup(popup_d4804cfd04884a80a8783b44576a6278);
+
+
+
+
+            var circle_marker_af95461ac91343e0a975c791628a89c4 = L.circleMarker(
+                [33.12918,-117.33781299999998],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": false,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 2,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_4c555b647aad40a8b47cadd5f3f295e2);
+
+
+            var popup_26fcc56daefe49048583324a44110383 = L.popup({maxWidth: '300'});
+
+
+                var html_0e797a9572964d7aadfa90def342c648 = $('<div id="html_0e797a9572964d7aadfa90def342c648" style="width: 100.0%; height: 100.0%;"><a href="https://www.google.com/maps/dir/Scripps+Institution+of+Oceanography,+8622+Kennel+Way,+La+Jolla,+CA+92037/33.12918,-117.33781299999998/@32.8857266,-117.4829295,10z/data=!4m2!4m1!3e1"target="_blank">Terra Mar</a></div>')[0];
+                popup_26fcc56daefe49048583324a44110383.setContent(html_0e797a9572964d7aadfa90def342c648);
+
+
+            circle_marker_af95461ac91343e0a975c791628a89c4.bindPopup(popup_26fcc56daefe49048583324a44110383);
+
+
+
+
+            var circle_marker_847b05345efc4545a138f3f67cde44d3 = L.circleMarker(
+                [33.0886,-117.315],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": false,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 2,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_4c555b647aad40a8b47cadd5f3f295e2);
+
+
+            var popup_bce73fcbb7d44e3d9bf596dd6e93720e = L.popup({maxWidth: '300'});
+
+
+                var html_86f3b82a76644d22bff924774568ccdf = $('<div id="html_86f3b82a76644d22bff924774568ccdf" style="width: 100.0%; height: 100.0%;"><a href="https://www.google.com/maps/dir/Scripps+Institution+of+Oceanography,+8622+Kennel+Way,+La+Jolla,+CA+92037/33.0886,-117.315/@32.8857266,-117.4829295,10z/data=!4m2!4m1!3e1"target="_blank">Ponto</a></div>')[0];
+                popup_bce73fcbb7d44e3d9bf596dd6e93720e.setContent(html_86f3b82a76644d22bff924774568ccdf);
+
+
+            circle_marker_847b05345efc4545a138f3f67cde44d3.bindPopup(popup_bce73fcbb7d44e3d9bf596dd6e93720e);
+
+
+
+
+            var circle_marker_6d52a5cfd7eb4d90971c87d85cb67ddc = L.circleMarker(
+                [33.0758,-117.3112],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": false,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 2,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_4c555b647aad40a8b47cadd5f3f295e2);
+
+
+            var popup_40f6ebd07c2c4f45a612f9bcf6faea8d = L.popup({maxWidth: '300'});
+
+
+                var html_165849f61a354ca2bb161cfdefd02998 = $('<div id="html_165849f61a354ca2bb161cfdefd02998" style="width: 100.0%; height: 100.0%;"><a href="https://www.google.com/maps/dir/Scripps+Institution+of+Oceanography,+8622+Kennel+Way,+La+Jolla,+CA+92037/33.0758,-117.3112/@32.8857266,-117.4829295,10z/data=!4m2!4m1!3e1"target="_blank">Grandview</a></div>')[0];
+                popup_40f6ebd07c2c4f45a612f9bcf6faea8d.setContent(html_165849f61a354ca2bb161cfdefd02998);
+
+
+            circle_marker_6d52a5cfd7eb4d90971c87d85cb67ddc.bindPopup(popup_40f6ebd07c2c4f45a612f9bcf6faea8d);
+
+
+
+
+            var circle_marker_a7bbe8a60cda4cd4909b9d1b78bf963c = L.circleMarker(
+                [33.0646,-117.3064],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": false,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 2,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_4c555b647aad40a8b47cadd5f3f295e2);
+
+
+            var popup_cb17fe7de5cc4eb69a993f14242c2404 = L.popup({maxWidth: '300'});
+
+
+                var html_8fba994c0f114ce69e49cb588de90b26 = $('<div id="html_8fba994c0f114ce69e49cb588de90b26" style="width: 100.0%; height: 100.0%;"><a href="https://www.google.com/maps/dir/Scripps+Institution+of+Oceanography,+8622+Kennel+Way,+La+Jolla,+CA+92037/33.0646,-117.3064/@32.8857266,-117.4829295,10z/data=!4m2!4m1!3e1"target="_blank">Beacons</a></div>')[0];
+                popup_cb17fe7de5cc4eb69a993f14242c2404.setContent(html_8fba994c0f114ce69e49cb588de90b26);
+
+
+            circle_marker_a7bbe8a60cda4cd4909b9d1b78bf963c.bindPopup(popup_cb17fe7de5cc4eb69a993f14242c2404);
+
+
+
+
+            var circle_marker_a9797ae9aa934b389c2eff52185d7b08 = L.circleMarker(
+                [33.0481,-117.3001],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": false,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 2,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_4c555b647aad40a8b47cadd5f3f295e2);
+
+
+            var popup_1e104018d31842c589cfd9db32e40c93 = L.popup({maxWidth: '300'});
+
+
+                var html_4ae1a2845838446586a82fd37dda9c13 = $('<div id="html_4ae1a2845838446586a82fd37dda9c13" style="width: 100.0%; height: 100.0%;"><a href="https://www.google.com/maps/dir/Scripps+Institution+of+Oceanography,+8622+Kennel+Way,+La+Jolla,+CA+92037/33.0481,-117.3001/@32.8857266,-117.4829295,10z/data=!4m2!4m1!3e1"target="_blank">Moonlight</a></div>')[0];
+                popup_1e104018d31842c589cfd9db32e40c93.setContent(html_4ae1a2845838446586a82fd37dda9c13);
+
+
+            circle_marker_a9797ae9aa934b389c2eff52185d7b08.bindPopup(popup_1e104018d31842c589cfd9db32e40c93);
+
+
+
+
+            var circle_marker_bcb28c9f207a48d7a4fa34e63e80d938 = L.circleMarker(
+                [33.0346,-117.295],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": false,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 2,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_4c555b647aad40a8b47cadd5f3f295e2);
+
+
+            var popup_c167b97db27e44e49ee1f3e44afa17fa = L.popup({maxWidth: '300'});
+
+
+                var html_8e8039231bf24c9491ef2b29b0b2393b = $('<div id="html_8e8039231bf24c9491ef2b29b0b2393b" style="width: 100.0%; height: 100.0%;"><a href="https://www.google.com/maps/dir/Scripps+Institution+of+Oceanography,+8622+Kennel+Way,+La+Jolla,+CA+92037/33.0346,-117.295/@32.8857266,-117.4829295,10z/data=!4m2!4m1!3e1"target="_blank">Swamis</a></div>')[0];
+                popup_c167b97db27e44e49ee1f3e44afa17fa.setContent(html_8e8039231bf24c9491ef2b29b0b2393b);
+
+
+            circle_marker_bcb28c9f207a48d7a4fa34e63e80d938.bindPopup(popup_c167b97db27e44e49ee1f3e44afa17fa);
+
+
+
+
+            var circle_marker_63fffb44ec1041ca813ad8d2beca1773 = L.circleMarker(
+                [33.021368,-117.28644299999999],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": false,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 2,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_4c555b647aad40a8b47cadd5f3f295e2);
+
+
+            var popup_8dffeca22a334ab692c56a93285c6387 = L.popup({maxWidth: '300'});
+
+
+                var html_a1dfcd3607fb4b0ebeab5a6701e30e9b = $('<div id="html_a1dfcd3607fb4b0ebeab5a6701e30e9b" style="width: 100.0%; height: 100.0%;"><a href="https://www.google.com/maps/dir/Scripps+Institution+of+Oceanography,+8622+Kennel+Way,+La+Jolla,+CA+92037/33.021368,-117.28644299999999/@32.8857266,-117.4829295,10z/data=!4m2!4m1!3e1"target="_blank">Pipes</a></div>')[0];
+                popup_8dffeca22a334ab692c56a93285c6387.setContent(html_a1dfcd3607fb4b0ebeab5a6701e30e9b);
+
+
+            circle_marker_63fffb44ec1041ca813ad8d2beca1773.bindPopup(popup_8dffeca22a334ab692c56a93285c6387);
+
+
+
+
+            var circle_marker_a28c0b8ef96d4dc2a4844eb1588e70df = L.circleMarker(
+                [33.0148,-117.2845],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": false,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 2,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_4c555b647aad40a8b47cadd5f3f295e2);
+
+
+            var popup_b3e70640298a49c69aa0019e49025f2a = L.popup({maxWidth: '300'});
+
+
+                var html_9c7db4345e284f6ea7effe067dcfbab6 = $('<div id="html_9c7db4345e284f6ea7effe067dcfbab6" style="width: 100.0%; height: 100.0%;"><a href="https://www.google.com/maps/dir/Scripps+Institution+of+Oceanography,+8622+Kennel+Way,+La+Jolla,+CA+92037/33.0148,-117.2845/@32.8857266,-117.4829295,10z/data=!4m2!4m1!3e1"target="_blank">Cardiff Reef</a></div>')[0];
+                popup_b3e70640298a49c69aa0019e49025f2a.setContent(html_9c7db4345e284f6ea7effe067dcfbab6);
+
+
+            circle_marker_a28c0b8ef96d4dc2a4844eb1588e70df.bindPopup(popup_b3e70640298a49c69aa0019e49025f2a);
+
+
+
+
+            var circle_marker_ce402cae5cea484b9da6278d6282d04e = L.circleMarker(
+                [32.99,-117.277],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": false,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 2,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_4c555b647aad40a8b47cadd5f3f295e2);
+
+
+            var popup_d007a158acf6496090a6b89f27d40857 = L.popup({maxWidth: '300'});
+
+
+                var html_7583d338aba1419aa7223b79c16a8b67 = $('<div id="html_7583d338aba1419aa7223b79c16a8b67" style="width: 100.0%; height: 100.0%;"><a href="https://www.google.com/maps/dir/Scripps+Institution+of+Oceanography,+8622+Kennel+Way,+La+Jolla,+CA+92037/32.99,-117.277/@32.8857266,-117.4829295,10z/data=!4m2!4m1!3e1"target="_blank">Solana Beach</a></div>')[0];
+                popup_d007a158acf6496090a6b89f27d40857.setContent(html_7583d338aba1419aa7223b79c16a8b67);
+
+
+            circle_marker_ce402cae5cea484b9da6278d6282d04e.bindPopup(popup_d007a158acf6496090a6b89f27d40857);
+
+
+
+
+            var circle_marker_f29f7cca057c43d39403b9c807cb8230 = L.circleMarker(
+                [32.9754,-117.271],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": false,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 2,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_4c555b647aad40a8b47cadd5f3f295e2);
+
+
+            var popup_9e1b545ed83a4a24a8415c8db4e9154e = L.popup({maxWidth: '300'});
+
+
+                var html_e178771a07064a3395ea19579ae668ca = $('<div id="html_e178771a07064a3395ea19579ae668ca" style="width: 100.0%; height: 100.0%;"><a href="https://www.google.com/maps/dir/Scripps+Institution+of+Oceanography,+8622+Kennel+Way,+La+Jolla,+CA+92037/32.9754,-117.271/@32.8857266,-117.4829295,10z/data=!4m2!4m1!3e1"target="_blank">Del Mar Rivermouth</a></div>')[0];
+                popup_9e1b545ed83a4a24a8415c8db4e9154e.setContent(html_e178771a07064a3395ea19579ae668ca);
+
+
+            circle_marker_f29f7cca057c43d39403b9c807cb8230.bindPopup(popup_9e1b545ed83a4a24a8415c8db4e9154e);
+
+
+
+
+            var circle_marker_83645cf876a84e69ae427ee0d0baf6d8 = L.circleMarker(
+                [32.959,-117.26799999999999],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": false,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 2,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_4c555b647aad40a8b47cadd5f3f295e2);
+
+
+            var popup_0f6a486c75e34c49a798713e3e2913f0 = L.popup({maxWidth: '300'});
+
+
+                var html_57bdd5be35ce4bf7a287876bc1eb0755 = $('<div id="html_57bdd5be35ce4bf7a287876bc1eb0755" style="width: 100.0%; height: 100.0%;"><a href="https://www.google.com/maps/dir/Scripps+Institution+of+Oceanography,+8622+Kennel+Way,+La+Jolla,+CA+92037/32.959,-117.26799999999999/@32.8857266,-117.4829295,10z/data=!4m2!4m1!3e1"target="_blank">Del Mar</a></div>')[0];
+                popup_0f6a486c75e34c49a798713e3e2913f0.setContent(html_57bdd5be35ce4bf7a287876bc1eb0755);
+
+
+            circle_marker_83645cf876a84e69ae427ee0d0baf6d8.bindPopup(popup_0f6a486c75e34c49a798713e3e2913f0);
+
+
+
+
+            var circle_marker_7b0558d632774becab9c5cab54796afc = L.circleMarker(
+                [32.926059,-117.26028400000001],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": false,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 2,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_4c555b647aad40a8b47cadd5f3f295e2);
+
+
+            var popup_bf2ae2e2f4374eedadd16f8bcde92e27 = L.popup({maxWidth: '300'});
+
+
+                var html_323bb22ae14949bf987e15c3c5025fc2 = $('<div id="html_323bb22ae14949bf987e15c3c5025fc2" style="width: 100.0%; height: 100.0%;"><a href="https://www.google.com/maps/dir/Scripps+Institution+of+Oceanography,+8622+Kennel+Way,+La+Jolla,+CA+92037/32.926059,-117.26028400000001/@32.8857266,-117.4829295,10z/data=!4m2!4m1!3e1"target="_blank">Torrey Pines</a></div>')[0];
+                popup_bf2ae2e2f4374eedadd16f8bcde92e27.setContent(html_323bb22ae14949bf987e15c3c5025fc2);
+
+
+            circle_marker_7b0558d632774becab9c5cab54796afc.bindPopup(popup_bf2ae2e2f4374eedadd16f8bcde92e27);
+
+
+
+
+            var circle_marker_fdbc4c29d4164de39fd340e795b0d5ac = L.circleMarker(
+                [32.884307,-117.253421],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": false,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 2,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_4c555b647aad40a8b47cadd5f3f295e2);
+
+
+            var popup_95260692f14b437fa9a69af62ce5b001 = L.popup({maxWidth: '300'});
+
+
+                var html_a6a6676155dc4e1ba52d6c41283ff6f8 = $('<div id="html_a6a6676155dc4e1ba52d6c41283ff6f8" style="width: 100.0%; height: 100.0%;"><a href="https://www.google.com/maps/dir/Scripps+Institution+of+Oceanography,+8622+Kennel+Way,+La+Jolla,+CA+92037/32.884307,-117.253421/@32.8857266,-117.4829295,10z/data=!4m2!4m1!3e1"target="_blank">Blacks</a></div>')[0];
+                popup_95260692f14b437fa9a69af62ce5b001.setContent(html_a6a6676155dc4e1ba52d6c41283ff6f8);
+
+
+            circle_marker_fdbc4c29d4164de39fd340e795b0d5ac.bindPopup(popup_95260692f14b437fa9a69af62ce5b001);
+
+
+
+
+            var circle_marker_f036407ccf644c2798a1c3c720c801d6 = L.circleMarker(
+                [32.8642,-117.256],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": false,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 2,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_4c555b647aad40a8b47cadd5f3f295e2);
+
+
+            var popup_d90c92c12e3f47229f4435f15e9b89b4 = L.popup({maxWidth: '300'});
+
+
+                var html_52ee2aa8a29a45db844e29da0971ecf2 = $('<div id="html_52ee2aa8a29a45db844e29da0971ecf2" style="width: 100.0%; height: 100.0%;"><a href="https://www.google.com/maps/dir/Scripps+Institution+of+Oceanography,+8622+Kennel+Way,+La+Jolla,+CA+92037/32.8642,-117.256/@32.8857266,-117.4829295,10z/data=!4m2!4m1!3e1"target="_blank">Scripps Pier</a></div>')[0];
+                popup_d90c92c12e3f47229f4435f15e9b89b4.setContent(html_52ee2aa8a29a45db844e29da0971ecf2);
+
+
+            circle_marker_f036407ccf644c2798a1c3c720c801d6.bindPopup(popup_d90c92c12e3f47229f4435f15e9b89b4);
+
+
+
+
+            var circle_marker_84c1a6f36dd047c5929c02b363d9c002 = L.circleMarker(
+                [32.8396,-117.28399999999999],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": false,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 2,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_4c555b647aad40a8b47cadd5f3f295e2);
+
+
+            var popup_d00be732001e4385b32b858f8aa022ea = L.popup({maxWidth: '300'});
+
+
+                var html_ab27324d88b744939e7e9dae9e6ea31a = $('<div id="html_ab27324d88b744939e7e9dae9e6ea31a" style="width: 100.0%; height: 100.0%;"><a href="https://www.google.com/maps/dir/Scripps+Institution+of+Oceanography,+8622+Kennel+Way,+La+Jolla,+CA+92037/32.8396,-117.28399999999999/@32.8857266,-117.4829295,10z/data=!4m2!4m1!3e1"target="_blank">Horseshoe</a></div>')[0];
+                popup_d00be732001e4385b32b858f8aa022ea.setContent(html_ab27324d88b744939e7e9dae9e6ea31a);
+
+
+            circle_marker_84c1a6f36dd047c5929c02b363d9c002.bindPopup(popup_d00be732001e4385b32b858f8aa022ea);
+
+
+
+
+            var circle_marker_5b218f6df92d4ab582fb6ceea3f24633 = L.circleMarker(
+                [32.8295,-117.28200000000001],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": false,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 2,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_4c555b647aad40a8b47cadd5f3f295e2);
+
+
+            var popup_d121b432290c4ac897ec200364713933 = L.popup({maxWidth: '300'});
+
+
+                var html_3ef0028bb75a43598f5923dac5330a83 = $('<div id="html_3ef0028bb75a43598f5923dac5330a83" style="width: 100.0%; height: 100.0%;"><a href="https://www.google.com/maps/dir/Scripps+Institution+of+Oceanography,+8622+Kennel+Way,+La+Jolla,+CA+92037/32.8295,-117.28200000000001/@32.8857266,-117.4829295,10z/data=!4m2!4m1!3e1"target="_blank">Windansea</a></div>')[0];
+                popup_d121b432290c4ac897ec200364713933.setContent(html_3ef0028bb75a43598f5923dac5330a83);
+
+
+            circle_marker_5b218f6df92d4ab582fb6ceea3f24633.bindPopup(popup_d121b432290c4ac897ec200364713933);
+
+
+
+
+            var circle_marker_2841321a69724a8aadec7c22d3ca0024 = L.circleMarker(
+                [32.8142,-117.275],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": false,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 2,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_4c555b647aad40a8b47cadd5f3f295e2);
+
+
+            var popup_b309bd7b09d449c5bb0b98f2d68651d5 = L.popup({maxWidth: '300'});
+
+
+                var html_cc876fab855740ab84d7acc8a95756f1 = $('<div id="html_cc876fab855740ab84d7acc8a95756f1" style="width: 100.0%; height: 100.0%;"><a href="https://www.google.com/maps/dir/Scripps+Institution+of+Oceanography,+8622+Kennel+Way,+La+Jolla,+CA+92037/32.8142,-117.275/@32.8857266,-117.4829295,10z/data=!4m2!4m1!3e1"target="_blank">Birdrock</a></div>')[0];
+                popup_b309bd7b09d449c5bb0b98f2d68651d5.setContent(html_cc876fab855740ab84d7acc8a95756f1);
+
+
+            circle_marker_2841321a69724a8aadec7c22d3ca0024.bindPopup(popup_b309bd7b09d449c5bb0b98f2d68651d5);
+
+
+
+
+            var circle_marker_268b9e4a52254c02b752fc0355ee6887 = L.circleMarker(
+                [32.807123,-117.26948],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": false,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 2,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_4c555b647aad40a8b47cadd5f3f295e2);
+
+
+            var popup_48077a44875646b4b1c8c7b1806abb78 = L.popup({maxWidth: '300'});
+
+
+                var html_eb71373d87ef4548b26068c3079d2204 = $('<div id="html_eb71373d87ef4548b26068c3079d2204" style="width: 100.0%; height: 100.0%;"><a href="https://www.google.com/maps/dir/Scripps+Institution+of+Oceanography,+8622+Kennel+Way,+La+Jolla,+CA+92037/32.807123,-117.26948/@32.8857266,-117.4829295,10z/data=!4m2!4m1!3e1"target="_blank">PB Point</a></div>')[0];
+                popup_48077a44875646b4b1c8c7b1806abb78.setContent(html_eb71373d87ef4548b26068c3079d2204);
+
+
+            circle_marker_268b9e4a52254c02b752fc0355ee6887.bindPopup(popup_48077a44875646b4b1c8c7b1806abb78);
+
+
+
+
+            var circle_marker_654fd43990d54f2383c7c1d333e4c846 = L.circleMarker(
+                [32.804763,-117.263507],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": false,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 2,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_4c555b647aad40a8b47cadd5f3f295e2);
+
+
+            var popup_6f6ff4e36f4d44ea84b95185638cdae9 = L.popup({maxWidth: '300'});
+
+
+                var html_419f85cbb2ba4db39a61bb91c8b45612 = $('<div id="html_419f85cbb2ba4db39a61bb91c8b45612" style="width: 100.0%; height: 100.0%;"><a href="https://www.google.com/maps/dir/Scripps+Institution+of+Oceanography,+8622+Kennel+Way,+La+Jolla,+CA+92037/32.804763,-117.263507/@32.8857266,-117.4829295,10z/data=!4m2!4m1!3e1"target="_blank">Tourmo</a></div>')[0];
+                popup_6f6ff4e36f4d44ea84b95185638cdae9.setContent(html_419f85cbb2ba4db39a61bb91c8b45612);
+
+
+            circle_marker_654fd43990d54f2383c7c1d333e4c846.bindPopup(popup_6f6ff4e36f4d44ea84b95185638cdae9);
+
+
+
+
+            var circle_marker_c8ca4590179c4b289255191bf816cae1 = L.circleMarker(
+                [32.7965,-117.2581],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": false,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 2,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_4c555b647aad40a8b47cadd5f3f295e2);
+
+
+            var popup_b325caba4cfd46fcaea4fd4c5d5d85f7 = L.popup({maxWidth: '300'});
+
+
+                var html_e0684534a3d9492fbc5b944678db0280 = $('<div id="html_e0684534a3d9492fbc5b944678db0280" style="width: 100.0%; height: 100.0%;"><a href="https://www.google.com/maps/dir/Scripps+Institution+of+Oceanography,+8622+Kennel+Way,+La+Jolla,+CA+92037/32.7965,-117.2581/@32.8857266,-117.4829295,10z/data=!4m2!4m1!3e1"target="_blank">Pacific Beach</a></div>')[0];
+                popup_b325caba4cfd46fcaea4fd4c5d5d85f7.setContent(html_e0684534a3d9492fbc5b944678db0280);
+
+
+            circle_marker_c8ca4590179c4b289255191bf816cae1.bindPopup(popup_b325caba4cfd46fcaea4fd4c5d5d85f7);
+
+
+
+
+            var circle_marker_bb0f9f86848645819a8a23bbdab900da = L.circleMarker(
+                [32.7762,-117.255],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": false,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 2,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_4c555b647aad40a8b47cadd5f3f295e2);
+
+
+            var popup_14d5f7030a6140cc95d257664c601c38 = L.popup({maxWidth: '300'});
+
+
+                var html_517db2bc462b494a81676d46b84f4146 = $('<div id="html_517db2bc462b494a81676d46b84f4146" style="width: 100.0%; height: 100.0%;"><a href="https://www.google.com/maps/dir/Scripps+Institution+of+Oceanography,+8622+Kennel+Way,+La+Jolla,+CA+92037/32.7762,-117.255/@32.8857266,-117.4829295,10z/data=!4m2!4m1!3e1"target="_blank">Mission Beach</a></div>')[0];
+                popup_14d5f7030a6140cc95d257664c601c38.setContent(html_517db2bc462b494a81676d46b84f4146);
+
+
+            circle_marker_bb0f9f86848645819a8a23bbdab900da.bindPopup(popup_14d5f7030a6140cc95d257664c601c38);
+
+
+
+
+            var circle_marker_27f26bf33ff7406cbc62a35f9e4c6f8f = L.circleMarker(
+                [32.7481,-117.256],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": false,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 2,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_4c555b647aad40a8b47cadd5f3f295e2);
+
+
+            var popup_a1662f85219d4aafbe670946960ac86f = L.popup({maxWidth: '300'});
+
+
+                var html_417f343c5f124d5a8ae1bd622d61d42e = $('<div id="html_417f343c5f124d5a8ae1bd622d61d42e" style="width: 100.0%; height: 100.0%;"><a href="https://www.google.com/maps/dir/Scripps+Institution+of+Oceanography,+8622+Kennel+Way,+La+Jolla,+CA+92037/32.7481,-117.256/@32.8857266,-117.4829295,10z/data=!4m2!4m1!3e1"target="_blank">Ocean Beach</a></div>')[0];
+                popup_a1662f85219d4aafbe670946960ac86f.setContent(html_417f343c5f124d5a8ae1bd622d61d42e);
+
+
+            circle_marker_27f26bf33ff7406cbc62a35f9e4c6f8f.bindPopup(popup_a1662f85219d4aafbe670946960ac86f);
+
+
+
+
+            var circle_marker_a949db1dc87c48b1af5e7064808410c5 = L.circleMarker(
+                [32.7159,-117.257],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": false,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 2,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_4c555b647aad40a8b47cadd5f3f295e2);
+
+
+            var popup_6d50774ef41943d78c80117ec38b10dd = L.popup({maxWidth: '300'});
+
+
+                var html_d5049f2e7f744241b13808395781296b = $('<div id="html_d5049f2e7f744241b13808395781296b" style="width: 100.0%; height: 100.0%;"><a href="https://www.google.com/maps/dir/Scripps+Institution+of+Oceanography,+8622+Kennel+Way,+La+Jolla,+CA+92037/32.7159,-117.257/@32.8857266,-117.4829295,10z/data=!4m2!4m1!3e1"target="_blank">Sunset Cliffs</a></div>')[0];
+                popup_6d50774ef41943d78c80117ec38b10dd.setContent(html_d5049f2e7f744241b13808395781296b);
+
+
+            circle_marker_a949db1dc87c48b1af5e7064808410c5.bindPopup(popup_6d50774ef41943d78c80117ec38b10dd);
+
+
+
+
+            var circle_marker_19083112ed464d878c152e5feeb8ebd4 = L.circleMarker(
+                [32.672207,-117.171922],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": false,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 2,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_4c555b647aad40a8b47cadd5f3f295e2);
+
+
+            var popup_26cfd7b587c044ddabbb9e9b1376fa4f = L.popup({maxWidth: '300'});
+
+
+                var html_428212c0d3d6497aa1ef4136a5123659 = $('<div id="html_428212c0d3d6497aa1ef4136a5123659" style="width: 100.0%; height: 100.0%;"><a href="https://www.google.com/maps/dir/Scripps+Institution+of+Oceanography,+8622+Kennel+Way,+La+Jolla,+CA+92037/32.672207,-117.171922/@32.8857266,-117.4829295,10z/data=!4m2!4m1!3e1"target="_blank">Coronado</a></div>')[0];
+                popup_26cfd7b587c044ddabbb9e9b1376fa4f.setContent(html_428212c0d3d6497aa1ef4136a5123659);
+
+
+            circle_marker_19083112ed464d878c152e5feeb8ebd4.bindPopup(popup_26cfd7b587c044ddabbb9e9b1376fa4f);
+
+
+
+
+            var circle_marker_43b589968ed74ce5a6aee1a159407267 = L.circleMarker(
+                [32.6647,-117.24600000000001],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": false,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 2,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_4c555b647aad40a8b47cadd5f3f295e2);
+
+
+            var popup_163f9af5396a432a8f0e66f98cd9cc00 = L.popup({maxWidth: '300'});
+
+
+                var html_0647a004342f49d885438db013a3ebc8 = $('<div id="html_0647a004342f49d885438db013a3ebc8" style="width: 100.0%; height: 100.0%;"><a href="https://www.google.com/maps/dir/Scripps+Institution+of+Oceanography,+8622+Kennel+Way,+La+Jolla,+CA+92037/32.6647,-117.24600000000001/@32.8857266,-117.4829295,10z/data=!4m2!4m1!3e1"target="_blank">Point Loma</a></div>')[0];
+                popup_163f9af5396a432a8f0e66f98cd9cc00.setContent(html_0647a004342f49d885438db013a3ebc8);
+
+
+            circle_marker_43b589968ed74ce5a6aee1a159407267.bindPopup(popup_163f9af5396a432a8f0e66f98cd9cc00);
+
+
+
+
+            var circle_marker_a177dcad6e9c4f738ddf570995854433 = L.circleMarker(
+                [32.5774,-117.134],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": false,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 2,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_4c555b647aad40a8b47cadd5f3f295e2);
+
+
+            var popup_52e2c68a27344d5d8f14e06f8312a592 = L.popup({maxWidth: '300'});
+
+
+                var html_e8297e354e8042e5835f1d34d63a3e61 = $('<div id="html_e8297e354e8042e5835f1d34d63a3e61" style="width: 100.0%; height: 100.0%;"><a href="https://www.google.com/maps/dir/Scripps+Institution+of+Oceanography,+8622+Kennel+Way,+La+Jolla,+CA+92037/32.5774,-117.134/@32.8857266,-117.4829295,10z/data=!4m2!4m1!3e1"target="_blank">Imperial Beach</a></div>')[0];
+                popup_52e2c68a27344d5d8f14e06f8312a592.setContent(html_e8297e354e8042e5835f1d34d63a3e61);
+
+
+            circle_marker_a177dcad6e9c4f738ddf570995854433.bindPopup(popup_52e2c68a27344d5d8f14e06f8312a592);
+
+
+
+
+            var circle_marker_1643eef82e1d409b843357a924ca6001 = L.circleMarker(
+                [32.553383000000004,-117.12953300000001],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": false,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 2,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_4c555b647aad40a8b47cadd5f3f295e2);
+
+
+            var popup_15b47a9443e7438faeaa95ba71701211 = L.popup({maxWidth: '300'});
+
+
+                var html_d4ec9527660444dcb423e6f64520f498 = $('<div id="html_d4ec9527660444dcb423e6f64520f498" style="width: 100.0%; height: 100.0%;"><a href="https://www.google.com/maps/dir/Scripps+Institution+of+Oceanography,+8622+Kennel+Way,+La+Jolla,+CA+92037/32.553383000000004,-117.12953300000001/@32.8857266,-117.4829295,10z/data=!4m2!4m1!3e1"target="_blank">Tijuana Slough</a></div>')[0];
+                popup_15b47a9443e7438faeaa95ba71701211.setContent(html_d4ec9527660444dcb423e6f64520f498);
+
+
+            circle_marker_1643eef82e1d409b843357a924ca6001.bindPopup(popup_15b47a9443e7438faeaa95ba71701211);
+
+
+
+
+
+
+                map_4c555b647aad40a8b47cadd5f3f295e2.fitBounds(
+                    [[32.553383000000004, -117.39413200000001], [33.201538, -117.12953300000001]],
+                    {}
+                    );
+
+
+            var circle_marker_b13e44257d234fa3803dd11418c73aad = L.circleMarker(
+                [33.201538,-117.39413200000001],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": false,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 2,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_4c555b647aad40a8b47cadd5f3f295e2);
+
+
+            var popup_47ab6ef4c9404164b1db876f7b775551 = L.popup({maxWidth: '300'});
+
+
+                var html_92968466024740bfb87ae898e4f0bb00 = $('<div id="html_92968466024740bfb87ae898e4f0bb00" style="width: 100.0%; height: 100.0%;">Bike to <a href="https://www.google.com/maps/dir/Scripps+Institution+of+Oceanography,+8622+Kennel+Way,+La+Jolla,+CA+92037/33.201538,-117.39413200000001/@32.8857266,-117.4829295,10z/data=!4m2!4m1!3e1"target="_blank">Oceanside Harbor</a> with me!</div>')[0];
+                popup_47ab6ef4c9404164b1db876f7b775551.setContent(html_92968466024740bfb87ae898e4f0bb00);
+
+
+            circle_marker_b13e44257d234fa3803dd11418c73aad.bindPopup(popup_47ab6ef4c9404164b1db876f7b775551);
+
+
+
+
+            var circle_marker_537c888031ef40d78c9721769829416c = L.circleMarker(
+                [33.1922,-117.38600000000001],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": false,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 2,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_4c555b647aad40a8b47cadd5f3f295e2);
+
+
+            var popup_fd2ed18736a646e1bf73f739edc4c1ea = L.popup({maxWidth: '300'});
+
+
+                var html_616ccb7b47ab41eb91201f429e63cbb3 = $('<div id="html_616ccb7b47ab41eb91201f429e63cbb3" style="width: 100.0%; height: 100.0%;">Bike to <a href="https://www.google.com/maps/dir/Scripps+Institution+of+Oceanography,+8622+Kennel+Way,+La+Jolla,+CA+92037/33.1922,-117.38600000000001/@32.8857266,-117.4829295,10z/data=!4m2!4m1!3e1"target="_blank">Oceanside</a> with me!</div>')[0];
+                popup_fd2ed18736a646e1bf73f739edc4c1ea.setContent(html_616ccb7b47ab41eb91201f429e63cbb3);
+
+
+            circle_marker_537c888031ef40d78c9721769829416c.bindPopup(popup_fd2ed18736a646e1bf73f739edc4c1ea);
+
+
+
+
+            var circle_marker_c0073556dd4f4d87867f21131903b386 = L.circleMarker(
+                [33.1577,-117.35600000000001],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": false,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 2,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_4c555b647aad40a8b47cadd5f3f295e2);
+
+
+            var popup_509e36f7bd9045a9b06021564467b825 = L.popup({maxWidth: '300'});
+
+
+                var html_a592793768bd4ff8b347a2c89b9477c3 = $('<div id="html_a592793768bd4ff8b347a2c89b9477c3" style="width: 100.0%; height: 100.0%;">Bike to <a href="https://www.google.com/maps/dir/Scripps+Institution+of+Oceanography,+8622+Kennel+Way,+La+Jolla,+CA+92037/33.1577,-117.35600000000001/@32.8857266,-117.4829295,10z/data=!4m2!4m1!3e1"target="_blank">Carlsbad</a> with me!</div>')[0];
+                popup_509e36f7bd9045a9b06021564467b825.setContent(html_a592793768bd4ff8b347a2c89b9477c3);
+
+
+            circle_marker_c0073556dd4f4d87867f21131903b386.bindPopup(popup_509e36f7bd9045a9b06021564467b825);
+
+
+
+
+            var circle_marker_ab85a72ecf0749babec9423f64ab4b4b = L.circleMarker(
+                [33.14653,-117.34725300000001],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": false,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 2,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_4c555b647aad40a8b47cadd5f3f295e2);
+
+
+            var popup_921a4f268ff1431ea2ee4720493a6068 = L.popup({maxWidth: '300'});
+
+
+                var html_d3e643ea00014f489963ae61fbe44817 = $('<div id="html_d3e643ea00014f489963ae61fbe44817" style="width: 100.0%; height: 100.0%;">Bike to <a href="https://www.google.com/maps/dir/Scripps+Institution+of+Oceanography,+8622+Kennel+Way,+La+Jolla,+CA+92037/33.14653,-117.34725300000001/@32.8857266,-117.4829295,10z/data=!4m2!4m1!3e1"target="_blank">Tamarack </a> with me!</div>')[0];
+                popup_921a4f268ff1431ea2ee4720493a6068.setContent(html_d3e643ea00014f489963ae61fbe44817);
+
+
+            circle_marker_ab85a72ecf0749babec9423f64ab4b4b.bindPopup(popup_921a4f268ff1431ea2ee4720493a6068);
+
+
+
+
+            var circle_marker_da09d1017dbc437382c0d5f939b8d68a = L.circleMarker(
+                [33.12918,-117.33781299999998],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": false,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 2,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_4c555b647aad40a8b47cadd5f3f295e2);
+
+
+            var popup_5697740f8df84878ae9e33a022b3d54f = L.popup({maxWidth: '300'});
+
+
+                var html_9a9fe95cc2344161b5634a13d3e0a563 = $('<div id="html_9a9fe95cc2344161b5634a13d3e0a563" style="width: 100.0%; height: 100.0%;">Bike to <a href="https://www.google.com/maps/dir/Scripps+Institution+of+Oceanography,+8622+Kennel+Way,+La+Jolla,+CA+92037/33.12918,-117.33781299999998/@32.8857266,-117.4829295,10z/data=!4m2!4m1!3e1"target="_blank">Terra Mar</a> with me!</div>')[0];
+                popup_5697740f8df84878ae9e33a022b3d54f.setContent(html_9a9fe95cc2344161b5634a13d3e0a563);
+
+
+            circle_marker_da09d1017dbc437382c0d5f939b8d68a.bindPopup(popup_5697740f8df84878ae9e33a022b3d54f);
+
+
+
+
+            var circle_marker_92e1016ea7dc42d3b19f97e83c05b52e = L.circleMarker(
+                [33.0886,-117.315],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": false,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 2,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_4c555b647aad40a8b47cadd5f3f295e2);
+
+
+            var popup_594640ea66fc4ed3b1d0f4340e43b7fb = L.popup({maxWidth: '300'});
+
+
+                var html_a595ce8860e441b29db0c572b7bb25d0 = $('<div id="html_a595ce8860e441b29db0c572b7bb25d0" style="width: 100.0%; height: 100.0%;">Bike to <a href="https://www.google.com/maps/dir/Scripps+Institution+of+Oceanography,+8622+Kennel+Way,+La+Jolla,+CA+92037/33.0886,-117.315/@32.8857266,-117.4829295,10z/data=!4m2!4m1!3e1"target="_blank">Ponto</a> with me!</div>')[0];
+                popup_594640ea66fc4ed3b1d0f4340e43b7fb.setContent(html_a595ce8860e441b29db0c572b7bb25d0);
+
+
+            circle_marker_92e1016ea7dc42d3b19f97e83c05b52e.bindPopup(popup_594640ea66fc4ed3b1d0f4340e43b7fb);
+
+
+
+
+            var circle_marker_e497112b53f642a0b6a563f33283192c = L.circleMarker(
+                [33.0758,-117.3112],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": false,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 2,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_4c555b647aad40a8b47cadd5f3f295e2);
+
+
+            var popup_3205cca5b8e84cc0b5e98484ce98af14 = L.popup({maxWidth: '300'});
+
+
+                var html_ccb7e4eabcf341f9af5d6d514ec110d8 = $('<div id="html_ccb7e4eabcf341f9af5d6d514ec110d8" style="width: 100.0%; height: 100.0%;">Bike to <a href="https://www.google.com/maps/dir/Scripps+Institution+of+Oceanography,+8622+Kennel+Way,+La+Jolla,+CA+92037/33.0758,-117.3112/@32.8857266,-117.4829295,10z/data=!4m2!4m1!3e1"target="_blank">Grandview</a> with me!</div>')[0];
+                popup_3205cca5b8e84cc0b5e98484ce98af14.setContent(html_ccb7e4eabcf341f9af5d6d514ec110d8);
+
+
+            circle_marker_e497112b53f642a0b6a563f33283192c.bindPopup(popup_3205cca5b8e84cc0b5e98484ce98af14);
+
+
+
+
+            var circle_marker_bc1c3d0bbede446aa0bdf5fce2837413 = L.circleMarker(
+                [33.0646,-117.3064],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": false,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 2,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_4c555b647aad40a8b47cadd5f3f295e2);
+
+
+            var popup_a799a81b0bea47738d5716f96ac86814 = L.popup({maxWidth: '300'});
+
+
+                var html_d6a0f9db009c4440b28d61778e5e565e = $('<div id="html_d6a0f9db009c4440b28d61778e5e565e" style="width: 100.0%; height: 100.0%;">Bike to <a href="https://www.google.com/maps/dir/Scripps+Institution+of+Oceanography,+8622+Kennel+Way,+La+Jolla,+CA+92037/33.0646,-117.3064/@32.8857266,-117.4829295,10z/data=!4m2!4m1!3e1"target="_blank">Beacons</a> with me!</div>')[0];
+                popup_a799a81b0bea47738d5716f96ac86814.setContent(html_d6a0f9db009c4440b28d61778e5e565e);
+
+
+            circle_marker_bc1c3d0bbede446aa0bdf5fce2837413.bindPopup(popup_a799a81b0bea47738d5716f96ac86814);
+
+
+
+
+            var circle_marker_838879bde8bd470e8cadf0b292a7e06b = L.circleMarker(
+                [33.0481,-117.3001],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": false,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 2,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_4c555b647aad40a8b47cadd5f3f295e2);
+
+
+            var popup_43fa342a36774af5989a3a12ed65bd70 = L.popup({maxWidth: '300'});
+
+
+                var html_339bcc06a6f842af9b4fcbe8dd4b38ef = $('<div id="html_339bcc06a6f842af9b4fcbe8dd4b38ef" style="width: 100.0%; height: 100.0%;">Bike to <a href="https://www.google.com/maps/dir/Scripps+Institution+of+Oceanography,+8622+Kennel+Way,+La+Jolla,+CA+92037/33.0481,-117.3001/@32.8857266,-117.4829295,10z/data=!4m2!4m1!3e1"target="_blank">Moonlight</a> with me!</div>')[0];
+                popup_43fa342a36774af5989a3a12ed65bd70.setContent(html_339bcc06a6f842af9b4fcbe8dd4b38ef);
+
+
+            circle_marker_838879bde8bd470e8cadf0b292a7e06b.bindPopup(popup_43fa342a36774af5989a3a12ed65bd70);
+
+
+
+
+            var circle_marker_6a83b222bffe4ec7832f54df119188e9 = L.circleMarker(
+                [33.0346,-117.295],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": false,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 2,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_4c555b647aad40a8b47cadd5f3f295e2);
+
+
+            var popup_bc6f7b6b25384d32b68f246328e3b332 = L.popup({maxWidth: '300'});
+
+
+                var html_ce0d4383bbfb434ab84d73d9160822ab = $('<div id="html_ce0d4383bbfb434ab84d73d9160822ab" style="width: 100.0%; height: 100.0%;">Bike to <a href="https://www.google.com/maps/dir/Scripps+Institution+of+Oceanography,+8622+Kennel+Way,+La+Jolla,+CA+92037/33.0346,-117.295/@32.8857266,-117.4829295,10z/data=!4m2!4m1!3e1"target="_blank">Swamis</a> with me!</div>')[0];
+                popup_bc6f7b6b25384d32b68f246328e3b332.setContent(html_ce0d4383bbfb434ab84d73d9160822ab);
+
+
+            circle_marker_6a83b222bffe4ec7832f54df119188e9.bindPopup(popup_bc6f7b6b25384d32b68f246328e3b332);
+
+
+
+
+            var circle_marker_9279806cc34748e6a79f9ca432664c0b = L.circleMarker(
+                [33.021368,-117.28644299999999],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": false,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 2,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_4c555b647aad40a8b47cadd5f3f295e2);
+
+
+            var popup_d92d54273f9345ad8691abbf3f999b45 = L.popup({maxWidth: '300'});
+
+
+                var html_e8316ce6753e49d09ed9c11e2f1ea923 = $('<div id="html_e8316ce6753e49d09ed9c11e2f1ea923" style="width: 100.0%; height: 100.0%;">Bike to <a href="https://www.google.com/maps/dir/Scripps+Institution+of+Oceanography,+8622+Kennel+Way,+La+Jolla,+CA+92037/33.021368,-117.28644299999999/@32.8857266,-117.4829295,10z/data=!4m2!4m1!3e1"target="_blank">Pipes</a> with me!</div>')[0];
+                popup_d92d54273f9345ad8691abbf3f999b45.setContent(html_e8316ce6753e49d09ed9c11e2f1ea923);
+
+
+            circle_marker_9279806cc34748e6a79f9ca432664c0b.bindPopup(popup_d92d54273f9345ad8691abbf3f999b45);
+
+
+
+
+            var circle_marker_526f94a9298849f9b15933e01753b2a0 = L.circleMarker(
+                [33.0148,-117.2845],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": false,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 2,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_4c555b647aad40a8b47cadd5f3f295e2);
+
+
+            var popup_ed239ca14de8494bb414f40cef2c0c97 = L.popup({maxWidth: '300'});
+
+
+                var html_c70c3911384f420da50c71681c9264f7 = $('<div id="html_c70c3911384f420da50c71681c9264f7" style="width: 100.0%; height: 100.0%;">Bike to <a href="https://www.google.com/maps/dir/Scripps+Institution+of+Oceanography,+8622+Kennel+Way,+La+Jolla,+CA+92037/33.0148,-117.2845/@32.8857266,-117.4829295,10z/data=!4m2!4m1!3e1"target="_blank">Cardiff Reef</a> with me!</div>')[0];
+                popup_ed239ca14de8494bb414f40cef2c0c97.setContent(html_c70c3911384f420da50c71681c9264f7);
+
+
+            circle_marker_526f94a9298849f9b15933e01753b2a0.bindPopup(popup_ed239ca14de8494bb414f40cef2c0c97);
+
+
+
+
+            var circle_marker_b0b9046cbc894978a831984722a6da0d = L.circleMarker(
+                [32.99,-117.277],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": false,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 2,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_4c555b647aad40a8b47cadd5f3f295e2);
+
+
+            var popup_54d77e077d0140e398c9b7c44d1fc3c6 = L.popup({maxWidth: '300'});
+
+
+                var html_fd02e01331ed4b24a7faa3cc0f99ae0e = $('<div id="html_fd02e01331ed4b24a7faa3cc0f99ae0e" style="width: 100.0%; height: 100.0%;">Bike to <a href="https://www.google.com/maps/dir/Scripps+Institution+of+Oceanography,+8622+Kennel+Way,+La+Jolla,+CA+92037/32.99,-117.277/@32.8857266,-117.4829295,10z/data=!4m2!4m1!3e1"target="_blank">Solana Beach</a> with me!</div>')[0];
+                popup_54d77e077d0140e398c9b7c44d1fc3c6.setContent(html_fd02e01331ed4b24a7faa3cc0f99ae0e);
+
+
+            circle_marker_b0b9046cbc894978a831984722a6da0d.bindPopup(popup_54d77e077d0140e398c9b7c44d1fc3c6);
+
+
+
+
+            var circle_marker_c83d531939cf4ce0a5241dbc366978c3 = L.circleMarker(
+                [32.9754,-117.271],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": false,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 2,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_4c555b647aad40a8b47cadd5f3f295e2);
+
+
+            var popup_60558c9b6da54183897fd7568806e871 = L.popup({maxWidth: '300'});
+
+
+                var html_003f7898ef9242f3aead2a93ff43fa41 = $('<div id="html_003f7898ef9242f3aead2a93ff43fa41" style="width: 100.0%; height: 100.0%;">Bike to <a href="https://www.google.com/maps/dir/Scripps+Institution+of+Oceanography,+8622+Kennel+Way,+La+Jolla,+CA+92037/32.9754,-117.271/@32.8857266,-117.4829295,10z/data=!4m2!4m1!3e1"target="_blank">Del Mar Rivermouth</a> with me!</div>')[0];
+                popup_60558c9b6da54183897fd7568806e871.setContent(html_003f7898ef9242f3aead2a93ff43fa41);
+
+
+            circle_marker_c83d531939cf4ce0a5241dbc366978c3.bindPopup(popup_60558c9b6da54183897fd7568806e871);
+
+
+
+
+            var circle_marker_a5689614b35842a99fb8932a71630eb1 = L.circleMarker(
+                [32.959,-117.26799999999999],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": false,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 2,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_4c555b647aad40a8b47cadd5f3f295e2);
+
+
+            var popup_83fadc177d9e4934b4321b46603ef83c = L.popup({maxWidth: '300'});
+
+
+                var html_1f43540c73134686a6cdd585b90c81e3 = $('<div id="html_1f43540c73134686a6cdd585b90c81e3" style="width: 100.0%; height: 100.0%;">Bike to <a href="https://www.google.com/maps/dir/Scripps+Institution+of+Oceanography,+8622+Kennel+Way,+La+Jolla,+CA+92037/32.959,-117.26799999999999/@32.8857266,-117.4829295,10z/data=!4m2!4m1!3e1"target="_blank">Del Mar</a> with me!</div>')[0];
+                popup_83fadc177d9e4934b4321b46603ef83c.setContent(html_1f43540c73134686a6cdd585b90c81e3);
+
+
+            circle_marker_a5689614b35842a99fb8932a71630eb1.bindPopup(popup_83fadc177d9e4934b4321b46603ef83c);
+
+
+
+
+            var circle_marker_61fc231ed2d34e5e9c886e8e1ff0090e = L.circleMarker(
+                [32.926059,-117.26028400000001],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": false,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 2,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_4c555b647aad40a8b47cadd5f3f295e2);
+
+
+            var popup_a54ccc1bd022404695ce74fb4a9fe55a = L.popup({maxWidth: '300'});
+
+
+                var html_de08113a0dde44c8aff2946c15b61cb7 = $('<div id="html_de08113a0dde44c8aff2946c15b61cb7" style="width: 100.0%; height: 100.0%;">Bike to <a href="https://www.google.com/maps/dir/Scripps+Institution+of+Oceanography,+8622+Kennel+Way,+La+Jolla,+CA+92037/32.926059,-117.26028400000001/@32.8857266,-117.4829295,10z/data=!4m2!4m1!3e1"target="_blank">Torrey Pines</a> with me!</div>')[0];
+                popup_a54ccc1bd022404695ce74fb4a9fe55a.setContent(html_de08113a0dde44c8aff2946c15b61cb7);
+
+
+            circle_marker_61fc231ed2d34e5e9c886e8e1ff0090e.bindPopup(popup_a54ccc1bd022404695ce74fb4a9fe55a);
+
+
+
+
+            var circle_marker_ff61c83029784ae3b473d77f68526ba6 = L.circleMarker(
+                [32.884307,-117.253421],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": false,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 2,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_4c555b647aad40a8b47cadd5f3f295e2);
+
+
+            var popup_c63b2462b1c548d6a14faa954487c427 = L.popup({maxWidth: '300'});
+
+
+                var html_174a42ba9d1140c1a17e8adaef145706 = $('<div id="html_174a42ba9d1140c1a17e8adaef145706" style="width: 100.0%; height: 100.0%;">Bike to <a href="https://www.google.com/maps/dir/Scripps+Institution+of+Oceanography,+8622+Kennel+Way,+La+Jolla,+CA+92037/32.884307,-117.253421/@32.8857266,-117.4829295,10z/data=!4m2!4m1!3e1"target="_blank">Blacks</a> with me!</div>')[0];
+                popup_c63b2462b1c548d6a14faa954487c427.setContent(html_174a42ba9d1140c1a17e8adaef145706);
+
+
+            circle_marker_ff61c83029784ae3b473d77f68526ba6.bindPopup(popup_c63b2462b1c548d6a14faa954487c427);
+
+
+
+
+            var circle_marker_88247e547fe7476090eb9b70016979f1 = L.circleMarker(
+                [32.8642,-117.256],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": false,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 2,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_4c555b647aad40a8b47cadd5f3f295e2);
+
+
+            var popup_e0ddfeafa37b4495890b70b82f57291f = L.popup({maxWidth: '300'});
+
+
+                var html_c899503142444f159c3cc0ea732d556a = $('<div id="html_c899503142444f159c3cc0ea732d556a" style="width: 100.0%; height: 100.0%;">Bike to <a href="https://www.google.com/maps/dir/Scripps+Institution+of+Oceanography,+8622+Kennel+Way,+La+Jolla,+CA+92037/32.8642,-117.256/@32.8857266,-117.4829295,10z/data=!4m2!4m1!3e1"target="_blank">Scripps Pier</a> with me!</div>')[0];
+                popup_e0ddfeafa37b4495890b70b82f57291f.setContent(html_c899503142444f159c3cc0ea732d556a);
+
+
+            circle_marker_88247e547fe7476090eb9b70016979f1.bindPopup(popup_e0ddfeafa37b4495890b70b82f57291f);
+
+
+
+
+            var circle_marker_8a41b9f58d7049b6b77bf5a6626b1f80 = L.circleMarker(
+                [32.8396,-117.28399999999999],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": false,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 2,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_4c555b647aad40a8b47cadd5f3f295e2);
+
+
+            var popup_3cd6163df14e4c78bc3b24483c1b5fd4 = L.popup({maxWidth: '300'});
+
+
+                var html_e60179bd8e074cbe8d0cc2e247b8bc35 = $('<div id="html_e60179bd8e074cbe8d0cc2e247b8bc35" style="width: 100.0%; height: 100.0%;">Bike to <a href="https://www.google.com/maps/dir/Scripps+Institution+of+Oceanography,+8622+Kennel+Way,+La+Jolla,+CA+92037/32.8396,-117.28399999999999/@32.8857266,-117.4829295,10z/data=!4m2!4m1!3e1"target="_blank">Horseshoe</a> with me!</div>')[0];
+                popup_3cd6163df14e4c78bc3b24483c1b5fd4.setContent(html_e60179bd8e074cbe8d0cc2e247b8bc35);
+
+
+            circle_marker_8a41b9f58d7049b6b77bf5a6626b1f80.bindPopup(popup_3cd6163df14e4c78bc3b24483c1b5fd4);
+
+
+
+
+            var circle_marker_9520b5ccb3fb4b6599e7e401c018f0da = L.circleMarker(
+                [32.8295,-117.28200000000001],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": false,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 2,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_4c555b647aad40a8b47cadd5f3f295e2);
+
+
+            var popup_ccd2b7af2b4044e7a9cc4ef3abc14ce6 = L.popup({maxWidth: '300'});
+
+
+                var html_9635f03c52d6404f842d7aa951036ed4 = $('<div id="html_9635f03c52d6404f842d7aa951036ed4" style="width: 100.0%; height: 100.0%;">Bike to <a href="https://www.google.com/maps/dir/Scripps+Institution+of+Oceanography,+8622+Kennel+Way,+La+Jolla,+CA+92037/32.8295,-117.28200000000001/@32.8857266,-117.4829295,10z/data=!4m2!4m1!3e1"target="_blank">Windansea</a> with me!</div>')[0];
+                popup_ccd2b7af2b4044e7a9cc4ef3abc14ce6.setContent(html_9635f03c52d6404f842d7aa951036ed4);
+
+
+            circle_marker_9520b5ccb3fb4b6599e7e401c018f0da.bindPopup(popup_ccd2b7af2b4044e7a9cc4ef3abc14ce6);
+
+
+
+
+            var circle_marker_aee9ac372ed44f88b51f3cee627b0c5f = L.circleMarker(
+                [32.8142,-117.275],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": false,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 2,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_4c555b647aad40a8b47cadd5f3f295e2);
+
+
+            var popup_c9cae55ff53b4d539dc9fd2f9f9d2ccd = L.popup({maxWidth: '300'});
+
+
+                var html_ef49ed02bfb444ddaa999194fa963c71 = $('<div id="html_ef49ed02bfb444ddaa999194fa963c71" style="width: 100.0%; height: 100.0%;">Bike to <a href="https://www.google.com/maps/dir/Scripps+Institution+of+Oceanography,+8622+Kennel+Way,+La+Jolla,+CA+92037/32.8142,-117.275/@32.8857266,-117.4829295,10z/data=!4m2!4m1!3e1"target="_blank">Birdrock</a> with me!</div>')[0];
+                popup_c9cae55ff53b4d539dc9fd2f9f9d2ccd.setContent(html_ef49ed02bfb444ddaa999194fa963c71);
+
+
+            circle_marker_aee9ac372ed44f88b51f3cee627b0c5f.bindPopup(popup_c9cae55ff53b4d539dc9fd2f9f9d2ccd);
+
+
+
+
+            var circle_marker_5ca42f6f1bb14eeab8aa5e7e391d0041 = L.circleMarker(
+                [32.807123,-117.26948],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": false,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 2,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_4c555b647aad40a8b47cadd5f3f295e2);
+
+
+            var popup_69767e8968be4306a3e0dab8fa08ca29 = L.popup({maxWidth: '300'});
+
+
+                var html_6b5f66c8872246d8b5025df18084d075 = $('<div id="html_6b5f66c8872246d8b5025df18084d075" style="width: 100.0%; height: 100.0%;">Bike to <a href="https://www.google.com/maps/dir/Scripps+Institution+of+Oceanography,+8622+Kennel+Way,+La+Jolla,+CA+92037/32.807123,-117.26948/@32.8857266,-117.4829295,10z/data=!4m2!4m1!3e1"target="_blank">PB Point</a> with me!</div>')[0];
+                popup_69767e8968be4306a3e0dab8fa08ca29.setContent(html_6b5f66c8872246d8b5025df18084d075);
+
+
+            circle_marker_5ca42f6f1bb14eeab8aa5e7e391d0041.bindPopup(popup_69767e8968be4306a3e0dab8fa08ca29);
+
+
+
+
+            var circle_marker_dacdf3b80adf42d5a9390d086f0b1d2d = L.circleMarker(
+                [32.804763,-117.263507],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": false,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 2,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_4c555b647aad40a8b47cadd5f3f295e2);
+
+
+            var popup_1d12f159e638493c9d224358e95de431 = L.popup({maxWidth: '300'});
+
+
+                var html_a124857321644494a121ce8bd1a6622b = $('<div id="html_a124857321644494a121ce8bd1a6622b" style="width: 100.0%; height: 100.0%;">Bike to <a href="https://www.google.com/maps/dir/Scripps+Institution+of+Oceanography,+8622+Kennel+Way,+La+Jolla,+CA+92037/32.804763,-117.263507/@32.8857266,-117.4829295,10z/data=!4m2!4m1!3e1"target="_blank">Tourmo</a> with me!</div>')[0];
+                popup_1d12f159e638493c9d224358e95de431.setContent(html_a124857321644494a121ce8bd1a6622b);
+
+
+            circle_marker_dacdf3b80adf42d5a9390d086f0b1d2d.bindPopup(popup_1d12f159e638493c9d224358e95de431);
+
+
+
+
+            var circle_marker_37a1649065de447ea0b238a241f818aa = L.circleMarker(
+                [32.7965,-117.2581],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": false,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 2,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_4c555b647aad40a8b47cadd5f3f295e2);
+
+
+            var popup_3645685af5434468a128c5021d8c30f0 = L.popup({maxWidth: '300'});
+
+
+                var html_389c1e8a7fc44b08be3c6ab311041ddf = $('<div id="html_389c1e8a7fc44b08be3c6ab311041ddf" style="width: 100.0%; height: 100.0%;">Bike to <a href="https://www.google.com/maps/dir/Scripps+Institution+of+Oceanography,+8622+Kennel+Way,+La+Jolla,+CA+92037/32.7965,-117.2581/@32.8857266,-117.4829295,10z/data=!4m2!4m1!3e1"target="_blank">Pacific Beach</a> with me!</div>')[0];
+                popup_3645685af5434468a128c5021d8c30f0.setContent(html_389c1e8a7fc44b08be3c6ab311041ddf);
+
+
+            circle_marker_37a1649065de447ea0b238a241f818aa.bindPopup(popup_3645685af5434468a128c5021d8c30f0);
+
+
+
+
+            var circle_marker_25064e4050d243da9bbbb879e83f2505 = L.circleMarker(
+                [32.7762,-117.255],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": false,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 2,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_4c555b647aad40a8b47cadd5f3f295e2);
+
+
+            var popup_7212cbcca673445bae1aea8db3575d5f = L.popup({maxWidth: '300'});
+
+
+                var html_d0e5b22fd458424394047807a911b677 = $('<div id="html_d0e5b22fd458424394047807a911b677" style="width: 100.0%; height: 100.0%;">Bike to <a href="https://www.google.com/maps/dir/Scripps+Institution+of+Oceanography,+8622+Kennel+Way,+La+Jolla,+CA+92037/32.7762,-117.255/@32.8857266,-117.4829295,10z/data=!4m2!4m1!3e1"target="_blank">Mission Beach</a> with me!</div>')[0];
+                popup_7212cbcca673445bae1aea8db3575d5f.setContent(html_d0e5b22fd458424394047807a911b677);
+
+
+            circle_marker_25064e4050d243da9bbbb879e83f2505.bindPopup(popup_7212cbcca673445bae1aea8db3575d5f);
+
+
+
+
+            var circle_marker_8022638b2d344924a64b5f26a3d9e845 = L.circleMarker(
+                [32.7481,-117.256],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": false,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 2,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_4c555b647aad40a8b47cadd5f3f295e2);
+
+
+            var popup_769a39e92c5242a29edfa86b14ae48c6 = L.popup({maxWidth: '300'});
+
+
+                var html_82ea93c883a84b70b758b8ed72d0bc53 = $('<div id="html_82ea93c883a84b70b758b8ed72d0bc53" style="width: 100.0%; height: 100.0%;">Bike to <a href="https://www.google.com/maps/dir/Scripps+Institution+of+Oceanography,+8622+Kennel+Way,+La+Jolla,+CA+92037/32.7481,-117.256/@32.8857266,-117.4829295,10z/data=!4m2!4m1!3e1"target="_blank">Ocean Beach</a> with me!</div>')[0];
+                popup_769a39e92c5242a29edfa86b14ae48c6.setContent(html_82ea93c883a84b70b758b8ed72d0bc53);
+
+
+            circle_marker_8022638b2d344924a64b5f26a3d9e845.bindPopup(popup_769a39e92c5242a29edfa86b14ae48c6);
+
+
+
+
+            var circle_marker_d6742d7e7e38423e89d88d144275ec4d = L.circleMarker(
+                [32.7159,-117.257],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": false,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 2,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_4c555b647aad40a8b47cadd5f3f295e2);
+
+
+            var popup_4044cbca3f7b43db94823a301b923df4 = L.popup({maxWidth: '300'});
+
+
+                var html_21d81505bff744faad02f55ac9439615 = $('<div id="html_21d81505bff744faad02f55ac9439615" style="width: 100.0%; height: 100.0%;">Bike to <a href="https://www.google.com/maps/dir/Scripps+Institution+of+Oceanography,+8622+Kennel+Way,+La+Jolla,+CA+92037/32.7159,-117.257/@32.8857266,-117.4829295,10z/data=!4m2!4m1!3e1"target="_blank">Sunset Cliffs</a> with me!</div>')[0];
+                popup_4044cbca3f7b43db94823a301b923df4.setContent(html_21d81505bff744faad02f55ac9439615);
+
+
+            circle_marker_d6742d7e7e38423e89d88d144275ec4d.bindPopup(popup_4044cbca3f7b43db94823a301b923df4);
+
+
+
+
+            var circle_marker_d7c38553f48147e1b0ce3e71a4c2d176 = L.circleMarker(
+                [32.672207,-117.171922],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": false,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 2,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_4c555b647aad40a8b47cadd5f3f295e2);
+
+
+            var popup_e3b7b16b1ee44de4a219347278a16a4d = L.popup({maxWidth: '300'});
+
+
+                var html_aea50845cf3c487187729f31ae0e7a53 = $('<div id="html_aea50845cf3c487187729f31ae0e7a53" style="width: 100.0%; height: 100.0%;">Bike to <a href="https://www.google.com/maps/dir/Scripps+Institution+of+Oceanography,+8622+Kennel+Way,+La+Jolla,+CA+92037/32.672207,-117.171922/@32.8857266,-117.4829295,10z/data=!4m2!4m1!3e1"target="_blank">Coronado</a> with me!</div>')[0];
+                popup_e3b7b16b1ee44de4a219347278a16a4d.setContent(html_aea50845cf3c487187729f31ae0e7a53);
+
+
+            circle_marker_d7c38553f48147e1b0ce3e71a4c2d176.bindPopup(popup_e3b7b16b1ee44de4a219347278a16a4d);
+
+
+
+
+            var circle_marker_d853e6dcb68f41c5ad661a38b87bc885 = L.circleMarker(
+                [32.6647,-117.24600000000001],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": false,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 2,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_4c555b647aad40a8b47cadd5f3f295e2);
+
+
+            var popup_2b3671fd1d6a4e5cbf979284225d6792 = L.popup({maxWidth: '300'});
+
+
+                var html_8a0ce1ff122b4758a9a4227d95ccd0d2 = $('<div id="html_8a0ce1ff122b4758a9a4227d95ccd0d2" style="width: 100.0%; height: 100.0%;">Bike to <a href="https://www.google.com/maps/dir/Scripps+Institution+of+Oceanography,+8622+Kennel+Way,+La+Jolla,+CA+92037/32.6647,-117.24600000000001/@32.8857266,-117.4829295,10z/data=!4m2!4m1!3e1"target="_blank">Point Loma</a> with me!</div>')[0];
+                popup_2b3671fd1d6a4e5cbf979284225d6792.setContent(html_8a0ce1ff122b4758a9a4227d95ccd0d2);
+
+
+            circle_marker_d853e6dcb68f41c5ad661a38b87bc885.bindPopup(popup_2b3671fd1d6a4e5cbf979284225d6792);
+
+
+
+
+            var circle_marker_5c714029501d4449abff735589517837 = L.circleMarker(
+                [32.5774,-117.134],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": false,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 2,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_4c555b647aad40a8b47cadd5f3f295e2);
+
+
+            var popup_1af9494e58484165881aba53f3d5fb09 = L.popup({maxWidth: '300'});
+
+
+                var html_7f87ed40744d420e9b1d2ee2342456a3 = $('<div id="html_7f87ed40744d420e9b1d2ee2342456a3" style="width: 100.0%; height: 100.0%;">Bike to <a href="https://www.google.com/maps/dir/Scripps+Institution+of+Oceanography,+8622+Kennel+Way,+La+Jolla,+CA+92037/32.5774,-117.134/@32.8857266,-117.4829295,10z/data=!4m2!4m1!3e1"target="_blank">Imperial Beach</a> with me!</div>')[0];
+                popup_1af9494e58484165881aba53f3d5fb09.setContent(html_7f87ed40744d420e9b1d2ee2342456a3);
+
+
+            circle_marker_5c714029501d4449abff735589517837.bindPopup(popup_1af9494e58484165881aba53f3d5fb09);
+
+
+
+
+            var circle_marker_13b83b43926c49f49e7c773ff5f7da73 = L.circleMarker(
+                [32.553383000000004,-117.12953300000001],
+                {
+  "bubblingMouseEvents": true,
+  "color": "#3388ff",
+  "dashArray": null,
+  "dashOffset": null,
+  "fill": false,
+  "fillColor": "#3388ff",
+  "fillOpacity": 0.2,
+  "fillRule": "evenodd",
+  "lineCap": "round",
+  "lineJoin": "round",
+  "opacity": 1.0,
+  "radius": 2,
+  "stroke": true,
+  "weight": 3
+}
+                ).addTo(map_4c555b647aad40a8b47cadd5f3f295e2);
+
+
+            var popup_f61459e6e9754546a220591afb59e965 = L.popup({maxWidth: '300'});
+
+
+                var html_483e926ac64242f59efcfac81adc9efe = $('<div id="html_483e926ac64242f59efcfac81adc9efe" style="width: 100.0%; height: 100.0%;">Bike to <a href="https://www.google.com/maps/dir/Scripps+Institution+of+Oceanography,+8622+Kennel+Way,+La+Jolla,+CA+92037/32.553383000000004,-117.12953300000001/@32.8857266,-117.4829295,10z/data=!4m2!4m1!3e1"target="_blank">Tijuana Slough</a> with me!</div>')[0];
+                popup_f61459e6e9754546a220591afb59e965.setContent(html_483e926ac64242f59efcfac81adc9efe);
+
+
+            circle_marker_13b83b43926c49f49e7c773ff5f7da73.bindPopup(popup_f61459e6e9754546a220591afb59e965);
+
+
+
+
+
+
+                map_4c555b647aad40a8b47cadd5f3f295e2.fitBounds(
+                    [[32.553383000000004, -117.39413200000001], [33.201538, -117.12953300000001]],
+                    {}
+                    );
+
 </script>
