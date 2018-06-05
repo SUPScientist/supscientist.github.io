@@ -14,12 +14,28 @@ I know I'm not alone when I say that I'd like to go on an adventure but struggle
 
 I'm calling the first one *Bike to Surf Month*. My goal is, rather simply, to surf a different break in San Diego County every day in the month of June, getting to each using only my bike. It might not sound like much, but with more than fifty miles of roads and paths separating the northernmost from southernmost SD breaks and a full-time job, it should keep me busy and give me an opportunity to explore one of the world's nicest coastlines in a comparatively unintrusive way. Maybe I'll finally get better at surfing, too!
 
+<div class="resp-container">
+    <iframe class="resp-iframe" src="../interactive-pages/msw-sandiego.html"></iframe>
+</div>
+
 I am also excited to use my [#biketosurfmonth](https://www.instagram.com/explore/tags/biketosurfmonth/) journey as an opportunity to expand my studies and promote ocean science outreach. I'm going to make measurements along the way. [My research](../.) revolves around building ocean sensor networks to improve our understanding of natural and human-caused chemical changes. I'll bring a [Smartfin](../smartfin) to investigate temperature variability. And I'm going to work on assembling a custom CO<sub>2</sub> sensor (more on that in a future post) to observe both land and sea dynamics along my routes. I'd love to hear what other measurements you're interested in!
 
 My plan is to hit thirty different breaks along the fifty mile stretch from the Mexican border to Orange County, focusing on those closer to home (Pacific Beach) on week days and the more distant ones on weekends. I don't have it all scoped out yet but, as a start, the map below shows many of San Diego's iconic breaks (according to Magic Seaweed (thanks for getting their coordinates, Alan!)). They're all shown as simple icons now but, as I go, I'll fill them in with my data (spots I've hit are shown in blue). I'll post (using [#biketosurf](https://www.instagram.com/explore/tags/biketosurf/) and [#biketosurfmonth](https://www.instagram.com/explore/tags/biketosurfmonth/)) rough plans for each morning session the night before. I hope you'll join me with bike and board for a few waves!
 
-<div class="resp-container">
-    <iframe class="resp-iframe" src="../interactive-pages/msw-sandiego.html"></iframe>
-</div>
+#### Day 4 (June 4, 2018): Windansea&mdash;calm, quiet, and clean
+I don't think I've ever packed so much fun into such a short surf session. I had to patch my rear tire this morning right when I was about to head out the door and I thought I had an early meeting (it was cancelled while I was surfing... if only I knew!). So I tried to sprint (my legs were pretty beat up from yesterday's long rides) up the coast from home to the break to squeeze a few waves in before heading to work. Conditions were right in my sweet spot: a dead calm surface, a terrible Surfline report (so almost no one else was out), and chest high sets. It was one of those mornings where you can hear the water lapping back and forth across your board because everything else is so still and silent.
+
+#### Day 3 (June 3, 2018): Tijuana Slough&mdash;crossed the 100 mile threshold!
+Today was one of the coolest solo adventures I've done. I biked and surfed for about six hours total in nearly complete solitude. I saw only one other surfer the whole day and s/he was about two miles north of where I paddled out. Before today, I felt like I'd explored San Diego County reasonably well but after a few hours, I realized how much I've been missing. The San Diego Bayshore Bikeway (which nearly circles San Diego Bay) changes from completely urban to industrial to military to sprawling nature landscapes. I've done much of today's ride before but never alone with nothing but time to take it all in. And I'd seen the southern edge of the Tijuana River National Estuarine Research Reserve (AKA Border Field State Park) on a volunteer trip with Outdoor Outreach years ago but we went straight to the beach and didn't have a chance to explore the estuary. I don't know as much about the reserve as I'd like but it seems to me to be one of the most unaltered ecosystems on Southern California's coastline. On the other hand, it's infamous for its human-caused influx of pollution of many flavors (trash, sewage, etc.), especially during the rainy season when this surf break is effectively closed off for weeks at a time.
+
+#### Day 2 (June 2, 2018): Boneyards&mdash;twice as much fun
+Today was awesome! I cycled about 18 miles up the coast and met up with a wonderful friend who helped pick the spot. It was fairly small (waist high on average) but very clean and we even managed to find a spot with almost no one else. It seems like the last few times I've surfed with Mattias, it's been pretty small, but we always manage to have a blast. Mattias is just one of those people who are incredibly hard to be in anything less than a great mood when you're with them, no matter what the conditions.
+
+#### Day 1 (June 1, 2018): Pipes&mdash;it begins!
+This is going to be a challenge.
+
+I knew it would be&mdash;that was kind of the point, or at least part of it&mdash;but, wow, my legs were completely exhausted by the time I got into work today after biking to the break, surfing, and biking to the office. It was _only_ a ~25 mile round trip but it was the first time I went more than a couple miles with my board and other gear on my bike. 
+
+But it was also a blast. Cycling and surfing are among my favorite activities so starting a Friday off with both was pretty incredible. It was a little on the crowded side, at least given the small take-off spot, but there seemed to be just the right number of waves in most sets for each of us to catch something.
 
 Inspired by [Bike to Work Month](https://www.recreation.gov/marketing.do?goto=acm/Explore_And_More/exploreArticles/MayisNationalBikeMonth.htm), [Sustainable Surf](http://sustainablesurf.org/2015/09/bike-to-surf-week/), [My Wave Addiction](http://www.mywaveaddiction.com/bike-to-surf/index.html), and the ocean.
