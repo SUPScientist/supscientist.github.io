@@ -17,14 +17,14 @@ _(Please scroll down to see my interactive bike/surf map and my ride logs/pics.)
 ### The Goal
 I'm calling the first adventure *Bike to Surf Month*. My goal is, rather simply, to surf a different break in San Diego County every day in the month of June, getting to each using only my bike. It might not sound like much, but with more than fifty miles of roads and paths separating the northernmost from southernmost SD breaks and a full-time job, it should keep me busy and give me an opportunity to explore one of the world's nicest coastlines in a comparatively un5intrusive way. Maybe I'll finally get better at surfing, too!
 
+My plan is to hit thirty different breaks along the fifty mile stretch from the Mexican border to Orange County, focusing on those closer to home (Pacific Beach) on week days and the more distant ones on weekends. I don't have it all scoped out yet but, as a start, the map below shows many of San Diego's iconic breaks (according to Magic Seaweed (thanks for getting their coordinates, Alan!)). I'm filling them in with my data as I go (spots I've hit are shown in blue dots and my bike tracks are blue lines) and posting (using [#biketosurf](https://www.instagram.com/explore/tags/biketosurf/) and [#biketosurfmonth](https://www.instagram.com/explore/tags/biketosurfmonth/)) updates and random musings on social media. I hope you'll join me with bike and board for a few waves!
+
 <div class="resp-container">
     <iframe class="resp-iframe" src="../interactive-pages/msw-sandiego.html"></iframe>
 </div>
 
 ### Science and Science Communication
 I am also excited to use my [#biketosurfmonth](https://www.instagram.com/explore/tags/biketosurfmonth/) journey as an opportunity to expand my studies and promote ocean science outreach. I'm making measurements along the way. [My research](../.) revolves around building ocean sensor networks to improve our understanding of natural and human-caused chemical changes. I'm bringing a [Smartfin](../smartfin) to investigate temperature variability. And I'm working on designing a custom CO<sub>2</sub> sensor (more on that in a future post) to observe both land and sea dynamics along my routes.
-
-My plan is to hit thirty different breaks along the fifty mile stretch from the Mexican border to Orange County, focusing on those closer to home (Pacific Beach) on week days and the more distant ones on weekends. I don't have it all scoped out yet but, as a start, the map below shows many of San Diego's iconic breaks (according to Magic Seaweed (thanks for getting their coordinates, Alan!)). I'm filling them in with my data as I go (spots I've hit are shown in blue) and posting (using [#biketosurf](https://www.instagram.com/explore/tags/biketosurf/) and [#biketosurfmonth](https://www.instagram.com/explore/tags/biketosurfmonth/)) updates and random musings on social media. I hope you'll join me with bike and board for a few waves!
 
 ### The Ride Log
 #### Day 7 (June 7, 2018): Sunset Cliffs/South Garbage&mdash;epic is a story
