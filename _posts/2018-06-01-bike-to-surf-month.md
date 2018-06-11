@@ -28,7 +28,21 @@ _(Spots I've hit are shown in blue dots, those I still need to visit are green; 
 I am also excited to use my [#biketosurfmonth](https://www.instagram.com/explore/tags/biketosurfmonth/) journey as an opportunity to expand my studies and promote ocean science outreach. I'm making measurements along the way. [My research](../.) revolves around building ocean sensor networks to improve our understanding of natural and human-caused chemical changes. I'm bringing a [Smartfin](../smartfin) to investigate temperature variability. And I'm working on designing a custom CO<sub>2</sub> sensor (more on that in a future post) to observe both land and sea dynamics along my routes.
 
 ### The Ride Log
-_298.7 cumulative cycling/surfing miles_
+_~380 cumulative cycling/surfing miles_
+
+#### Day 10 (June 10, 2018): Oceanside Pier&mdash;double digits!
+![](../assets/img/for_posts/IMG_4693.jpg)
+
+Only three weeks till rest day ;) Today was really fun but very intimidating. I don't know North County well at all to begin with and had never surfed in Oceanside and it was very big. In my terms. Which means well overhead. Fortunately it was a long period swell so there was a lot of time to catch my breath in between poundings when paddling out. I caught a few of the bigger waves I've ridden but a strong onshore wind was really chopping up the surface so I went flying off the face more than once.
+
+I also technically completed my first triathlon of the month. The Carlsbad Triathlon was taking place right on the main road I needed to take in order to get north to Oceanside and the cop stopped me when I got to the south end of the course to say I had to go roughly for miles inland to get around it or walk my bike and board for a bit over a mile (for reasons I don't totally understand, biking southward and walking both directions were allowed but biking northward on the course was not&mdash;maybe something to do with pacing the competitors..?). I opted for the latter but didn't want to walk&mdash;I wasn't trying to spend an extra twenty minutes on my way to the waves&mdash;so I jogged the mile or so with all of my gear. So got a nice bike, run, and surf in today. 
+
+#### Day 9 (June 9, 2018): Ponton&mdash;adventure is where you find it
+![](../assets/img/for_posts/IMG_4675.jpg)
+
+My first reaction to the flat tire was to be annoyed but this turned into a pretty cool experience. I carry spares of most things that I think I could need out there, including tubes and patches, but I was in the middle of Solana Beach when it happened and I thought it would be nice to use a floor pump, instead of my hand pump, to get a little more pressure into the repaired tube. So I pulled over at Revolution Bike Shop and got to work. While I was getting things back in order, one of the mechanics came over to check out my board (a beautiful, eye-catching, wood veneered FireWire board) and exclaimed, "your fin has a chip in it!" Took me a sec to realize he meant not a bad scratch but rather a computer chip; he was checking out my Smartfin. He was really into it and started showing it off to the other mechanics which was pretty cool to see.
+
+I surfed Ponto which looked immaculate when I showed up. Surf magazine cover immaculate. It stayed that way for maybe eight minutes after I got into the water during which time I barely caught one or two but it and I almost immediately ran out of juice. It went completely flat and I totally bonked (not sure that term's used much in surfing but it is in cycling (and other endurance sports) which is how I got there, so I think it's valid). For the next forty minutes, it was small and choppy. I decided to catch my last wave and it picked back up. I guess whatever storm generated the swell took a forty minute break but it came back in full force. This little excursion is definitely succeeding with regard to getting me out of my comfort zone...
 
 #### Day 8 (June 8, 2018): Scripps Pier&mdash;World Oceans Day!
 ![](../assets/img/for_posts/IMG_2865.jpg)
