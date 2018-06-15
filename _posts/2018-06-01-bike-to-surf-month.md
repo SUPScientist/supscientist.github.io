@@ -51,6 +51,7 @@ Contrary to today's tagline, I actively practice not rushing time. It goes fast 
 
 It was remarkably crowded in the water; I even heard someone get out around 7 and say, "it's been like this since 6," which is pretty rare. I guess the late weekend/early week swell got everyone motivated to catch a few more before it fizzles out completely, especially since summer is in full swing and we may not get many more great swells like this one for a few months now. Even with the crowd, it was a blast. For some reason I never mind the crowds at Tourmo nearly as much as I do elsewhere. I think the seemingly lazy but still powerful waves there give everyone enough of what they're looking for so there isn't as much agitation rippling through the lineup.
 
+![](../assets/img/for_posts/CarolKent1.jpg)
 ![](../assets/img/for_posts/CarolKent2.jpg)
 
 _A huge thanks to Carol Kent, whom I'd never met before today but who was taking pics on the beach and was kind enough to send me a few great shots!_
