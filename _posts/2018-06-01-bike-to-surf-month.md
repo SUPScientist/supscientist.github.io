@@ -30,6 +30,15 @@ I am also excited to use my [#biketosurfmonth](https://www.instagram.com/explore
 ### The Ride Log
 _~518 cumulative cycling/surfing miles_
 
+#### Day 15 (June 15, 2018): North Bird/Sun Gold Point&mdash;no waves, no problem
+![](../assets/img/for_posts/IMG_3268.jpg)
+
+I needed a bit of a rest day today so, instead of biking far out of my way, I just stopped at a spot that I've seen break really nicely on a small number of very good days that's on my way to work. Today wasn't a very good day, at least not as far as the swell was concerned. It was tiny, the tide was low, and this spot breaks on a rock reef that you can easily see on Google Maps [(here's a zoomed in view of the reef)](https://www.google.com/maps/@32.8177299,-117.2770667,444m/data=!3m1!1e3) so it looked a little hairy. I considered other options but ended up choosing to jump in and paddle around the cove in my boardshorts and maybe catch one or two if things aligned when I reached the point (they did).
+
+The relative seclusion of this spot in an otherwise very crowded part of La Jolla is pretty spectacular. There's a ~ 6 car parking lot at the top of a few stairs that go down to the beach shown in that picture above but I don't think I've ever seen 6 cars there in the many times I've biked past. Today there was one but its human was nowhere to be found, leaving just me on the beach. I didn't even bother locking my bike up since I knew I'd stay close and, again, there was no one else around. The water was incredibly warm&mdash;69.9 <sup>o</sup>F according to my Smartfin&mdash;and there was a ton of wildlife in the cove: cormorants, pelicans, seagulls, crabs, and _lots_ of seagrass. I spent a while just checking out the tidepools and watching the crabs scurry along. Not sure I'll go out of my way to come back here for waves any time soon but if I need a quiet rest spot on my way to/from work, now I know where to go. 
+
+![](../assets/img/for_posts/IMG_3291.jpg)
+
 #### Day 14 (June 14, 2018): Cliffs/North Garbage&mdash;how do you choose one favorite spot?!
 ![](../assets/img/for_posts/IMG_3239.jpg)
 
@@ -88,7 +97,7 @@ I surfed Ponto which looked immaculate when I showed up. Surf magazine cover imm
 
 The choice for where to surf today was the most obvious one yet: where I truly learned how to surf and how to be an oceanographer. I'm incredibly lucky to call this my home break for many, many reasons, not least of which is the people I've met here throughout the years. Scripps has been known for producing and housing high quality scientists for over a century but it's our feeling of community that really makes it a great place to work and surf. I surfed next to one of the most preeminent atomspheric and oceanic scientists in the world as well as my buddy about whom I'll probably be saying the same in not all that long. Waves were great: chest &ndash; head high and really clean. Scripps is a great place to surf regularly but it's far from the best as waves frequently close out fast here. That was not the case today so I had a great time surfing and chatting with my friends and colleagues. Happy World Oceans Day, everyone! Please do something kind for the ocean today :) [(Here are some ideas for how.)](https://www.surfrider.org/coastal-blog/entry/world-oceans-day-is-june-8th-heres-how-you-can-make-a-difference)
 
-#### Day 7 (June 7, 2018): Sunset Cliffs/South Garbage&mdash;epic is a story
+#### Day 7 (June 7, 2018): Sunset Cliffs/Abs&mdash;epic is a story
 ![](../assets/img/for_posts/IMG_2878.jpg)
 
 People's reactions to the word "epic" are individual, based on personal experience. If you're an extreme athlete or YouTube-enabled-couch-junkie, the word likely conjures images of Shaun White hurtling through the air or Rodrigo Koxa screaming down the face of a Nazarean monster; bibliophiles may think of Odysseus and Frodo Baggins. For me, the word sounds like something hard to reach, especially without quitting (or at least changing) my job. I'm on a both month- and lifelong mission to make _epic_ attainable (not to mention sustainable).
