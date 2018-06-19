@@ -7,6 +7,11 @@ img: bike-to-surf.jpg
 tags: [cycling, surfing, San Diego, local, Smartfin, sensors] # add tag
 ---
 
+
+Other notes:
+
+What I hope to emphasize through this project is not how great of an adventurer I am but rather how easy it is to find an adventure of your own. I don't think everyone should try biking and surfing (or necessarily doing any one single thing) for a month straight. But by biking to and surfing most major breaks within the county before going to work at my full-time job, I am trying to demonstrate how attainable adventure can be.
+
 ### Epic is a Story
 I think people's reactions to the word "epic" are individual, personal. If you're an extreme athlete or YouTube-enabled-couch-junkie, the word likely conjures images of Shaun White hurling through the air or Rodrigo Koxa screaming down the face of a Nazarean monster; bibliophiles may think of Oddyseus and Frodo Baggins; and my mom is probably rolling her eyes thinking I've been living in CA too long (after my very first interview appeared in print, she called me to say, "that was great but did you really say 'stoked'?"). I'm moving on from _stoked._ I'm on a mission to make _epic_ attainable. Attainable by me and hopefully attainable by you.
 
