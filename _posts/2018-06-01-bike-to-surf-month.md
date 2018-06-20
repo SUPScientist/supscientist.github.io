@@ -28,7 +28,28 @@ _(Spots I've hit are shown in blue dots, those I still need to visit are green; 
 I am also excited to use my [#biketosurfmonth](https://www.instagram.com/explore/tags/biketosurfmonth/) journey as an opportunity to expand my studies and promote ocean science outreach. I'm making measurements along the way. [My research](../.) revolves around building ocean sensor networks to improve our understanding of natural and human-caused chemical changes. I'm bringing a [Smartfin](../smartfin) to investigate temperature variability. And I'm working on designing a custom CO<sub>2</sub> sensor (more on that in a future post) to observe both land and sea dynamics along my routes.
 
 ### The Ride Log
-_541 cumulative cycling/surfing miles_
+_668 cumulative cycling/surfing miles_
+#### Day 19 (June 19, 2018): Del Mar Cliffs&mdash;reconnecting
+No pics today, sorry! This morning was unique and memorable. I received a gracious invitation via Facebook from an old friend whom I hadn't seen in ~ five years to stop by to surf in essentially her front yard and have coffee and breakfast with her family. It was windy, but the sets were decent, though today's experience was undoubtedly marked by this great reconnection. Thanks again, Bethany, Mark, and Tatum! So wonderful to catch up!
+
+#### Day 18 (June 18, 2018): Blacks&mdash;poor board choice is an understatement
+![](../assets/img/for_posts/IMG_3397.jpg)
+
+_NB: the board in that pic would've been the right board. I didn't use that this morning. I'm bringing it home tonight so I have it tomorrow. Hopefully that's right._
+
+It was one of those days where just about everything lined up&mdash;except for my board selection. After my ride in, I met up with [NPR's Nathan Rott](https://www.npr.org/people/348779465/nathan-rott) who was in town to interview the [Keeling Group](http://scrippsco2.ucsd.edu/) about atmostpheric CO<sub>2</sub> chemistry. A rad, seemingly similarly-minded guy (at least in love for the outdoors), Nate took advantage of his day in San Diego and afternoon meetings to meet up for an early morning session and to surf with and chat about Smartfin. We met at Scripps Pier which looked dead flat and choppy so we opted to walk up the beach to Blacks which was clearly going off. I have one shortboard and one longboard Smartfin and Nate had a shorter board so I gave him that fin, leaving me with the longboard fin and a poorly conceived plan to bring a longboard to overhead Blacks. I more than survived&mdash;I managed to catch some really fun waves&mdash;but I paid the price for bringing that unwieldy tool to a big, occasionally very closed out beach break. Some day I might do that on purpose but today I was really yearning for a 6' or shorter board, both to make more drops and to bail more quickly! It was really fun learning about Nate's job and how he finds stories across the country and he even spent an hour in my office and lab afterwards to ask deeper questions about the Smartfin Project than we could reasonably discuss in the water. Wish I had digital pics of this morning's waves; I still have plenty of mental ones but those are mostly just of walls closing in on me with my nose pointed down the line and all laws of physics suggesting there's no way I'll make it.
+
+#### Day 17 (June 17, 2018): Beacon's&mdash;International Surfing Day!
+![](../assets/img/for_posts/IMG_3385.jpg)
+
+Scored again. Mostly with the people I met but also the swell. I don't know who Beacon is, but I definitely like his or her beach. It was pretty windy on the ride and I didn’t see much in the way of waves as I pedaled 21 miles up the coast but Beacon’s, which can pick up the SW energy and has plenty of offshore kelp to dampen the surface chop, was working nicely today. While paddling for a wave, a heard two folks talking about an upcoming bikepacking trip through Mexico. I got really excited to hear someone talking about bikes so I awkwardly jumped into the conversation and ended up chatting with them for the next 45 minutes. Hoping to make it to their nonprofit’s fundraiser—supporting taking less privileged kids on backpacking trips—later this week too.
+
+Everyone was stoked to find good waves on a day with a mediocre forecast and it wasn’t too crowded; I love days like today where you can feel everyone’s positive vibes.
+
+#### Day 16 (June 16, 2018): La Jolla Shores&mdash;International Surfing Day!
+![](../assets/img/for_posts/IMG_3334.jpg)
+
+Well the waves left a little something to be desired on this International Surfing Day but the festivities and camaraderie did not. Surfrider Foundation put together a great day of yoga, surfing (with Smartfins!), and a beach cleanup and [Everyday California](https://www.everydaycalifornia.com/) came through huge with the [Galaxy Tacos](https://www.galaxytaco.com/) and [Resident Brewing](http://www.residentbrewing.com/)-featured after party (thanks again, EC!). Traffic heading up Torrey Pines into La Jolla looked annoying so I opted for my first loaded southbound climb up Soledad. It was a slog but well worth it! A cooling drizzle started to fall right as I neared the peak. June Gloom kept things nice and cool for the coast back downhill to the end of a very enjoyable day 16. 
 
 #### Day 15 (June 15, 2018): North Bird/Sun Gold Point&mdash;no waves, no problem
 ![](../assets/img/for_posts/IMG_3268.jpg)
