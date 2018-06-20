@@ -28,7 +28,11 @@ _(Spots I've hit are shown in blue dots, those I still need to visit are green; 
 I am also excited to use my [#biketosurfmonth](https://www.instagram.com/explore/tags/biketosurfmonth/) journey as an opportunity to expand my studies and promote ocean science outreach. I'm making measurements along the way. [My research](../.) revolves around building ocean sensor networks to improve our understanding of natural and human-caused chemical changes. I'm bringing a [Smartfin](../smartfin) to investigate temperature variability. And I'm working on designing a custom CO<sub>2</sub> sensor (more on that in a future post) to observe both land and sea dynamics along my routes.
 
 ### The Ride Log
-_668 cumulative cycling/surfing miles_
+_586 cumulative cycling/surfing miles_
+
+#### Day 20 (June 20, 2018): Mission Beach&mdash;computational doping
+![](../assets/img/for_posts/IMG_3405.jpg)
+
 #### Day 19 (June 19, 2018): Del Mar Cliffs&mdash;reconnecting
 No pics today, sorry! This morning was unique and memorable. I received a gracious invitation via Facebook from an old friend whom I hadn't seen in ~ five years to stop by to surf in essentially her front yard and have coffee and breakfast with her family. It was windy, but the sets were decent, though today's experience was undoubtedly marked by this great reconnection. Thanks again, Bethany, Mark, and Tatum! So wonderful to catch up!
 
