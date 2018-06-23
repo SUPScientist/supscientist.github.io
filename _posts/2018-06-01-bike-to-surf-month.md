@@ -19,7 +19,7 @@ I'm calling the first adventure *Bike to Surf Month*. My goal is, rather simply,
 
 My plan is to hit thirty different breaks along the fifty mile stretch from the Mexican border to Orange County, focusing on those closer to home (Pacific Beach) on week days and the more distant ones on weekends. I don't have it all scoped out yet but, as a start, the map below shows many of San Diego's iconic breaks. I'm filling them in with my data as I go and posting (using [#biketosurf](https://www.instagram.com/explore/tags/biketosurf/) and [#biketosurfmonth](https://www.instagram.com/explore/tags/biketosurfmonth/)) updates and random musings on social media. I hope you'll join me with bike and board for a few waves!
 
-_(Spots I've hit are shown in blue dots, those I still need to visit are green; my bike and surf tracks are blue lines.)_
+_(Spots I've hit are shown in blue dots, those I still need to visit are green. My bike and surf tracks are blue lines. I took the ferry across the bay once; that's shown in green.)_
 <div class="resp-container">
     <iframe class="resp-iframe" src="../interactive-pages/msw-sandiego.html"></iframe>
 </div>
