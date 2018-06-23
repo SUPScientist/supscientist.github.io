@@ -28,10 +28,37 @@ _(Spots I've hit are shown in blue dots, those I still need to visit are green; 
 I am also excited to use my [#biketosurfmonth](https://www.instagram.com/explore/tags/biketosurfmonth/) journey as an opportunity to expand my studies and promote ocean science outreach. I'm making measurements along the way. [My research](../.) revolves around building ocean sensor networks to improve our understanding of natural and human-caused chemical changes. I'm bringing a [Smartfin](../smartfin) to investigate temperature variability. And I'm working on designing a custom CO<sub>2</sub> sensor (more on that in a future post) to observe both land and sea dynamics along my routes.
 
 ### The Ride Log
-_586 cumulative cycling/surfing miles_
+_677 cumulative cycling/surfing miles_
+
+#### Day 23 (June 23, 2018): Hotel Del Coronado&mdash;3rd day of summer... or winter
+![](../assets/img/for_posts/IMG_3520.jpg)
+
+Don’t believe anyone who tries to tell you that Coronado is a nice place in the summer&mdash;they’re lying to you! 15 mph headwinds for the first 20 miles and nothing but wind chop anywhere along the southern San Diego coastline made today a slightly ridiculous day to keep doing this thing. But it was great nonetheless! And I’ve been there on plenty of beautiful, redeeming days too—today was just not one of those days :)
+
+Rode with a three-man group for a few miles talking environmental science and even exchanged info to explore ways to collaborate in the future. It always (and I really do mean always) starts with someone asking about my [Firewire](https://firewiresurfboards.com/) TimberTek/[#ecoboard](https://www.instagram.com/explore/tags/ecoboard/) construction; it catches a lot of eyes.
+
+Took the ferry back across the bay to keep the ride at a meager 42 miles, instead of looping back down around the bay and into the headwind again. Wasn’t the same without you, Kerri, Joao, Paul, Todd, Ellen, and Shannon. Had only Ed Ricketts and John Steinbeck to keep me company and even Ed departed halfway through.
+
+#### Day 22 (June 22, 2018): Cardiff Reef&mdash;frothing for the road
+![](../assets/img/for_posts/IMG_2759.jpg)
+
+Today’s oceanic frothiness was under the unsharing custody of a few not particularly talented old grumps on 11’ longboards. I’ve come up with a hypothesis that there’s a direct relationship between spikiness of board and human. I prefer fairly softly-nosed boards more and more.
+
+Fortunately the road portion was extra fun, so I suppose things remain in balance. Had one cyclist ask me if I was on an e-bike during a climb (I’m not, so that’s the highest compliment!) and two others suggest that I’d learned to use the board as a sail for my bike to take advantage of the wind to keep up with them. Also had a pretty fun interaction while rolling down a road being used for a wedding shoot.
+
+A few people have asked about my setup, so here are the main details (I’ll probably accidentally neglect something). I’m riding a [Surly](https://surlybikes.com/) Cross-Check with [Schwalbe Tires](https://www.schwalbetires.com/) (extra durable!) and a [Jones](www.jonesbikes.com/h-bars/) H-Bar for great lateral stability and a zillion (well, three) hand positions. I put my (usually [Firewire](https://firewiresurfboards.com/)) board on a [Carver Surf rack](https://carverracks.com/csr-small-block) with a front "small block" extension, again for added stability/reduced wobble. In the rear basket, I carry my wetsuit, a towel, and, since I’m, like, super hip, a fanny pack for valuables that I wear while surfing. Plus lunch and a change of clothes if it’s a work day, a multi-tool, and two locks. I thread the cable lock through my helmet and holes that I paranoiacally put in my shoes, so pretty much everything is locked up or attached to me. And I obviously have my Smartfin (and a [Garmin Vivoactive HR](https://buy.garmin.com/en-US/US/p/538374) sport watch for better GPS tracks). Water bottles, sometimes coffee, and never as much food as I end up wishing I’d brought. So it’s a nice light ride :) You should try it!
+
+#### Day 21 (June 21, 2018): Ocean Beach Pier&mdash;solstice sunset from the water
+![](../assets/img/for_posts/IMG_3426.jpg)
+
+Would've preferred a postcard-worthy shot of the sunset today but between June gloom and following, it appears, the trail of multiple folks who still purchase single use water bottles&mdash;why?? I really don't even understand it anymore!&mdash;today's pic is now sad Phil with your trash. These were just sitting on the beach. Like, as in people just didn't even pretend to care. Sigh...
 
 #### Day 20 (June 20, 2018): Mission Beach&mdash;computational doping
 ![](../assets/img/for_posts/IMG_3405.jpg)
+
+Happy summer, friends! Find the surfer in that picture above (hint: (s)he’s going left). Waves were definitely on the smaller side but it was the glassiest session in weeks. And the water was surprisingly, in fact eerily, clear. I saw way more stingrays than I would've liked so I guess it's officially summer (solstice is tomorrow, but stingrays are the better indicator).
+
+It’s been a fun week of reconnecting with old friends and meeting new ones. Surfed overhead Blacks, choppy but fun Del Mar, small and glassy Mission Beach, and Ocean Beach at sunset. Talked water chemistry with middle schoolers in National City and biked through Pacific Beach with littered water bottles and a plastic shipping cover from (I think) a mattress. Almost time to start the final countdown with 9 days left in the month!
 
 #### Day 19 (June 19, 2018): Del Mar Cliffs&mdash;reconnecting
 No pics today, sorry! This morning was unique and memorable. I received a gracious invitation via Facebook from an old friend whom I hadn't seen in ~ five years to stop by to surf in essentially her front yard and have coffee and breakfast with her family. It was windy, but the sets were decent, though today's experience was undoubtedly marked by this great reconnection. Thanks again, Bethany, Mark, and Tatum! So wonderful to catch up!
