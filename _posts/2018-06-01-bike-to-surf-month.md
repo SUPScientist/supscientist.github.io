@@ -37,6 +37,11 @@ I am also excited to use my [#biketosurfmonth](https://www.instagram.com/explore
 ### The Ride Log
 _727 cumulative cycling/surfing miles_
 
+#### Day 24 (June 24, 2018): Terra Mar&mdash;land-sea
+![](../assets/img/for_posts/IMG_3562.jpg)
+
+Terra Mar, Span-talian for Land Sea, was almost completely empty and quite fun. I’m not sure where it gets its name, which was likely the proper Spanish “Tierra Mar” at some point, and presumably called something totally different by indigenous folk before that. But maybe it has something to do with the shallow rock reef there, parts of which may be easily visible from the bluffs at low tide giving the appearance of land rising from the sea—conjecture, of course. Had lots of time to ponder this today. My surfing buddies were garibaldi, cormorants, pelicans, and a seal. And certainly countless other critters I couldn’t see.
+
 #### Day 23 (June 23, 2018): Hotel Del Coronado&mdash;3rd day of summer... or winter
 ![](../assets/img/for_posts/IMG_3520.jpg)
 
@@ -66,6 +71,8 @@ Would've preferred a postcard-worthy shot of the sunset today but between June g
 Happy summer, friends! Find the surfer in that picture above (hint: (s)he’s going left). Waves were definitely on the smaller side but it was the glassiest session in weeks. And the water was surprisingly, in fact eerily, clear. I saw way more stingrays than I would've liked so I guess it's officially summer (solstice is tomorrow, but stingrays are the better indicator).
 
 It’s been a fun week of reconnecting with old friends and meeting new ones. Surfed overhead Blacks, choppy but fun Del Mar, small and glassy Mission Beach, and Ocean Beach at sunset. Talked water chemistry with middle schoolers in National City and biked through Pacific Beach with littered water bottles and a plastic shipping cover from (I think) a mattress. Almost time to start the final countdown with 9 days left in the month!
+
+I called this post "computational doping" because I discovered an interesting error in my total distance calculations (the fixing of which greatly diminished my computed miles covered). It's pretty interesting, though, from a GPS functionality and numerical standpoint. I was using a 3-D distance calculator&mdash;basically just calculating the distance between two points in the three dimensional space of our planet (e.g. distance between [lat_1, lon_1, alt_1] --> [lat_2, lon_2, alt_2]) and iterating over all consecutive points and adding it up to get a given ride's distance. There's nothing wrong with this approach, as far as I can tell, on the surface. But it turns out that my GPS watch's barometer "thought" that I was gaining and losing much more elevation than I truly was because it is of course calibrated to atmospheric pressures and I take it into the water. So when I duck dive or get crushed by a big wave and end up a few feet (of water...) below the surface, my watch thinks that I've lost (and subsequently regained) a few thousand feet of elevation. And that's going into the total distance calculation. Oops... Well, now I know more about how my GPS watch works and will pay closer attention to this calculation! I'm now using 2-D distance to circumvent this problem, but, again, I'm moving in three dimensional space so my distance calculated is an underestimate by a slight margin.
 
 #### Day 19 (June 19, 2018): Del Mar Cliffs&mdash;reconnecting
 No pics today, sorry! This morning was unique and memorable. I received a gracious invitation via Facebook from an old friend whom I hadn't seen in ~ five years to stop by to surf in essentially her front yard and have coffee and breakfast with her family. It was windy, but the sets were decent, though today's experience was undoubtedly marked by this great reconnection. Thanks again, Bethany, Mark, and Tatum! So wonderful to catch up!
