@@ -27,7 +27,7 @@ _(Spots I've hit are shown in blue dots, those I still need to visit are green. 
 
 And here's some of the data I've collected:
 <div class="resp-container">
-    <iframe class="resp-iframe" src="../bike-to-surf-time-series.html"></iframe>
+    <iframe class="resp-iframe" src="../interactive-pages/bike-to-surf-time-series.html"></iframe>
 </div>
 
 
