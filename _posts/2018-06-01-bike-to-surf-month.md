@@ -35,7 +35,21 @@ And here's some of the data I've collected:
 I am also excited to use my [#biketosurfmonth](https://www.instagram.com/explore/tags/biketosurfmonth/) journey as an opportunity to expand my studies and promote ocean science outreach. I'm making measurements along the way. [My research](../.) revolves around building ocean sensor networks to improve our understanding of natural and human-caused chemical changes. I'm bringing a [Smartfin](../smartfin) to investigate temperature variability. And I'm working on designing a custom CO<sub>2</sub> sensor (more on that in a future post) to observe both land and sea dynamics along my routes.
 
 ### The Ride Log
-_727 cumulative cycling/surfing miles_
+_755 cumulative cycling/surfing miles_
+
+#### Day 26 (June 26, 2018): Torrey Pines&mdash;"the joy is in the climb itself"
+![](../assets/img/for_posts/IMG_3592.jpg)
+
+We've all heard this quote (the above version by Mark Manson) said in a ton of different ways: "it's not the destination; it's the journey," "it's the process, not the result," "the doing is more important than the outcome." You get it. Nothing new here. But who actually heeds that advice? I certainly fail to most of the time. I think about hitting the next milestone at work (things will calm down after that, without a doubt...) or going on the next trip (it's so much better there than it is here!). And we all look forward to the end of the day, the weekend, the summer, ...
+
+It was this mindset that helped coerce me into following through with my self-inflicted slog across San Diego County. I wanted to slow down a little and appreciate the here and the now. Even though, quite frankly, the situation I've kept finding myself in is that I'm just starting a long ride, I have a destination in mind, I have commitments later in the day, and my legs and arms are more than a little fatigued. The thought process that more or less led to Bike to Surf Month was initially just, "hey, I hear there are a bunch of cool surf breaks in San Diego. I should check them out." But I quickly decided that driving _more_ to "get to" nature was fairly deeply contradictory to my ethos. Or at least what I want to think of as my ethos.
+
+I still plan to use my car to get to different places, both natural and humanmade, but this (almost) month of traveling very slowly around my own county has done a lot more for me than simply given me a chance to surf new breaks. And still more than just checking out the beautiful paths between home, work, and those breaks. Those parts have been wonderful and memorable but I think the bigger gain from all of this has been the lesson (which I will certainly have to continue practicing and reteaching myself) that "here" and "now" are pretty special in and of themselves.
+
+#### Day 25 (June 25, 2018): PB Pier&mdash;find meaning
+![](../assets/img/for_posts/IMG_3575.jpg)
+
+lorem ipsum
 
 #### Day 24 (June 24, 2018): Terra Mar&mdash;land-sea
 ![](../assets/img/for_posts/IMG_3562.jpg)
