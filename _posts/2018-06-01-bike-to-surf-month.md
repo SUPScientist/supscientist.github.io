@@ -35,7 +35,7 @@ And here's some of the data I've collected:
 I am also excited to use my [#biketosurfmonth](https://www.instagram.com/explore/tags/biketosurfmonth/) journey as an opportunity to expand my studies and promote ocean science outreach. I'm making measurements along the way. [My research](../.) revolves around building ocean sensor networks to improve our understanding of natural and human-caused chemical changes. I'm bringing a [Smartfin](../smartfin) to investigate temperature variability. And I'm working on designing a custom CO<sub>2</sub> sensor (more on that in a future post) to observe both land and sea dynamics along my routes.
 
 ### The Ride Log
-_763 cumulative cycling/surfing miles_
+_811 cumulative cycling/surfing miles_
 
 #### Day 26 (June 26, 2018): Torrey Pines&mdash;"the joy is in the climb itself"
 ![](../assets/img/for_posts/IMG_3592.jpg)
