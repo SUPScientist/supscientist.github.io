@@ -37,6 +37,12 @@ I am also excited to use my [#biketosurfmonth](https://www.instagram.com/explore
 ### The Ride Log
 _811 cumulative cycling/surfing miles_
 
+#### Day 28 (June 28, 2018): Del Mar Rivermouth/Solana Beach&mdash;disorganized, swell
+![](../assets/img/for_posts/IMG_3653.jpg)
+
+#### Day 27 (June 27, 2018): Marine Street&mdash;feel the seiche
+![](../assets/img/for_posts/IMG_3630.jpg)
+
 #### Day 26 (June 26, 2018): Torrey Pines&mdash;"the joy is in the climb itself"
 ![](../assets/img/for_posts/IMG_3592.jpg)
 
