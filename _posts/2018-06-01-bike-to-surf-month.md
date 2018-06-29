@@ -24,13 +24,6 @@ _(Spots I've hit are shown in blue dots, those I still need to visit are green. 
     <iframe class="resp-iframe" src="../interactive-pages/msw-sandiego-mapbox.html"></iframe>
 </div>
 
-
-And here's some of the data I've collected:
-<div class="resp-container">
-    <iframe class="resp-iframe" src="../interactive-pages/bike-to-surf-time-series.html"></iframe>
-</div>
-
-
 ### Science and Science Communication
 I am also excited to use my [#biketosurfmonth](https://www.instagram.com/explore/tags/biketosurfmonth/) journey as an opportunity to expand my studies and promote ocean science outreach. I'm making measurements along the way. [My research](../.) revolves around building ocean sensor networks to improve our understanding of natural and human-caused chemical changes. I'm bringing a [Smartfin](../smartfin) to investigate temperature variability. And I'm working on designing a custom CO<sub>2</sub> sensor (more on that in a future post) to observe both land and sea dynamics along my routes.
 
