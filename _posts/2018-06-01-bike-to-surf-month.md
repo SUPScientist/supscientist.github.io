@@ -21,7 +21,7 @@ My plan is to hit thirty different breaks along the fifty mile stretch from the 
 
 _(Spots I've hit are shown in blue dots, those I still need to visit are green. My bike and surf tracks are blue lines. I took the ferry across the bay once; that's shown in green.)_
 <div class="resp-container">
-    <iframe class="resp-iframe" src="../interactive-pages/msw-sandiego.html"></iframe>
+    <iframe class="resp-iframe" src="../interactive-pages/msw-sandiego-mapbox.html"></iframe>
 </div>
 
 
