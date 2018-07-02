@@ -3,7 +3,7 @@ layout: post
 title: Educational Resources
 date: 2018-07-02 00:00:00 -0700
 description: Collection of tools for marine chemistry and ocean engineering teaching
-img: marine-co2.jpg
+img: marine-co2.png
 tags: [teaching, education, marine, oceanography, enginering] # add tag
 ---
 
