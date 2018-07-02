@@ -18,8 +18,10 @@ Moreover, we've been able to measure atmospheric carbon dioxide with remarkably 
 ### Who cares?
 A scientifically fascinating side effect of the ocean acidification phenomenon is that, due to the acid dissociation constants (k<sub>a</sub> values) for carbonic acid and bicarbonate ion, at current ocean conditions, bicarbonate ion is the favored form of marine inorganic carbon. And, unfortunately, as ocean pH decreases from its current surface average of ~ 8.1, bicarbonate becomes more and more favored while carbonate becomes less and less favored. And carbonate, as scientists understand it, is the ion that is used in the building blocks of marine calcifiers' shells (like corals, mollusks, and pteropods (AKA sea butterflies), to name a few).
 
-The following interactive graph shows the concentrations of carbonic acid, bicarbonate ion, and carbonate ion as functions of pH when total dissolved inorganic carbon (the sum of all of those species) is equal to 2,200 \mu mol/kg.
+The following interactive graph shows the concentrations of carbonic acid, bicarbonate ion, and carbonate ion as functions of pH when total dissolved inorganic carbon (the sum of all of those species) is equal to 2,200 &mu;mol/kg (a reasonable surface ocean value based on the paper by Bates _et al._ mentioned above). You can zoom into both x- and y-axes to see finer detail and drag the cursor over to see the concentrations of the different species across a wide range of pH.
 
 <div class="resp-container">
     <iframe class="resp-iframe" src="../interactive-pages/marine-co2-equil.html"></iframe>
 </div>
+
+To see the equations I used to generate the graph above, you can visit my Jupyter Notebook with the associated code [here](../jupyter-notebooks/Marine Co2 Equilibria, Static.ipynb).
