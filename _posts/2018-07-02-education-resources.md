@@ -24,4 +24,4 @@ The following interactive graph shows the concentrations of carbonic acid, bicar
     <iframe class="resp-iframe" src="../interactive-pages/marine-co2-equil.html"></iframe>
 </div>
 
-To see the equations I used to generate the graph above, you can visit my Jupyter Notebook with the associated code [here](../jupyter-notebooks/Marine CO2 Equilibria, Static.ipynb).
+To see the equations I used to generate the graph above, you can visit my Jupyter Notebook with the associated code [here](https://github.com/SUPScientist/Website-Analysis/blob/master/Teaching-Resources/Marine%20CO2%20Equilibria%2C%20Static.ipynb).
