@@ -19,16 +19,18 @@ I'm calling the first adventure *Bike to Surf Month*. My goal is, rather simply,
 
 My plan is to hit thirty different breaks along the fifty mile stretch from the Mexican border to Orange County, focusing on those closer to home (Pacific Beach) on week days and the more distant ones on weekends. I don't have it all scoped out yet but, as a start, the map below shows many of San Diego's iconic breaks. I'm filling them in with my data as I go and posting (using [#biketosurf](https://www.instagram.com/explore/tags/biketosurf/) and [#biketosurfmonth](https://www.instagram.com/explore/tags/biketosurfmonth/)) updates and random musings on social media. I hope you'll join me with bike and board for a few waves!
 
-_(Spots I've hit are shown in blue dots, those I still need to visit are green. My bike and surf tracks are blue lines. I took the ferry across the bay once; that's shown in green.)_
+_(My bike and surf tracks are blue lines and my Smartfin temperature data are the colored dots.)_
 <div class="resp-container">
     <iframe class="resp-iframe" src="../interactive-pages/msw-sandiego-mapbox.html"></iframe>
 </div>
 
 ### Science and Science Communication
-I am also excited to use my [#biketosurfmonth](https://www.instagram.com/explore/tags/biketosurfmonth/) journey as an opportunity to expand my studies and promote ocean science outreach. I'm making measurements along the way. [My research](../.) revolves around building ocean sensor networks to improve our understanding of natural and human-caused chemical changes. I'm bringing a [Smartfin](../smartfin) to investigate temperature variability. And I'm working on designing a custom CO<sub>2</sub> sensor (more on that in a future post) to observe both land and sea dynamics along my routes.
+I am also excited to use my [#biketosurfmonth](https://www.instagram.com/explore/tags/biketosurfmonth/) journey as an opportunity to expand my studies and promote ocean science outreach. I'm making measurements along the way. [My research](../.) revolves around building ocean sensor networks to improve our understanding of natural and human-caused chemical changes. I'm bringing a [Smartfin](../smartfin) to investigate temperature variability and a Garmin sport watch to log my tracks along the way.
 
 ### The Ride Log
-_811 cumulative cycling/surfing miles_
+_868.9 cumulative cycling/surfing miles_
+
+I'm a few posts behind but don't worry&mdash;I'll fill this in ASAP!
 
 #### Day 28 (June 28, 2018): Del Mar Rivermouth/Solana Beach&mdash;disorganized, swell
 ![](../assets/img/for_posts/IMG_3653.jpg)
