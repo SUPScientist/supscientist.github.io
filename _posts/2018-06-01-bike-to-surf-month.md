@@ -19,7 +19,7 @@ I'm calling the first adventure *Bike to Surf Month*. My goal is, rather simply,
 
 My plan is to hit thirty different breaks along the fifty mile stretch from the Mexican border to Orange County, focusing on those closer to home (Pacific Beach) on week days and the more distant ones on weekends. I don't have it all scoped out yet but, as a start, the map below shows many of San Diego's iconic breaks. I'm filling them in with my data as I go and posting (using [#biketosurf](https://www.instagram.com/explore/tags/biketosurf/) and [#biketosurfmonth](https://www.instagram.com/explore/tags/biketosurfmonth/)) updates and random musings on social media. I hope you'll join me with bike and board for a few waves!
 
-_(My bike and surf tracks are blue lines and my Smartfin temperature data are the colored dots.)_
+_(My bike and surf tracks are blue lines and my Smartfin temperature data are the colored dots. You can find the code I used to generate this map [here](https://github.com/SUPScientist/Website-Analysis/blob/master/Bike-to-Surf-Month/2018-06-01-MSWSites-in-CA-withBikeSmartfinMap.ipynb))_
 <div class="resp-container">
     <iframe class="resp-iframe" src="../interactive-pages/msw-sandiego-mapbox.html"></iframe>
 </div>
