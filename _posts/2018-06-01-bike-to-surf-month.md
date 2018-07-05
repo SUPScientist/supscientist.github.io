@@ -30,8 +30,6 @@ I am also excited to use my [#biketosurfmonth](https://www.instagram.com/explore
 ### The Ride Log
 _868.9 cumulative cycling/surfing miles_
 
-I'm a few posts behind but don't worry&mdash;I'll fill this in ASAP!
-
 #### Day 30 (June 30, 2018): Moonlight/D Street&mdash;so I guess that happened...
 ![](../assets/img/for_posts/IMG_3730.jpg)
 
