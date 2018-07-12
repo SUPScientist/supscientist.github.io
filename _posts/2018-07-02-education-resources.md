@@ -31,6 +31,7 @@ The following interactive graph shows the concentrations of carbonic acid, bicar
 
 3. Immediately prior to the industrial revolution, average surface ocean pH was 8.2. Although this is only a decrease of 0.1 on the pH scale, why might it have a large impact on calcifying organisms? To answer this better, compare the concentration of the ions when the pH is 8.2 compared to 8.1.
 
+### Additional Resources and Acknowledgments
 To see the equations I used to generate the graph above, you can visit my Jupyter Notebook with the associated code [here](https://github.com/SUPScientist/Website-Analysis/blob/master/Teaching-Resources/Marine%20CO2%20Equilibria%2C%20Static.ipynb).
 
-The work here was done in collaboration with Rachel Stein and Tera Black of the California Science Teachers Association and the 2018 California Science Education Conference Climate Summit Cadre. We are producing a short course to present at the California Science Education Conference Climate Summit in Nov/Dec of 2018. I will post the materials for the short course here when we finalize them. 
+The work here was done in collaboration with Rachel Stein and Tera Black of the California Science Teachers Association and the 2018 California Science Education Conference Climate Summit Cadre. We are producing a short course to present at the California Science Education Conference Climate Summit in Nov/Dec of 2018. I will post the materials for the short course here when we finalize them.
