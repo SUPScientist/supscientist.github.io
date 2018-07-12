@@ -24,4 +24,13 @@ The following interactive graph shows the concentrations of carbonic acid, bicar
     <iframe class="resp-iframe" src="../interactive-pages/marine-co2-equil.html"></iframe>
 </div>
 
+### Investigations
+1. Drag your cursor to a pH of 8.1 (the current average pH of our surface ocean).  What do you notice about the concentration of the various ions?
+
+2. In general, calcifying organisms need carbonate ions to produce shells (Ca<sup>2+</sup>+CO<sub>3</sub><sup>2+</sup> = CaCO<sub>3</sub>). What trends in pH, relative to current conditions, are favorable for calcifying organisms? Explain using the graph animation.
+
+3. Immediately prior to the industrial revolution, average surface ocean pH was 8.2. Although this is only a decrease of 0.1 on the pH scale, why might it have a large impact on calcifying organisms? To answer this better, compare the concentration of the ions when the pH is 8.2 compared to 8.1.
+
 To see the equations I used to generate the graph above, you can visit my Jupyter Notebook with the associated code [here](https://github.com/SUPScientist/Website-Analysis/blob/master/Teaching-Resources/Marine%20CO2%20Equilibria%2C%20Static.ipynb).
+
+The work here was done in collaboration with Rachel Stein and Tera Black of the California Science Teachers Association and the 2018 California Science Education Conference Climate Summit Cadre. We are producing a short course to present at the California Science Education Conference Climate Summit in Nov/Dec of 2018. I will post the materials for the short course here when we finalize them. 
