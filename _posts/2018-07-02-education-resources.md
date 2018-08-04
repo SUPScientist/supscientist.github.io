@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Educational Resources
-date: 2018-07-02 00:00:00 -0700
+title: Outreach: Educational Resources
+date: 2018-07-29 00:00:00 -0700
 description: Collection of tools for marine chemistry and ocean engineering teaching
 img: marine-co2.png
 tags: [teaching, education, marine, oceanography, enginering] # add tag
@@ -31,7 +31,7 @@ The following interactive graph shows the concentrations of carbonic acid, bicar
 
 3. Immediately prior to the industrial revolution, average surface ocean pH was 8.2. Although this is only a decrease of 0.1 on the pH scale, why might it have a large impact on calcifying organisms? To answer this better, compare the concentration of the ions when the pH is 8.2 compared to 8.1.
 
-4. The graph above is based on a "static" or unchanging value of total dissolved inorganic carbon. However, we know that total dissolved inorganic carbon concentrations are increasing globally due to the influx of anthropogenic/human-made CO<sub>2</sub>. How do you think the lines on this graph might change as total dissolved inorganic carbon concentrations continue to rise? Do you think all of the lines will change in the same way? 
+4. The graph above is based on a "static" or unchanging value of total dissolved inorganic carbon. However, we know that total dissolved inorganic carbon concentrations are increasing globally due to the influx of anthropogenic/human-made CO<sub>2</sub>. How do you think the lines on this graph might change as total dissolved inorganic carbon concentrations continue to rise? Do you think all of the lines will change in the same way?
 
 ### Additional Resources and Acknowledgments
 To see the equations I used to generate the graph above, you can visit my Jupyter Notebook with the associated code [here](https://github.com/SUPScientist/Website-Analysis/blob/master/Teaching-Resources/Marine%20CO2%20Equilibria%2C%20Static.ipynb).

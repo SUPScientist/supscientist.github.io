@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bike to Surf Month&mdash;June 2018
+title: Outreach: Bike to Surf Month
 date: 2018-06-01 00:00:00 -0700
 description: Biking around San Diego County's surf breaks.
 img: bike-to-surf.jpg

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Estuaries
+title: Research: Estuaries
 date: 2015-08-03 00:00:00 -0700
 description: Environmental science at SFEI.
 img: sfbay.jpg # Add image post (optional)
@@ -15,5 +15,3 @@ I enjoy visualizing environmental datasets in different ways in order to extract
 ![png](../assets/img/LSB_fireworks.gif)
 
 Check out The Mooring Report, a monthly e-newsletter from SFEI (I’m the editor and a frequent contributor) which provides snapshots of San Francisco Bay’s ecosystem nutrition. Take a look at our latest edition [here](https://www.sfei.org/tmr/2016-06) and scroll to the bottom of that page to sign up for future editions!
-
-Please check back as I update this page with publications and interesting discoveries about estuarine biogeochemistry and how it affects you!
