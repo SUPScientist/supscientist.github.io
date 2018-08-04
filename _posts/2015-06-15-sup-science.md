@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Outreach&mdash;SUP, Science
+title: Teaching & Outreach&mdash;SUP, Science
 date: 2015-06-15 00:00:00 -0700
 description: Paddleboarding with Sensors.
 img: sunset-pier.jpg # Add image post (optional)
