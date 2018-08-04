@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Research: Estuaries
+title: Research&mdash;Estuaries
 date: 2015-08-03 00:00:00 -0700
 description: Environmental science at SFEI.
 img: sfbay.jpg # Add image post (optional)

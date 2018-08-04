@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Outreach: Educational Resources
+title: Outreach&mdash;Educational Resources
 date: 2018-07-29 00:00:00 -0700
 description: Collection of tools for marine chemistry and ocean engineering teaching
 img: marine-co2.png
