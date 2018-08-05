@@ -1045,6 +1045,16 @@ table tfoot td {
   background-color: #515151;
 }
 
+.contact .nav-title {
+  position: relative;
+  color: #333030;
+  font-weight: 400;
+  font-size: 16px;
+  margin: 0 0 5px;
+  text-transform: uppercase;
+  text-align: center;
+}
+
 .contact ul {
   margin: 0;
   padding: 0;

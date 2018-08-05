@@ -1,10 +1,11 @@
 ---
 layout: post
-title: Teaching & Outreach&mdash;SUP, Science
+title: SUP, Science
 date: 2015-06-15 00:00:00 -0700
 description: Paddleboarding with Sensors.
 img: sunset-pier.jpg # Add image post (optional)
 tags: [SUP, oceanography, SeapHOx, water quality] # add tag
+categories: teaching-outreach
 ---
 
 Many people think that scientists are just geeks who like staring at beakers in the lab. We’re not. At least we’re not _just_ that... We’re (grown-up) kids who love exploring. We like surfing, rock climbing, hiking, biking, running, sailing, diving, paddling, and, most importantly, learning about the world around us.

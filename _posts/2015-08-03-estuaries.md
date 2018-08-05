@@ -1,10 +1,11 @@
 ---
 layout: post
-title: Research&mdash;Estuaries
+title: Estuaries
 date: 2015-08-03 00:00:00 -0700
 description: Environmental science at SFEI.
 img: sfbay.jpg # Add image post (optional)
 tags: [water quality, estuary, biogeochemistry] # add tag
+categories: research
 ---
 
 ### San Francisco Estuary Institute

@@ -1,10 +1,11 @@
 ---
 layout: post
-title: Teaching & Outreach&mdash;Bike to Surf Month
+title: Bike to Surf Month
 date: 2018-06-01 00:00:00 -0700
 description: Biking around San Diego County's surf breaks.
 img: bike-to-surf.jpg
 tags: [cycling, surfing, San Diego, local, Smartfin, sensors] # add tag
+categories: teaching-outreach
 ---
 
 ### The Sustainable Pursuit of Micro-Adventures

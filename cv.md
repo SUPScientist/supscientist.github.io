@@ -1,14 +1,6 @@
 ---
-layout: post
-title: Curriculum Vitae
-date: 2018-08-04 01:00:00 -0700
-description: Phil's resume/cv
-img: headshot.jpg
-tags: [Personal, Professional, Publications] # add tag
+layout: cv
 ---
-
-PHILIP J. BRESNAHAN, JR.
-
 ### EDUCATION
 Ph.D. Oceanography – Applied Ocean Science, June 2015  
 Scripps Institution of Oceanography, UC San Diego, CA  
@@ -83,21 +75,6 @@ _2014_: Invited presentation at Ocean Sciences Meeting
 _2010 – 15:_ Scripps Community Outreach & Public Education (SCOPE) volunteer  
 _2013 – 14:_ Scripps Peers Mentor: Graduate students Eric Gallimore & K.C. Cameron  
 _2010 – 13:_ Judge for high school National Ocean Sciences Bowl
-
-### SELECTED MEDIA COVERAGE
-#### 2017
-
-[Forbes](https://www.forbes.com/sites/delltechnologies/2017/11/22/how-surfboards-and-iot-are-making-waves-in-climate-change-research): “How Surfboards and IoT Are Making Waves In Climate Change Research”
-
-[Science](https://scim.ag/smartfins): “Scientists put a ‘smartfin’ on my surfboard. Is it the next wave in ocean monitoring?”
-
-[Surfer](https://www.surfer.com/features/smartfin-turns-surfers-into-citizen-scientists/): “Smartfin turns surfers into citizen scientists”
-
-#### 2015
-
-[CBS8, Innovate 8](https://www.cbs8.com/category/155799/video-landing-page?autoStart=true&topVideoCatNo=default&clipId=11751920): “SUP, Science”
-
-[KCET](https://www.kcet.org/shows/california-coastal-trail/scripps-wavephox-science-meets-adventure): “Scripps WavepHOx: Science Meets Adventure”
 
 ### PROFESSIONAL AFFILIATIONS
 Association for the Sciences of Limnology and Oceanography  
