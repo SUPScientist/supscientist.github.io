@@ -995,6 +995,23 @@ table tfoot td {
   text-align: center;
 }
 
+/* Attempt to put a block in between about statement and page links */
+.about .nav-title::before {
+  content: "";
+  position: absolute;
+  left: 50%;
+  -webkit-transform: translateX(-50%);
+      -ms-transform: translateX(-50%);
+          transform: translateX(-50%);
+  bottom: 0;
+  display: block;
+  width: 7px;
+  height: 7px;
+  -webkit-border-radius: 100%;
+          border-radius: 100%;
+  background-color: #515151;
+}
+
 .content-box {
   padding: 20px;
   padding-left: 260px;
