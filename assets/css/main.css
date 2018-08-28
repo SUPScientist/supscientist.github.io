@@ -1045,14 +1045,32 @@ table tfoot td {
   background-color: #515151;
 }
 
+/* Links to additional pages */
 .contact .nav-title {
   position: relative;
   color: #333030;
-  font-weight: 400;
-  font-size: 16px;
+  font-weight: 300;
+  font-size: 14px;
   margin: 0 0 5px;
   text-transform: uppercase;
   text-align: center;
+}
+
+/* Big dots before links to pages */
+.contact .nav-title::before {
+  content: "";
+  position: absolute;
+  left: 50%;
+  -webkit-transform: translateX(-50%);
+      -ms-transform: translateX(-50%);
+          transform: translateX(-50%);
+  bottom: 0;
+  display: block;
+  width: 7px;
+  height: 7px;
+  -webkit-border-radius: 100%;
+          border-radius: 100%;
+  background-color: #515151;
 }
 
 .contact ul {
