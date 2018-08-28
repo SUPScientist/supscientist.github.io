@@ -984,6 +984,17 @@ table tfoot td {
   margin: 0 0 10px;
 }
 
+/* Links to additional pages */
+.about .nav-title {
+  position: relative;
+  color: #333030;
+  font-weight: 300;
+  font-size: 10px;
+  margin: 0 0 5px;
+  text-transform: uppercase;
+  text-align: center;
+}
+
 .content-box {
   padding: 20px;
   padding-left: 260px;
@@ -1043,17 +1054,6 @@ table tfoot td {
   top: 50%;
   right: 0;
   background-color: #515151;
-}
-
-/* Links to additional pages */
-.contact .nav-title {
-  position: relative;
-  color: #333030;
-  font-weight: 300;
-  font-size: 10px;
-  margin: 0 0 5px;
-  text-transform: uppercase;
-  text-align: center;
 }
 
 .contact ul {
