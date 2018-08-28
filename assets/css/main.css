@@ -984,19 +984,8 @@ table tfoot td {
   margin: 0 0 10px;
 }
 
-/* Links to additional pages, just this chunk added by PJB */
-.about .nav-title {
-  position: relative;
-  color: #333030;
-  font-weight: 300;
-  font-size: 14px;
-  margin: 0 0 5px;
-  text-transform: uppercase;
-  text-align: center;
-}
-
 /* Attempt to put a block in between about statement and page links */
-.about .nav-title::before {
+.about p::after {
   content: "";
   position: absolute;
   left: 50%;
@@ -1010,6 +999,17 @@ table tfoot td {
   -webkit-border-radius: 100%;
           border-radius: 100%;
   background-color: #515151;
+}
+
+/* Links to additional pages, just this chunk added by PJB */
+.about .nav-title {
+  position: relative;
+  color: #333030;
+  font-weight: 300;
+  font-size: 14px;
+  margin: 0 0 5px;
+  text-transform: uppercase;
+  text-align: center;
 }
 
 .content-box {
