@@ -984,12 +984,12 @@ table tfoot td {
   margin: 0 0 10px;
 }
 
-/* Links to additional pages */
+/* Links to additional pages, just this chunk added by PJB */
 .about .nav-title {
   position: relative;
   color: #333030;
   font-weight: 300;
-  font-size: 10px;
+  font-size: 12px;
   margin: 0 0 5px;
   text-transform: uppercase;
   text-align: center;
