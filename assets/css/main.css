@@ -984,6 +984,17 @@ table tfoot td {
   margin: 0 0 10px;
 }
 
+/* Links to additional pages, just this chunk added by PJB */
+.about .nav-title {
+  position: relative;
+  color: #333030;
+  font-weight: 300;
+  font-size: 14px;
+  margin: 0 0 5px;
+  text-transform: uppercase;
+  text-align: center;
+}
+
 .content-box {
   padding: 20px;
   padding-left: 260px;
@@ -1003,34 +1014,6 @@ table tfoot td {
   -webkit-align-items: stretch;
       -ms-flex-align: stretch;
           align-items: stretch;
-}
-
-/* Attempt to put a block in between about statement and page links */
-.content-box::after {
-  content: "";
-  position: absolute;
-  left: 50%;
-  -webkit-transform: translateX(-50%);
-      -ms-transform: translateX(-50%);
-          transform: translateX(-50%);
-  bottom: 0;
-  display: block;
-  width: 7px;
-  height: 7px;
-  -webkit-border-radius: 100%;
-          border-radius: 100%;
-  background-color: #515151;
-}
-
-/* Links to additional pages, just this chunk added by PJB */
-.about .nav-title {
-  position: relative;
-  color: #333030;
-  font-weight: 300;
-  font-size: 14px;
-  margin: 0 0 5px;
-  text-transform: uppercase;
-  text-align: center;
 }
 
 .contact .contact-title {
