@@ -8,6 +8,8 @@ tags: [paddling, SUP, plastic, Smartfin, sensors] # add tag
 categories: teaching-outreach
 ---
 
+Smartfin's new friend and collaborator, Lizzie Outside ([learn more about her work here](https://lizzieoutside.co.uk/)) just paddled Hudson River to increase awareness of plastic pollution issues. Here are Lizzie's Smartfin data and GPS tracks from the awesome expedition&mdash;congrats on accomplishing such an impressive feat, Lizzie!
+
 <div class="resp-container">
     <iframe class="resp-iframe" src="../interactive-pages/lizzie-outside.html"></iframe>
 </div>
