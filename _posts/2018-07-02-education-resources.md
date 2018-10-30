@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Teaching & Outreach&mdash;Marine Chemistry Educational Resources
+title: Marine Chemistry Educational Resources
 date: 2018-07-29 00:00:00 -0700
 description: Collection of tools for marine chemistry and ocean engineering teaching
 img: marine-co2.png
-tags: [teaching, education, marine, oceanography, enginering] # add tag
+tags: [teaching, education, marine, oceanography, engineering] # add tag
 categories: teaching-outreach
 ---
 
