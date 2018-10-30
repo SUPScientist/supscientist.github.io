@@ -3,7 +3,7 @@ layout: post
 title: Surfrider Foundation Healthy Beaches
 date: 2018-10-29 00:00:00 -0700
 description: Example Surfrider form
-img: san-mateo.jpg
+img: SF-Healthy-Beaches.jpg
 tags: [Outreach] # add tag
 categories: teaching-outreach
 ---
