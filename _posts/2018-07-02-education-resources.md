@@ -8,6 +8,9 @@ tags: [teaching, education, marine, oceanography, engineering] # add tag
 categories: teaching-outreach
 ---
 
+### Life in the Balance: Coastal Carbonate Chemistry
+In 2018, I was invited by organizers of the California Science Teachers Association to work with professional high school educators to develop a curriculum combining current research in chemistry, climate science, and engineering. Tera Black, Rachel Meisner, and I gave [this presentation](https://docs.google.com/presentation/d/14mvlH1a068ciw0vgsqqBRJYzB3lJO18Rh_cwqNeT4xE/edit?usp=sharing) at the California Science Education Conference Climate Summit 2018. Only CSTA members have access to the full course materials at this time but these slides provide a solid outline of the multiple-week high school chemistry curriculum we developed. We used the following exercise in the course. 
+
 ### Marine CO<sub>2</sub> system
 The marine inorganic carbon or marine CO<sub>2</sub> system is valuable to study for a variety of reasons. From a purely chemical standpoint, CO<sub>2</sub> (carbon dioxide) in the air can react with H<sub>2</sub>O molecules in the ocean to form H<sub>2</sub>CO<sub>3</sub> (carbonic acid). As a diprotic acid, carbonic acid can lose one H<sup>+</sup> (or proton) to form HCO<sub>3</sub><sup>-</sup> (bicarbonate) and a second to form CO<sub>3</sub><sup>2-</sup> (carbonate). The equilibria involved, seen in the snapshot below from [Millero (2007) _The Marine Inorganic Carbon Cycle_](https://pubs.acs.org/doi/abs/10.1021/cr0503557), are governed by acid dissociation constants (k<sub>a</sub> values) which are dependent on temperature, pressure, and salinity.
 
