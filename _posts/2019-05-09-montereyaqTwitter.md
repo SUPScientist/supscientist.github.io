@@ -2,7 +2,7 @@
 layout: post
 title: Monterey Bay Aquarium Twitter Scraping Project
 date: 2019-05-09 00:00:00 -0700
-description: A quick dive into the tank of @MontereyAq's tanks of tweets.
+description: A quick dive into the tank of @MontereyAq's tweets.
 img: montereyAq_twitter_poll_results.png
 tags: [twitter, data science, python] # add tag
 categories: teaching-outreach
