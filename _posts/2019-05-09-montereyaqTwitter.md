@@ -21,3 +21,5 @@ That was interesting, but still left something to be desired: interactivity. Thi
 <div class="resp-container">
     <iframe class="resp-iframe" src="../interactive-pages/montereyAq_twitter_critters.html"></iframe>
 </div>
+
+You can find all of the code that I used to scrape Twitter feeds and generate these figures in my GitHub repo here: https://github.com/SUPScientist/Twitter-Scraping. 
