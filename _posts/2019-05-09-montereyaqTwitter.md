@@ -8,7 +8,7 @@ tags: [twitter, data science, python] # add tag
 categories: teaching-outreach
 ---
 
-On exactly May 8, 2019, the venerable Monterey Bay Aquarium social media team asked its followers to name their favorite ocean critters.
+On May 8, 2019, the venerable Monterey Bay Aquarium social media team asked its followers to name their favorite ocean critters.
 
 ![](../assets/img/for_posts/MontereyAqTwitter.png)
 
