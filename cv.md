@@ -68,26 +68,29 @@ Bresnahan, P.J., The Mooring Report: February 2016. El Niño’s effects on San 
 
 ### SERVICE, TEACHING, AND ADDITIONAL TRAINING
 ·	Mentor/co-mentor four students (including as capstone committee chair for one).   
-·	Peer reviewer for: Methods in Oceanography, Frontiers in Marine Science, IEEE Journal of Oceanic Engineering (2016 “Outstanding Reviewer”), PLOS ONE.
-·	Invited instructor for two-week summer course: “Satellite Remote Sensing Training” (2019). I delivered one week of lectures and spent two weeks assisting students with interactive Python programming for ocean satellite data analysis.
-·	Invited instructor for two-week summer course: “Instrumenting our oceans for better observation: a training course on biogeochemical sensors,” Kristineberg, Sweden (2015, 19).
-·	Designed project-based learning portion of Observational Physical Oceanography with Prof. Fiamma Straneo. Students learn to make an ocean sensor package using open source code and hardware and we contribute to improving the GitHub repository (2019).
-·	Invited instructor for California Science Teachers Association Climate Summit (2018). Worked with professional educators to develop a two-week high school chemistry curriculum focused on climate change and ocean acidification.
+·	Peer reviewer for: Methods in Oceanography, Frontiers in Marine Science, IEEE Journal of Oceanic Engineering (2016 “Outstanding Reviewer”), PLOS ONE.  
+·	Invited instructor for two-week summer course: “Satellite Remote Sensing Training” (2019). I delivered one week of lectures and spent two weeks assisting students with interactive Python programming for ocean satellite data analysis.  
+·	Invited instructor for two-week summer course: “Instrumenting our oceans for better observation: a training course on biogeochemical sensors,” Kristineberg, Sweden (2015, 19).  
+·	Designed project-based learning portion of Observational Physical Oceanography with Prof. Fiamma Straneo. Students learn to make an ocean sensor package using open source code and hardware and we contribute to improving the GitHub repository (2019).  
+·	Invited instructor for California Science Teachers Association Climate Summit (2018). Worked with professional educators to develop a two-week high school chemistry curriculum focused on climate change and ocean acidification.  
 ·	Keynote speaker at Creative Mornings/San Diego event (2018): The Science of Community.
 ·	Teaching assistant for SIO269: Instrumental Methods for Marine Scientists (2014, 15, 17, 18, 19).
-·	Invited guest lessons for high school environmental science and chemistry classes; High Tech High International and Chula Vista High (2018).
-_2018:_ Invited presentation at Ocean Sciences Meeting and organizer/chair of town hall named “Citizen Oceanography: crowdsourcing ocean data collection in a sea of new technologies.”  
-_2017:_ Invited presentations at IEEE/MTS Oceans Conference (session chair), Scripps Applied Ocean Sciences Seminar, Scripps Marine Chemistry Seminar, La Jolla Rotary Club, Surfrider Foundation Chapter Meeting, Boardroom Show, National Instruments Technical Seminar  
-_2016:_ Co-organizer of “Monitoring for Acidification Threats in West Coast Estuaries: A San Francisco Bay Case Study”  
-_2016:_ Invited presentations at San Francisco Bay – Delta Science Conference, SF Bay Regional Monitoring Program Annual Meeting  
-_2015:_ Invited panelist at the 2015 Coastal & Estuarine Research Federation’s Quality Control and Management of Biogeochemical Sensors Workshop  
-_2015:_ Invited instructor for summer course: “Instrumenting our oceans for better observation: a training course on biogeochemical sensors,” Kristineberg, Sweden  
-_2015:_ Invited presentations at ASLO Aquatic Sciences Meeting, CERF Meeting, Solana Beach Eco Rotary Club, BE-WiSE (Better Education for Women in Science & Engineering)  
-_2014 – 15:_ Mentored REU student Taylor Wirth  
-_2014_: Invited presentation at Ocean Sciences Meeting  
-_2010 – 15:_ Scripps Community Outreach & Public Education (SCOPE) volunteer  
-_2013 – 14:_ Scripps Peers Mentor: Graduate students Eric Gallimore & K.C. Cameron  
-_2010 – 13:_ Judge for high school National Ocean Sciences Bowl
+·	Invited guest lessons for high school environmental science and chemistry classes; High Tech High International and Chula Vista High (2018).  
+·	Invited presentation at Ocean Sciences Meeting and organizer/chair of town hall named “Citizen Oceanography: crowdsourcing ocean data collection in a sea of new technologies” (2018)
+·	Invited panelist at Particle.io’s Spectra conference, Citizens’ Climate Lobby chapter film screening, Scripps Chasing Coral film screening (2018).  
+·	Extensive press relations experience: interviewed for Science Magazine, NPR All Things Considered, BBC Earth, Seeker, Particle.io, and The Liquid Grid, for example (2017 – 18).  
+·	Invited presentations at IEEE/MTS Oceans Conference (session chair), Scripps Institutional Seminar, Scripps Applied Ocean Sciences Seminar, Scripps Marine Chemistry Seminar, La Jolla Rotary Club, Surfrider Foundation Chapter Meeting, Boardroom Show, National Instruments Technical Seminar (2017).  
+·	Co-organizer of “Monitoring for Acidification Threats in West Coast Estuaries: A San Francisco Bay Case Study” (2016).  
+·	Invited presentations at San Francisco Bay – Delta Science Conference, SF Bay Regional Monitoring Program Annual Meeting (2015).  
+·	Invited panelist at the 2015 Coastal & Estuarine Research Federation’s Quality Control and Management of Biogeochemical Sensors Workshop (2015).  
+·	Invited presentations at ASLO Aquatic Sciences Meeting, CERF Meeting, Solana Beach Eco Rotary Club (2015).  
+·	Mentored REU student Taylor Wirth (June 2014 – June 2015).  
+·	Scripps Peers Mentor (2013 – 14): Graduate students Eric Gallimore & K.C. Cameron
+·	Volunteer work: Scripps Community Outreach & Public Education.  
+·	Judge for high school National Ocean Sciences Bowl (2010 – 13).  
+·	Invited ocean acidification demos for BE-WiSE (Better Education for Women in Science & Engineering) La Jolla chapter (2010 – 14).  
+·	Invited ocean acidification demos for Sustainable Surf/Scripps Oceanography collaboration @ The Boardroom Show  (2014) & The Mingei International Museum (2014).  
+·	Served as CFO of UCSD’s Entrepreneur Challenge, a student-organized business plan competition, with responsibilities including fundraising ($100K) and event coordination (2010 – 11).  
 
 ### PROFESSIONAL AFFILIATIONS
 Association for the Sciences of Limnology and Oceanography  
