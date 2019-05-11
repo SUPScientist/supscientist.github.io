@@ -13,9 +13,9 @@ B.S. Chemical Engineering Summa Cum Laude, May 2008
 Lehigh University, Bethlehem, PA
 
 ### APPOINTMENTS
-_2016 -- present:_ Research & Development Engineer, Scripps Institution of Oceanography  
-_2015 -- 2016:_ Environmental Scientist, San Francisco Estuary Institute  
-_2009 -- 2015:_ Graduate Research Asst., Scripps Institution of Oceanography
+_2016 -- present:_  Research & Development Engineer, Scripps Institution of Oceanography  
+_2015 -- 2016:_  Environmental Scientist, San Francisco Estuary Institute  
+_2009 -- 2015:_  Graduate Research Asst., Scripps Institution of Oceanography
 
 ### SELECTED GRANTS AND HONORS
 ·	San Diego Gas & Electric Community Engagement Award (Lead); $7.5K (2018)  
