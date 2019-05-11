@@ -32,9 +32,11 @@ _2008 -- 09:_ Elizabeth Nevius Award & Lehigh University President’s Scholarsh
 _2008:_ Lehigh University Chandler Prize in Chemistry & Chemical Engineering
 
 ### SELECTED PEER-REVIEWED PUBLICATIONS
-_last updated Spring 2018_
+_last updated Spring 2019_
 
 Bresnahan, P.J., Martz, T.R. (2018). Gas Diffusion Cell Geometry for a Microfluidic Dissolved Inorganic Carbon Analyzer. IEEE Sensors Journal, DOI:10.1109/JSEN.2018.2794882.
+
+Cyronak, T., Andersson, A.J., D’Angelo, S., Bresnahan, P.J., Davidson, C., et al. (2018). Short-term spatial and temporal carbonate chemistry variability in two contrasting seagrass meadows: implications for pH buffering capacities. Estuaries and Coasts, 41(5). DOI:10.1007/s12237-017-0356-5.
 
 Bresnahan, P.J., Martz, T.R., Almeida, J., Ward, B., & Maguire, P. (2017). Looking Ahead: A Profiling Float Micro-Rosette. Oceanography, 30. DOI:10.5670/oceanog.2017.215.
 
@@ -49,6 +51,8 @@ Martz, T.R., Send, U., Ohman, M.D., Takeshita, Y., Bresnahan, P.J., Kim, H.-J., 
 Bresnahan, P.J., Martz T.R., Takeshita Y., Johnson K.S., LaShomb M. (2014), Best practices for autonomous measurement of seawater pH with the Honeywell Durafet. Methods in Oceanography. DOI:10.1016/j.mio.2014.08.003.
 [Most cited article in Methods in Oceanography as of Dec 27, 2017.]
 
+Martz, T.R., Takeshita, Y., Rolph, R., Bresnahan, P.J. (2012), Tracer Monitored Titrations: Measurement of Dissolved Oxygen. Analytical Chemistry, 84, 290-296. DOI:10.1021/ac202537f.
+
 ### NON-PEER-REVIEWED PUBLICATIONS
 Bresnahan, P.J., Cyronak, T., Martz, T.R., Andersson, A., Waters, S., Stern, A., Richard, J., Hammond, K., Griffin, J., Thompson, B. (2017). Engineering a Smartfin for surf-zone oceanography, in OCEANS 2017, Anchorage, Alaska, 2017, pp. 1-4.
 
@@ -62,7 +66,16 @@ Bresnahan, P.J., The Mooring Report: June 2016. Vertical variability of dissolve
 
 Bresnahan, P.J., The Mooring Report: February 2016. El Niño’s effects on San Francisco Bay water quality. SFEI’s water quality science e-newsletter: www.sfei.org/tmr/2016-02.
 
-### ADDITIONAL SERVICE AND TRAINING
+### SERVICE, TEACHING, AND ADDITIONAL TRAINING
+·	Mentor/co-mentor four students (including as capstone committee chair for one).   
+·	Peer reviewer for: Methods in Oceanography, Frontiers in Marine Science, IEEE Journal of Oceanic Engineering (2016 “Outstanding Reviewer”), PLOS ONE.
+·	Invited instructor for two-week summer course: “Satellite Remote Sensing Training” (2019). I delivered one week of lectures and spent two weeks assisting students with interactive Python programming for ocean satellite data analysis.
+·	Invited instructor for two-week summer course: “Instrumenting our oceans for better observation: a training course on biogeochemical sensors,” Kristineberg, Sweden (2015, 19).
+·	Designed project-based learning portion of Observational Physical Oceanography with Prof. Fiamma Straneo. Students learn to make an ocean sensor package using open source code and hardware and we contribute to improving the GitHub repository (2019).
+·	Invited instructor for California Science Teachers Association Climate Summit (2018). Worked with professional educators to develop a two-week high school chemistry curriculum focused on climate change and ocean acidification.
+·	Keynote speaker at Creative Mornings/San Diego event (2018): The Science of Community.
+·	Teaching assistant for SIO269: Instrumental Methods for Marine Scientists (2014, 15, 17, 18, 19).
+·	Invited guest lessons for high school environmental science and chemistry classes; High Tech High International and Chula Vista High (2018).
 _2018:_ Invited presentation at Ocean Sciences Meeting and organizer/chair of town hall named “Citizen Oceanography: crowdsourcing ocean data collection in a sea of new technologies.”  
 _2017:_ Invited presentations at IEEE/MTS Oceans Conference (session chair), Scripps Applied Ocean Sciences Seminar, Scripps Marine Chemistry Seminar, La Jolla Rotary Club, Surfrider Foundation Chapter Meeting, Boardroom Show, National Instruments Technical Seminar  
 _2016:_ Co-organizer of “Monitoring for Acidification Threats in West Coast Estuaries: A San Francisco Bay Case Study”  
