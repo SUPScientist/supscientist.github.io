@@ -18,18 +18,19 @@ _2015 -- 2016:_ Environmental Scientist, San Francisco Estuary Institute
 _2009 -- 2015:_ Graduate Research Asst., Scripps Institution of Oceanography
 
 ### SELECTED GRANTS AND HONORS
-_2017:_ NSF-OTIC Award 1736905: Collaborative Research:  
-Self-Calibrating pH Sensors for Autonomous Collection of Climate Quality Data  
-_2017:_ UC San Diego Triton Innovation Challenge Finalist  
-_2017:_ Gift from the Lost Bird Project to lab of Prof. Todd Martz, primarily under my management  
-_2014:_ UC Ship Funds awardee and Chief Scientist on the R/V Sproul  
-_2014:_ Dissertations Symposium in Chemical Oceanography XXIV Invitee  
-_2014:_ Best Talk at Scripps Student Symposium  
-_2014:_ Best Student Video in Scripps Climate, Ocean, and Atmosphere Program  
-_2013 -- 14:_ Scripps Community Outreach Program for Education most frequent volunteer  
-_2010 -- 13:_ National Defense Science & Engineering Graduate Fellowship  
-_2008 -- 09:_ Elizabeth Nevius Award & Lehigh University President’s Scholarship  
-_2008:_ Lehigh University Chandler Prize in Chemistry & Chemical Engineering
+·	San Diego Gas & Electric Community Engagement Award (Lead); $7.5K (2018)  
+·	UCSD Institute for the Global Entrepreneur Award (Lead); $1K (2018)  
+·	NSF-OTIC Award 1736905 (Co-Lead PI): Collaborative Research: Self-Calibrating pH Sensors for Autonomous Collection of Climate Quality Data; $567K (2017)  
+·	Helped attract major research donation from Lost Bird Project to fund research which I now lead in Prof. Todd Martz’s lab; $1.25M (2016)  
+·	UC Ship Funds awardee and Chief Scientist (as a Ph.D. Candidate) on-board the R/V Sproul (2014)  
+·	Dissertations Symposium in Chemical Oceanography (DISCO) XXIV Invitee (2014)  
+·	Scripps Student Symposium (S3) award for best talk (2014)  
+·	Scripps student video competition: Best Video in Climate, Ocean, and Atmosphere Program (2014)  
+·	Secured research donation from Scripps Foundation for Science & the Environment; $5K (2013)  
+·	Scripps Community Outreach Program for Education most frequent volunteer (2013 – 14)  
+·	National Defense Science & Engineering Graduate Fellowship (2010 – 13)  
+·	Elizabeth Nevius Award & Lehigh University President’s Scholarship (2008 – 09)  
+·	Lehigh University William H. Chandler Prize in Chemistry & Chemical Engineering (2008)  
 
 ### SELECTED PEER-REVIEWED PUBLICATIONS
 _last updated Spring 2019_
