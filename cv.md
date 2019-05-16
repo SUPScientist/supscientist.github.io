@@ -33,7 +33,7 @@ _2009 -- 2015:_&nbsp;&nbsp;Graduate Research Asst., Scripps Institution of Ocean
 ·	Elizabeth Nevius Award & Lehigh University President’s Scholarship (2008 – 09)  
 ·	Lehigh University William H. Chandler Prize in Chemistry & Chemical Engineering (2008)  
 
-### SELECTED PEER-REVIEWED PUBLICATIONS
+### PEER-REVIEWED PUBLICATIONS
 _last updated Spring 2019_
 
 Bresnahan, P.J., Martz, T.R. (2018). Gas Diffusion Cell Geometry for a Microfluidic Dissolved Inorganic Carbon Analyzer. IEEE Sensors Journal, DOI:10.1109/JSEN.2018.2794882.
@@ -93,6 +93,12 @@ Bresnahan, P.J., The Mooring Report: February 2016. El Niño’s effects on San 
 ·	Invited ocean acidification demos for BE-WiSE (Better Education for Women in Science & Engineering) La Jolla chapter (2010 – 14).  
 ·	Invited ocean acidification demos for Sustainable Surf/Scripps Oceanography collaboration @ The Boardroom Show  (2014) & The Mingei International Museum (2014).  
 ·	Served as CFO of UCSD’s Entrepreneur Challenge, a student-organized business plan competition, with responsibilities including fundraising ($100K) and event coordination (2010 – 11).  
+
+### ADDITIONAL EXPERIENCE:
+·	NAUI dive certified (advanced diver, Nitrox diver, rescue diver) and small-boat certified  
+·	Proficiency programming in Python, C/C++/Arduino, MATLAB, R, LabVIEW, SolidWorks, MS Office  
+·	Spanish (reading, writing, and basic speaking)  
+·	Field/cruise experience with over ninety days at sea  
 
 ### PROFESSIONAL AFFILIATIONS
 Association for the Sciences of Limnology and Oceanography  
