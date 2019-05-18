@@ -28,7 +28,7 @@ _2009 -- 2015:_&nbsp;&nbsp;Graduate Research Asst., Scripps Institution of Ocean
 ·	Scripps Student Symposium (S3) award for best talk (2014)  
 ·	Scripps student video competition: Best Video in Climate, Ocean, and Atmosphere Program (2014)  
 ·	Secured research donation from Scripps Foundation for Science & the Environment; $5K (2013)  
-·	Scripps Community Outreach Program for Education most frequent volunteer (2013 – 14)  
+·	Scripps Community Outreach Program for Education most frequent volunteer (2013 & 2014)  
 ·	National Defense Science & Engineering Graduate Fellowship (2010 – 13)  
 ·	Elizabeth Nevius Award & Lehigh University President’s Scholarship (2008 – 09)  
 ·	Lehigh University William H. Chandler Prize in Chemistry & Chemical Engineering (2008)  
@@ -78,15 +78,15 @@ Bresnahan, P.J., The Mooring Report: February 2016. El Niño’s effects on San 
 ·	Keynote speaker at Creative Mornings/San Diego event (2018): The Science of Community.
 ·	Teaching assistant for SIO269: Instrumental Methods for Marine Scientists (2014, 15, 17, 18, 19).
 ·	Invited guest lessons for high school environmental science and chemistry classes; High Tech High International and Chula Vista High (2018).  
-·	Invited presentation at Ocean Sciences Meeting and organizer/chair of town hall named “Citizen Oceanography: crowdsourcing ocean data collection in a sea of new technologies” (2018)
-·	Invited panelist at Particle.io’s Spectra conference, Citizens’ Climate Lobby chapter film screening, Scripps Chasing Coral film screening (2018).  
-·	Extensive press relations experience: interviewed for Science Magazine, NPR All Things Considered, BBC Earth, Seeker, Particle.io, and The Liquid Grid, for example (2017 – 18).  
+·	Invited presentation at Ocean Sciences Meeting and organizer/chair of town hall named “Citizen Oceanography: crowdsourcing ocean data collection in a sea of new technologies” (2018).  
+·	Invited panelist at South by Southwest, Sustainability at Scripps event, Particle.io’s Spectra conference, Citizens’ Climate Lobby chapter film screening, Scripps Chasing Coral film screening (2018 – 19).  
+·	Extensive press relations experience: interviewed for Science Magazine, NPR All Things Considered, BBC Earth, Seeker, Particle.io, the Macrofab Podcast, and The Liquid Grid, for example (2017 – 19).  
 ·	Invited presentations at IEEE/MTS Oceans Conference (session chair), Scripps Institutional Seminar, Scripps Applied Ocean Sciences Seminar, Scripps Marine Chemistry Seminar, La Jolla Rotary Club, Surfrider Foundation Chapter Meeting, Boardroom Show, National Instruments Technical Seminar (2017).  
 ·	Co-organizer of “Monitoring for Acidification Threats in West Coast Estuaries: A San Francisco Bay Case Study” (2016).  
 ·	Invited presentations at San Francisco Bay – Delta Science Conference, SF Bay Regional Monitoring Program Annual Meeting (2015).  
 ·	Invited panelist at the 2015 Coastal & Estuarine Research Federation’s Quality Control and Management of Biogeochemical Sensors Workshop (2015).  
 ·	Invited presentations at ASLO Aquatic Sciences Meeting, CERF Meeting, Solana Beach Eco Rotary Club (2015).  
-·	Mentored REU student Taylor Wirth (June 2014 – June 2015).  
+·	Mentored REU students Kevin Conner and Jasmine Simmons (2018) and Taylor Wirth (2014).  
 ·	Scripps Peers Mentor (2013 – 14): Graduate students Eric Gallimore & K.C. Cameron
 ·	Volunteer work: Scripps Community Outreach & Public Education.  
 ·	Judge for high school National Ocean Sciences Bowl (2010 – 13).  
