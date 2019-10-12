@@ -34,7 +34,9 @@ _2009 -- 2015:_&nbsp;&nbsp;Graduate Research Asst., Scripps Institution of Ocean
 ·	Lehigh University William H. Chandler Prize in Chemistry & Chemical Engineering (2008)  
 
 ### PEER-REVIEWED PUBLICATIONS
-_last updated Spring 2019_
+_last updated Autumn 2019_
+
+Sastri, A., Christian, J.R., Achterberg, E.P., Atamanchuk, D., Buck, J., Bresnahan, P.J., et al. (2019). Perspectives on in situ sensors for ocean acidification research. Frontiers in Marine Science, Ocean Observation, DOI:10.3389/fmars.2019.00653.
 
 Bresnahan, P.J., Martz, T.R. (2018). Gas Diffusion Cell Geometry for a Microfluidic Dissolved Inorganic Carbon Analyzer. IEEE Sensors Journal, DOI:10.1109/JSEN.2018.2794882.
 
@@ -68,31 +70,33 @@ Bresnahan, P.J., The Mooring Report: June 2016. Vertical variability of dissolve
 
 Bresnahan, P.J., The Mooring Report: February 2016. El Niño’s effects on San Francisco Bay water quality. SFEI’s water quality science e-newsletter: www.sfei.org/tmr/2016-02.
 
-### SERVICE, TEACHING, AND ADDITIONAL TRAINING
-·	Mentor/co-mentor four students (including as capstone committee chair for one).   
-·	Peer reviewer for: Methods in Oceanography, Frontiers in Marine Science, IEEE Journal of Oceanic Engineering (2016 “Outstanding Reviewer”), PLOS ONE.  
+### TEACHING EXPERIENCE AND INVITED PRESENTATIONS
+·	Invited lecturer for two-week summer course: “Instrumenting our oceans for better observation: a training course on biogeochemical sensors,” Kristineberg, Sweden (2015, 19). I delivered four lectures and led three practical, project-based exercises for students designed to teach how oceanographic sensors function and are operated in the field.  
 ·	Invited instructor for two-week summer course: “Satellite Remote Sensing Training” (2019). I delivered one week of lectures and spent two weeks assisting students with interactive Python programming for ocean satellite data analysis.  
-·	Invited instructor for two-week summer course: “Instrumenting our oceans for better observation: a training course on biogeochemical sensors,” Kristineberg, Sweden (2015, 19).  
-·	Designed project-based learning portion of Observational Physical Oceanography with Prof. Fiamma Straneo. Students learn to make an ocean sensor package using open source code and hardware and we contribute to improving the GitHub repository (2019).  
+·	Designed project-based learning portion of Observational Physical Oceanography with Prof. Fiamma Straneo. Students learned to make an ocean sensor package using open source code and hardware and we contributed to improvements for the GitHub repository (2019).  
 ·	Invited instructor for California Science Teachers Association Climate Summit (2018). Worked with professional educators to develop a two-week high school chemistry curriculum focused on climate change and ocean acidification.  
-·	Keynote speaker at Creative Mornings/San Diego event (2018): The Science of Community.
-·	Teaching assistant for SIO269: Instrumental Methods for Marine Scientists (2014, 15, 17, 18, 19).
+·	Keynote speaker at Creative Mornings/San Diego event (2018): The Science of Community: https://creativemornings.com/talks/phil-bresnahan/1.  
+·	Teaching assistant for SIO269/179: Instrumental Methods for Marine Science (2014, 15, 17, 18, 19).  
 ·	Invited guest lessons for high school environmental science and chemistry classes; High Tech High International and Chula Vista High (2018).  
 ·	Invited presentation at Ocean Sciences Meeting and organizer/chair of town hall named “Citizen Oceanography: crowdsourcing ocean data collection in a sea of new technologies” (2018).  
-·	Invited panelist at South by Southwest, Sustainability at Scripps event, Particle.io’s Spectra conference, Citizens’ Climate Lobby chapter film screening, Scripps Chasing Coral film screening (2018 – 19).  
-·	Extensive press relations experience: interviewed for Science Magazine, NPR All Things Considered, BBC Earth, Seeker, Particle.io, the Macrofab Podcast, and The Liquid Grid, for example (2017 – 19).  
-·	Invited presentations at IEEE/MTS Oceans Conference (session chair), Scripps Institutional Seminar, Scripps Applied Ocean Sciences Seminar, Scripps Marine Chemistry Seminar, La Jolla Rotary Club, Surfrider Foundation Chapter Meeting, Boardroom Show, National Instruments Technical Seminar (2017).  
+·	Invited panelist at South by Southwest, Sustainability at Scripps event, Particle.io’s Spectra conference, Citizens’ Climate Lobby chapter film screening, Scripps Chasing Coral film screening (2018–19).  
+·	Invited presentations at IEEE/MTS Oceans Conference (also session chair), Scripps Institutional Seminar, Scripps Applied Ocean Sciences Seminar, Scripps Marine Chemistry Seminar, La Jolla Rotary Club, Surfrider Foundation Chapter Meeting, Boardroom Show, National Instruments Technical Seminar (2017).  
+·	Invited presentations at ASLO Aquatic Sciences Meeting, CERF Meeting, Solana Beach Eco Rotary Club, San Francisco Bay–Delta Science Conference, SF Bay Regional Monitoring Program Annual Meeting (2015).  
+
+### UNIVERSITY SERVICE:
+·	Mentor/co-mentor four graduate students (including as capstone committee chair for one; 2017–2019).  
+·	Mentored four NSF Research Experiences for Undergraduates students (2014–2019).  
+·	Scripps Peers Mentor for two graduate students (2013–14).  
+·	Serve on two university committees: Scripps Makerspace committee (ex officio) and Collaboration of Like-Minded Learners and Builders (COLLAB).  
+·	Proposal Reviewer for Woods Hole Sea Grant (2019).  
+·	Peer reviewer for: Methods in Oceanography, Frontiers in Marine Science, IEEE Journal of Oceanic Engineering (2016 “Outstanding Reviewer”), PLOS ONE.  
+·	Extensive press relations experience: interviewed for Science Magazine, NPR All Things Considered, BBC Earth, Seeker, Particle.io, the Macrofab Podcast, and The Liquid Grid, for example (2017–19).  
 ·	Co-organizer of “Monitoring for Acidification Threats in West Coast Estuaries: A San Francisco Bay Case Study” (2016).  
-·	Invited presentations at San Francisco Bay – Delta Science Conference, SF Bay Regional Monitoring Program Annual Meeting (2015).  
 ·	Invited panelist at the 2015 Coastal & Estuarine Research Federation’s Quality Control and Management of Biogeochemical Sensors Workshop (2015).  
-·	Invited presentations at ASLO Aquatic Sciences Meeting, CERF Meeting, Solana Beach Eco Rotary Club (2015).  
-·	Mentored REU students Kevin Conner and Jasmine Simmons (2018) and Taylor Wirth (2014).  
-·	Scripps Peers Mentor (2013 – 14): Graduate students Eric Gallimore & K.C. Cameron
-·	Volunteer work: Scripps Community Outreach & Public Education.  
-·	Judge for high school National Ocean Sciences Bowl (2010 – 13).  
-·	Invited ocean acidification demos for BE-WiSE (Better Education for Women in Science & Engineering) La Jolla chapter (2010 – 14).  
+·	Judge for high school National Ocean Sciences Bowl (2010–13).  
+·	Invited ocean acidification demos for BE-WiSE (Better Education for Women in Science & Engineering) La Jolla chapter (2010–14).  
 ·	Invited ocean acidification demos for Sustainable Surf/Scripps Oceanography collaboration @ The Boardroom Show  (2014) & The Mingei International Museum (2014).  
-·	Served as CFO of UCSD’s Entrepreneur Challenge, a student-organized business plan competition, with responsibilities including fundraising ($100K) and event coordination (2010 – 11).  
+·	Served as CFO of UCSD’s Entrepreneur Challenge, a student-organized business plan competition, with responsibilities including fundraising ($100K) and event coordination (2010–11).  
 
 ### ADDITIONAL EXPERIENCE:
 ·	NAUI dive certified (advanced diver, Nitrox diver, rescue diver) and small-boat certified  
