@@ -105,7 +105,7 @@ Bresnahan, P.J., The Mooring Report: February 2016. El Niño’s effects on San 
 ·	Spanish (reading, writing, and basic speaking)  
 ·	Field/cruise experience with over ninety days at sea  
 
-### PROFESSIONAL AFFILIATIONS
+### PROFESSIONAL AFFILIATIONS:
 Association for the Sciences of Limnology and Oceanography  
 The Oceanography Society  
 Coastal and Estuarine Research Federation  
