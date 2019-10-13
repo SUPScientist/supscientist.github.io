@@ -13,12 +13,13 @@ B.S. Chemical Engineering Summa Cum Laude, May 2008
 Lehigh University, Bethlehem, PA
 
 ### APPOINTMENTS
-_2019 -- present:_&nbsp;&nbsp;Director of the Scripps Makerspace, Scripps Institution of Oceanography  
+_2019 -- present:_&nbsp;&nbsp;Director of the Sandbox: a Scripps Makerspace, Scripps Institution of Oceanography  
 _2017 -- present:_&nbsp;&nbsp;Research & Development Engineer, Scripps Institution of Oceanography  
 _2015 -- 2016:_&nbsp;&nbsp;Environmental Scientist, San Francisco Estuary Institute  
 _2009 -- 2015:_&nbsp;&nbsp;Graduate Research Asst., Scripps Institution of Oceanography
 
 ### SELECTED GRANTS AND HONORS
+·	Ellen Browning Scripps Foundation Award (Lead); $15K (2019)  
 ·	San Diego Gas & Electric Community Engagement Award (Lead); $7.5K (2018)  
 ·	UCSD Institute for the Global Entrepreneur Award (Lead); $1K (2018)  
 ·	NSF-OTIC Award 1736905 (Co-Lead PI): Collaborative Research: Self-Calibrating pH Sensors for Autonomous Collection of Climate Quality Data; $567K (2017)  
