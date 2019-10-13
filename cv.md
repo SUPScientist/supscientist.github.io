@@ -1,7 +1,7 @@
 ---
 layout: cv
 ---
-### EDUCATION
+### EDUCATION:
 Ph.D. Oceanography – Applied Ocean Science, June 2015  
 Scripps Institution of Oceanography, UC San Diego, CA  
 [Thesis: “Novel Marine Inorganic Carbon System Sensors for the Anthropocene”](https://escholarship.org/uc/item/9q30f3qr)  
@@ -12,13 +12,13 @@ Scripps Institution of Oceanography, UC San Diego, CA
 B.S. Chemical Engineering Summa Cum Laude, May 2008  
 Lehigh University, Bethlehem, PA
 
-### APPOINTMENTS
+### APPOINTMENTS:
 _2019 -- present:_&nbsp;&nbsp;Director of the Sandbox: a Scripps Makerspace, Scripps Institution of Oceanography  
 _2017 -- present:_&nbsp;&nbsp;Research & Development Engineer, Scripps Institution of Oceanography  
 _2015 -- 2016:_&nbsp;&nbsp;Environmental Scientist, San Francisco Estuary Institute  
 _2009 -- 2015:_&nbsp;&nbsp;Graduate Research Asst., Scripps Institution of Oceanography
 
-### SELECTED GRANTS AND HONORS
+### SELECTED GRANTS AND HONORS:
 ·	Ellen Browning Scripps Foundation Award (Lead); $15K (2019)  
 ·	San Diego Gas & Electric Community Engagement Award (Lead); $7.5K (2018)  
 ·	UCSD Institute for the Global Entrepreneur Award (Lead); $1K (2018)  
@@ -34,7 +34,7 @@ _2009 -- 2015:_&nbsp;&nbsp;Graduate Research Asst., Scripps Institution of Ocean
 ·	Elizabeth Nevius Award & Lehigh University President’s Scholarship (2008 – 09)  
 ·	Lehigh University William H. Chandler Prize in Chemistry & Chemical Engineering (2008)  
 
-### PEER-REVIEWED PUBLICATIONS
+### PEER-REVIEWED PUBLICATIONS:
 _last updated Autumn 2019_
 
 Sastri, A., Christian, J.R., Achterberg, E.P., Atamanchuk, D., Buck, J., Bresnahan, P.J., et al. (2019). Perspectives on in situ sensors for ocean acidification research. Frontiers in Marine Science, Ocean Observation, DOI:10.3389/fmars.2019.00653.
@@ -58,7 +58,7 @@ Bresnahan, P.J., Martz T.R., Takeshita Y., Johnson K.S., LaShomb M. (2014), Best
 
 Martz, T.R., Takeshita, Y., Rolph, R., Bresnahan, P.J. (2012), Tracer Monitored Titrations: Measurement of Dissolved Oxygen. Analytical Chemistry, 84, 290-296. DOI:10.1021/ac202537f.
 
-### NON-PEER-REVIEWED PUBLICATIONS
+### NON-PEER-REVIEWED PUBLICATIONS:
 Bresnahan, P.J., Cyronak, T., Martz, T.R., Andersson, A., Waters, S., Stern, A., Richard, J., Hammond, K., Griffin, J., Thompson, B. (2017). Engineering a Smartfin for surf-zone oceanography, in OCEANS 2017, Anchorage, Alaska, 2017, pp. 1-4.
 
 Trowbridge, P., Shimabuku, I., Bresnahan, P.J., Nielsen, K., Largier, J., Sutula, M., Valiela, L., Nutters, H., Wheeler, S., Knight, E. (2017). Summary of Workshop on Monitoring for Acidification in West Coast Estuaries: A San Francisco Bay Case Study. Richmond, CA.
@@ -71,7 +71,7 @@ Bresnahan, P.J., The Mooring Report: June 2016. Vertical variability of dissolve
 
 Bresnahan, P.J., The Mooring Report: February 2016. El Niño’s effects on San Francisco Bay water quality. SFEI’s water quality science e-newsletter: www.sfei.org/tmr/2016-02.
 
-### TEACHING EXPERIENCE AND INVITED PRESENTATIONS
+### TEACHING EXPERIENCE AND INVITED PRESENTATIONS:
 ·	Invited lecturer for two-week summer course: “Instrumenting our oceans for better observation: a training course on biogeochemical sensors,” Kristineberg, Sweden (2015, 19). I delivered four lectures and led three practical, project-based exercises for students designed to teach how oceanographic sensors function and are operated in the field.  
 ·	Invited instructor for two-week summer course: “Satellite Remote Sensing Training” (2019). I delivered one week of lectures and spent two weeks assisting students with interactive Python programming for ocean satellite data analysis.  
 ·	Designed project-based learning portion of Observational Physical Oceanography with Prof. Fiamma Straneo. Students learned to make an ocean sensor package using open source code and hardware and we contributed to improvements for the GitHub repository (2019).  
