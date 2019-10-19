@@ -13,7 +13,7 @@ B.S. Chemical Engineering Summa Cum Laude, May 2008
 Lehigh University, Bethlehem, PA
 
 ### APPOINTMENTS:
-_2019 -- present:_&nbsp;&nbsp;Director of the Sandbox: a Scripps Makerspace, Scripps Institution of Oceanography  
+_2019 -- present:_&nbsp;&nbsp;[Director of the Sandbox: a Scripps Makerspace](https://scrippssandbox.ucsd.edu/), Scripps Institution of Oceanography  
 _2017 -- present:_&nbsp;&nbsp;Research & Development Engineer, Scripps Institution of Oceanography  
 _2015 -- 2016:_&nbsp;&nbsp;Environmental Scientist, San Francisco Estuary Institute  
 _2009 -- 2015:_&nbsp;&nbsp;Graduate Research Asst., Scripps Institution of Oceanography
@@ -91,7 +91,7 @@ Bresnahan, P.J., The Mooring Report: February 2016. El Niño’s effects on San 
 ·	Serve on two university committees: Scripps Makerspace committee (ex officio) and Collaboration of Like-Minded Learners and Builders (COLLAB).  
 ·	Proposal Reviewer for Woods Hole Sea Grant (2019).  
 ·	Peer reviewer for: Methods in Oceanography, Frontiers in Marine Science, IEEE Journal of Oceanic Engineering (2016 “Outstanding Reviewer”), PLOS ONE.  
-·	Extensive press relations experience: interviewed for Science Magazine, NPR All Things Considered, BBC Earth, Seeker, Particle.io, the Macrofab Podcast, and The Liquid Grid, for example (2017–19).  
+·	Extensive press relations experience: interviewed for Science Magazine, NPR All Things Considered, BBC Earth, Seeker, Particle.io, the SonTek Sound Stream and Macrofab Podcasts, and The Liquid Grid, for example (2017–19).  
 ·	Co-organizer of “Monitoring for Acidification Threats in West Coast Estuaries: A San Francisco Bay Case Study” (2016).  
 ·	Invited panelist at the 2015 Coastal & Estuarine Research Federation’s Quality Control and Management of Biogeochemical Sensors Workshop (2015).  
 ·	Judge for high school National Ocean Sciences Bowl (2010–13).  
