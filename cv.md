@@ -35,7 +35,11 @@ _2009 -- 2015:_&nbsp;&nbsp;Graduate Research Asst., Scripps Institution of Ocean
 ·	Lehigh University William H. Chandler Prize in Chemistry & Chemical Engineering (2008)  
 
 ### PEER-REVIEWED PUBLICATIONS:
-_last updated Autumn 2019_
+_last updated Winter 2020_
+
+Bresnahan, P.J., Wirth, T., Martz, T.R., Shipley, K., Rowley, V., Anderson, C., Grimm, T. (_in press_). Equipping Smart Coasts with Marine Water Quality IoT Sensors. Results in Engineering.
+
+Brewin R.J.W., Cyronak, T., Bresnahan, P.J., Andersson, A.J., Richard, J., Hammond, K. et al. (2020). Comparison of two methods for measuring sea surface temperature when surfing. Oceans. DOI:10.3390/oceans1010002.
 
 Sastri, A., Christian, J.R., Achterberg, E.P., Atamanchuk, D., Buck, J., Bresnahan, P.J., et al. (2019). Perspectives on in situ sensors for ocean acidification research. Frontiers in Marine Science, Ocean Observation, DOI:10.3389/fmars.2019.00653.
 
