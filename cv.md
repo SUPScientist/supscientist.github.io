@@ -13,8 +13,9 @@ B.S. Chemical Engineering Summa Cum Laude, May 2008
 Lehigh University, Bethlehem, PA
 
 ### APPOINTMENTS:
-_2019 -- present:_&nbsp;&nbsp;[Director of the Sandbox: a Scripps Makerspace](https://scrippssandbox.ucsd.edu/), Scripps Institution of Oceanography  
-_2017 -- present:_&nbsp;&nbsp;Research & Development Engineer, Scripps Institution of Oceanography  
+_2020 -- present:_
+_2019 -- 2020:_&nbsp;&nbsp;[Director of the Sandbox: a Scripps Makerspace](https://scrippssandbox.ucsd.edu/), Scripps Institution of Oceanography  
+_2017 -- 2020:_&nbsp;&nbsp;Research & Development Engineer, Scripps Institution of Oceanography  
 _2015 -- 2016:_&nbsp;&nbsp;Environmental Scientist, San Francisco Estuary Institute  
 _2009 -- 2015:_&nbsp;&nbsp;Graduate Research Asst., Scripps Institution of Oceanography
 
