@@ -64,7 +64,7 @@ Bresnahan, P.J., Martz T.R., Takeshita Y., Johnson K.S., LaShomb M. (2014), Best
 Martz, T.R., Takeshita, Y., Rolph, R., Bresnahan, P.J. (2012), Tracer Monitored Titrations: Measurement of Dissolved Oxygen. Analytical Chemistry, 84, 290-296. DOI:10.1021/ac202537f.
 
 ### NON-PEER-REVIEWED PUBLICATIONS:
-Bresnahan, P.J., Cyronak, T., Martz, T.R., Andersson, A., Waters, S., Stern, A., Richard, J., Hammond, K., Griffin, J., Thompson, B. (2017). Engineering a Smartfin for surf-zone oceanography, in OCEANS 2017, Anchorage, Alaska, 2017, pp. 1-4.
+Bresnahan, P.J., Cyronak, T., Martz, T.R., Andersson, A., Waters, S., Stern, A., Richard, J., Hammond, K., Griffin, J., Thompson, B. (2017). Engineering a Smartfin for surf-zone oceanography, in OCEANS 2017, Anchorage, Alaska, 2017, p. 1-4.
 
 Trowbridge, P., Shimabuku, I., Bresnahan, P.J., Nielsen, K., Largier, J., Sutula, M., Valiela, L., Nutters, H., Wheeler, S., Knight, E. (2017). Summary of Workshop on Monitoring for Acidification in West Coast Estuaries: A San Francisco Bay Case Study. Richmond, CA.
 
