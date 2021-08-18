@@ -1,3 +1,9 @@
+---
+layout: main
+title: "About PJB"
+permalink: /bresnahan-background/
+---
+
 My ultimate goal is to contribute to our understanding of the marine environment in order to help protect the oceans for the good of those who rely on them (everyone!). I’m an Assistant Professor in the <a href="https://uncw.edu/earsci/">Department of Earth and Ocean Sciences<a/> at the University of North Carolina Wilmington and member of the <a href="https://uncw.edu/cms/">Center for Marine Science<a/>. I have served as a research engineer at <a href="https://scripps.ucsd.edu">Scripps Institution of Oceanography</a>, the Director of the <a href="https://scrippssandbox.ucsd.edu/">Sandbox: a Scripps Makerspace</a>, and the head of R&D for the <a href="./smartfin/">Smartfin Project</a>. I enjoy working on many aspects of ocean sensor networks, including sensor innovation (electrical and mechanical design as well as laboratory and field analysis), cloud data management, and, ultimately, data analysis and visualization. I invent and apply novel marine sensing techniques and analytical approaches in the (mostly coastal) ocean in order to investigate natural and human-caused phenomena. My primary R&D tools include Python, C/C++, LabVIEW, SolidWorks, and MATLAB and I have also dabbled in R, Altium Designer, and ArcGIS.
 
 I work and play where the ocean meets the land. I’m a coastal oceanographer, surfer, paddleboarder, rower, sailor, teacher, and learner. Humans have always thought of coasts as playgrounds but we’ve more recently recognized that we also treat them as dumping grounds for our trash, (micro-)plastics, (treated) sewage, fossil fuel CO<sub>2</sub> emissions, and countless other chemicals. I study coastal waters because I want to protect them. For myself and for you. And for many generations to come.
