@@ -13,13 +13,15 @@ B.S. Chemical Engineering Summa Cum Laude, May 2008
 Lehigh University, Bethlehem, PA
 
 ### APPOINTMENTS:
-_2020 -- present:_
+_2020 -- present:_&nbsp;&nbsp;Assistant Professor, UNC Wilmington's Department of Earth and Ocean Sciences and Center for Marine Science  
 _2019 -- 2020:_&nbsp;&nbsp;[Director of the Sandbox: a Scripps Makerspace](https://scrippssandbox.ucsd.edu/), Scripps Institution of Oceanography  
 _2017 -- 2020:_&nbsp;&nbsp;Research & Development Engineer, Scripps Institution of Oceanography  
 _2015 -- 2016:_&nbsp;&nbsp;Environmental Scientist, San Francisco Estuary Institute  
 _2009 -- 2015:_&nbsp;&nbsp;Graduate Research Asst., Scripps Institution of Oceanography
 
 ### SELECTED GRANTS AND HONORS:
+·	Translational Research Grant, UNCW Internal (Lead); $11K (2021)
+·	Research Momentum Funds, UNCW Internal (Lead); $5.5K (2020)
 ·	Ellen Browning Scripps Foundation Award (Lead); $15K (2019)  
 ·	San Diego Gas & Electric Community Engagement Award (Lead); $7.5K (2018)  
 ·	UCSD Institute for the Global Entrepreneur Award (Lead); $1K (2018)  
@@ -36,7 +38,13 @@ _2009 -- 2015:_&nbsp;&nbsp;Graduate Research Asst., Scripps Institution of Ocean
 ·	Lehigh University William H. Chandler Prize in Chemistry & Chemical Engineering (2008)  
 
 ### PEER-REVIEWED PUBLICATIONS:
-_last updated Winter 2020_
+_last updated Summer 2021_
+
+Bresnahan, P.J., Takeshita, Y., Wirth, T., Martz, T.R., Cyronak, T., Albright, R., Wolfe, K., Warren, J. K., Mertz, K. (2021). Autonomous in situ calibration of ion-sensitive field effect transistor pH sensors. Limnology and Oceanography: Methods, 19(2), 132-144. DOI: 10.1002/lom3.10410.
+
+Brewin, R. J. W., Wimmer, W., Bresnahan, P. J., Cyronak, T., Andersson, A. J., & Dall’Olmo, G. (2021). Comparison of a Smartfin with an Infrared Sea Surface Temperature Radiometer in the Atlantic Ocean. Remote Sensing, 13(5), 841. DOI: 10.3390/rs13050841.
+
+Wolfe, W.H., Shipley, K.M., Bresnahan, P.J. (corresponding author), Takeshita, Y., Wirth, T., Martz, T.R. (2021). Technical note: stability of tris pH buffer in artificial seawater stored in bags. Ocean Science. DOI: 10.5194/os-17-819-2021.
 
 Bresnahan, P.J., Wirth, T., Martz, T.R., Shipley, K., Rowley, V., Anderson, C., Grimm, T. (2020). Equipping Smart Coasts with Marine Water Quality IoT Sensors. Results in Engineering. DOI:10.1016/j.rineng.2019.100087.
 
@@ -77,6 +85,8 @@ Bresnahan, P.J., The Mooring Report: June 2016. Vertical variability of dissolve
 Bresnahan, P.J., The Mooring Report: February 2016. El Niño’s effects on San Francisco Bay water quality. SFEI’s water quality science e-newsletter: www.sfei.org/tmr/2016-02.
 
 ### TEACHING EXPERIENCE AND INVITED PRESENTATIONS:
+Please see [Teaching & Outreach](../teaching-outreach.html) for the most up-to-date information on my courses. Here are several additional notes on invited presentations:
+·	Invited presenter at the National Science Foundation’s Frontiers in Ocean Sciences Symposium (2020 & 2021).
 ·	Invited lecturer for two-week summer course: “Instrumenting our oceans for better observation: a training course on biogeochemical sensors,” Kristineberg, Sweden (2015, 19). I delivered four lectures and led three practical, project-based exercises for students designed to teach how oceanographic sensors function and are operated in the field.  
 ·	Invited instructor for two-week summer course: “Satellite Remote Sensing Training” (2019). I delivered one week of lectures and spent two weeks assisting students with interactive Python programming for ocean satellite data analysis.  
 ·	Designed project-based learning portion of Observational Physical Oceanography with Prof. Fiamma Straneo. Students learned to make an ocean sensor package using open source code and hardware and we contributed to improvements for the GitHub repository (2019).  
@@ -90,7 +100,17 @@ Bresnahan, P.J., The Mooring Report: February 2016. El Niño’s effects on San 
 ·	Invited presentations at ASLO Aquatic Sciences Meeting, CERF Meeting, Solana Beach Eco Rotary Club, San Francisco Bay–Delta Science Conference, SF Bay Regional Monitoring Program Annual Meeting (2015).  
 
 ### UNIVERSITY SERVICE:
-·	Mentor/co-mentor four graduate students (including as capstone committee chair for one; 2017–2019).  
+·	Committee Chair: Department of Earth and Ocean Sciences Diversity, Equity, and Inclusion Committee (2021).
+·	Committee Chair: Department of Earth and Ocean Sciences Public Relations & Awards Committee (2021; committee member in 2020).
+·	Committee Chair: Department of Earth and Ocean Sciences Ad Hoc Committee on UNCW-EOS and Cape Fear Community College Integration (2021).
+·	Committee Chair: Unlearning Racism in Geosciences Pod for UNCW Earth and Ocean Sciences and Center for Marine Science (2021).
+·	Committee Member: Marine Council (2021).
+·	Committee Member: Center for Marine Science Safety Committee (2021). 
+·	Mentor two undergraduate researchers (Summer and Fall 2021). 
+·	NSF Grant Reviewer (2021). 
+·	Dynamic Planet: mentor high school students competing in marine science olympiad (2020-2021).
+·	Committee Member: Department of Earth and Ocean Sciences Oceanography Curriculum Committee
+·	Mentor/co-mentor six graduate students (including as capstone committee chair for one; 2017–2021).  
 ·	Mentored four NSF Research Experiences for Undergraduates students (2014–2019).  
 ·	Scripps Peers Mentor for two graduate students (2013–14).  
 ·	Serve on two university committees: Scripps Makerspace committee (ex officio) and Collaboration of Like-Minded Learners and Builders (COLLAB).  

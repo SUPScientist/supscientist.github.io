@@ -10,14 +10,14 @@ url: "" # the base hostname & protocol for your site, e.g. https://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author: Phil Bresnahan # add your name
-author-img: phil-bresnahan.jpg # add your photo
-about-author: Applied Coastal and Ocean Scientist at UNC Wilmington # add description
+author: COAST Lab # add your name
+author-img: sunset-pier.jpg # add your photo
+about-author: Coastal Ocean Applied Science & Technology Lab at UNCW # add description
 social-twitter: insituphile # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: SUPScientist # add your Github handle
 social-linkedin: philbresnahanjr # add your Linkedin handle
-social-email: pjbresnahan@gmail.com # add your Email address
+social-email: bresnahanp@uncw.edu # add your Email address
 
 # Disqus
 discus-identifier: philipbresnahan # add your discus identifier
