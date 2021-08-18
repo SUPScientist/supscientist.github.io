@@ -1,10 +1,11 @@
 For the nicely rendered version of my website, please visit [supscientist.github.io](https://supscientist.github.io)
 
 TODO:
+- Update Research page with current projects
 - Check date for about and resume pages,
 - ~Add navigation (added to left of web/top of mobile)~
 - ~Add "sandbox" with, e.g., leaflet garmin mapping~
-- Link to SFEI mooring report
+- ~Link to SFEI mooring report~
 - Add RMarkdown file to GitHub
 
 ALWAYS:
