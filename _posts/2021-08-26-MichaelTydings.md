@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Michael Tydings
-img: Michael_headshot.JPG
+img: Michael_Headshot.JPG
 categories: lab-member
 date: 2021-08-26 20:00:00 -0400
 ---
