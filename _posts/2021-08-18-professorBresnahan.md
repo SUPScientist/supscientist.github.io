@@ -2,7 +2,6 @@
 layout: post
 title: Professor Phil Bresnahan
 img: Bresnahan_headshot.jpeg
-date: 2021-08-27 09:00:00 -0400
 categories: lab-member
 ---
 
