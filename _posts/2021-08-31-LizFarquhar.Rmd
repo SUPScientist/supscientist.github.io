@@ -1,7 +1,7 @@
 ---
 title: "Liz Farquhar"
 layout: post
-img: fieldwork_Liz.jpg
+img: fieldwork_Liz.JPG
 output: word_document
 categories: lab-member
 ---
