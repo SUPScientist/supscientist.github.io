@@ -1,3 +1,4 @@
+---
 title: "Jessie Wynne"
 layout: post
 img: fieldwork_Jessie.JPG
