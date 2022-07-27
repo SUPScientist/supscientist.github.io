@@ -1,4 +1,4 @@
-title: Phil Bresnahan's personal and professional portfolio
+title: COAST Lab research, development, education, and outreach
 description: > # this means to ignore newlines until "baseurl:"
   I am an oceanographer at Scripps Institution of Oceanography and the head of R&D for the Smartfin Project
 # Write an awesome description for your new site here. You can edit this
@@ -10,7 +10,7 @@ url: "" # the base hostname & protocol for your site, e.g. https://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author: COAST Lab # add your name
+author: # add your name (shows up better without due to name in image)
 author-img: coast_lab_logo_square_gradient.png # add your photo
 about-author: The Coastal Ocean Applied Science & Technology Lab at UNCW # add description
 social-twitter: insituphile # add your Twitter handle
