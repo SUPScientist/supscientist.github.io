@@ -929,17 +929,17 @@ table tfoot td {
   width: 100px;
   height: 100px;
   margin: 0 auto 10px;
-  -webkit-border-radius: 100%;
-          border-radius: 100%;
+  -webkit-border-radius: 0%;
+          border-radius: 0%;
   overflow: hidden;
-  background-color: #333030;
+  background-color: #FFFFFF;
 }
 
 .about img {
   width: 100%;
   height: 100%;
-  -webkit-border-radius: 50%;
-          border-radius: 50%;
+  -webkit-border-radius: 0%;
+          border-radius: 0%;
   -webkit-transition: -webkit-transform 0.35s;
   transition: -webkit-transform 0.35s;
   -o-transition: transform 0.35s;
