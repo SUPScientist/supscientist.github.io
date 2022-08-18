@@ -20,23 +20,26 @@ _2015 -- 2016:_&nbsp;&nbsp;Environmental Scientist, San Francisco Estuary Instit
 _2009 -- 2015:_&nbsp;&nbsp;Graduate Research Asst., Scripps Institution of Oceanography
 
 ### SELECTED GRANTS AND HONORS:
-·	NOAA Small Business Innovative Research proposal. Reggie Spaulding (PI, Sunburst Systems, Inc.), Bresnahan, P.J. (Key Individual), and others; $149,991 (2021)  
-·	Blue Economy Translational Research Grant, UNCW Internal (Lead); $11K (2021)  
-·	Research Momentum Funds, UNCW Internal (Lead); $5.5K (2020)  
-·	Ellen Browning Scripps Foundation Award (Lead); $15K (2019)  
-·	San Diego Gas & Electric Community Engagement Award (Lead); $7.5K (2018)  
-·	UCSD Institute for the Global Entrepreneur Award (Lead); $1K (2018)  
-·	NSF-OTIC Award 1736905 (Co-Lead PI): Collaborative Research: Self-Calibrating pH Sensors for Autonomous Collection of Climate Quality Data; $567K (2017)  
-·	Helped attract major research donation from Lost Bird Project to fund research which I led in Prof. Todd Martz’s lab; $1.25M (2016)  
-·	UC Ship Funds awardee and Chief Scientist (as a Ph.D. Candidate) on-board the R/V Sproul (2014)  
-·	Dissertations Symposium in Chemical Oceanography (DISCO) XXIV Invitee (2014)  
-·	Scripps Student Symposium (S3) award for best talk (2014)  
-·	Scripps student video competition: Best Video in Climate, Ocean, and Atmosphere Program (2014)  
-·	Secured research donation from Scripps Foundation for Science & the Environment; $5K (2013)  
-·	Scripps Community Outreach Program for Education most frequent volunteer (2013 & 2014)  
-·	National Defense Science & Engineering Graduate Fellowship (2010 – 13)  
-·	Elizabeth Nevius Award & Lehigh University President’s Scholarship (2008 – 09)  
-·	Lehigh University William H. Chandler Prize in Chemistry & Chemical Engineering (2008)  
+·	Gordon and Betty Moore Foundation: Continuing the Mission: SeaHawk-1 Ocean Color CubeSat Satellite. Bresnahan, P.J. (PI), Rivero-Calle, S. (Co-PI), Frensley, B.T., and Brewin, R. (Sr. Research Personnel). Total budget $2,220,332; UNCW portion $680,815 (2022).  
+·	NSF Major Research Instrumentation: Acquisition of a novel multi sensor-equipped unmanned aerial system (UAS) observatory for coastal mapping. Pricope, N. (PI), Leonard, L., Halls, J., Bresnahan, P.J., and Eulie, D. (co-PIs). Total budget $850,863 (2022).  
+·	NOAA Small Business Innovative Research Phase II: The pHyter and Other Oceanographic Tools for Citizen Science and STEM Education. Spaulding, R. (PI), Bresnahan, P.J. (Key Individual). Total budget $499,986; UNCW subaward $28,182 (2022).  
+·	NOAA Small Business Innovative Research Phase I: pHyter: An Oceanographic Tool for Citizen Science and STEM Education. Spaulding, R. (PI, Sunburst Systems, Inc.), Bresnahan, P.J. (Key Individual), and others. Total budget $149,991; UNCW subaward $14,997 (2021).  
+·	Research Momentum Funds, UNCW Research Office. Bresnahan, P.J. (PI), Pricope, N. & Halls, J. (co-PIs). $5,500 (2020).  
+·	UNCW Office of Innovation and Commercialization MARBIONC Blue Economy Grant (PI). $11,466 (2020).  
+·	Ellen Browning Scripps Foundation Award (PI). $15K (2019).  
+·	San Diego Gas & Electric Community Engagement Award (PI). $7.5K (2018).  
+·	UCSD Institute for the Global Entrepreneur Award (PI). $1K (2018).  
+·	NSF-OTIC Award 1736905: Collaborative Research: Self-Calibrating pH Sensors for Autonomous Collection of Climate Quality Data. Bresnahan, P.J., and Takeshita, Y. (Co-Lead PIs), Martz, T. (co-PI). $567K (2017).  
+·	Helped attract major research donation from Lost Bird Project and led research and project management. In collaboration with Martz, T., Andersson, A., and Cyronak, T. $1.25M (2016).  
+·	UC Ship Funds awardee and Chief Scientist (as a Ph.D. Candidate) on-board the R/V Sproul (2014).  
+·	Dissertations Symposium in Chemical Oceanography (DISCO) XXIV Invitee (2014).  
+·	Scripps Student Symposium (S3) award for best talk (2014).  
+·	Scripps student video competition: Best Video in Climate, Ocean, and Atmosphere Program (2014).  
+·	Research donation from Scripps Foundation for Science & the Environment. $5K (2013).  
+·	Scripps Community Outreach Program for Education most frequent volunteer (2013 & 2014).    
+·	National Defense Science & Engineering Graduate Fellowship (2010 – 13).  
+·	Elizabeth Nevius Award & Lehigh University President’s Scholarship (2008 – 09).  
+·	Lehigh University William H. Chandler Prize in Chemistry & Chemical Engineering (2008).  
 
 ### PEER-REVIEWED PUBLICATIONS:
 _last updated Summer 2022_  
