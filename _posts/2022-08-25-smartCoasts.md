@@ -8,7 +8,7 @@ categories: teaching-outreach
 
 *Fall 2022*
 
-Please see https://github.com/SUPScientist/Smart-Coasts for course materials including code and getting started guides.
+Please see [https://github.com/SUPScientist/Smart-Coasts](https://github.com/SUPScientist/Smart-Coasts) for course materials including code and getting started guides.
 
 If you are considering registering for this course, please don't let the information in that repository intimidate you! If you are new to sensor development, don't worry; this course is for you! We will layer it on gradually, so even though there may be a lot in the repo, this is meant to be an intro course, so we will take it one step at a time and build some cool stuff along the way (and hopefully get to go kayaking).
 
