@@ -1,0 +1,3 @@
+# Other notes
+## Custom domain instructions
+To set up a link between a custom domain and the GitHub Pages site, follow first the instructions at [Managing a custom domain for your GitHub Pages site](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site). These fell short, however, and I also needed to add four A records corresponding to the four IP addresses. I also needed to delete one A record which GoDaddy automatically added to "park" the domain. 
