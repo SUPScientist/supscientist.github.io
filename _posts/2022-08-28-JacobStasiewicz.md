@@ -9,4 +9,4 @@ Howdy, my name is Jacob Stasiewicz. I am currently a senior in the Coastal Enign
 
 I am passionate about many topics but they are all centered around coastal health and managment as well as exploration. I hope to make real impacts in coastal science and discovery throughout my life.
 
-In the past I have worked on the C-HaWC a low cost Coastal Hydrodynamics and Weather Camera for having real time images and videos of North Carolina beaches during hurricanes. I also love 3D design and have designed and developed parts for various other senosors and projects. Currently I am working on developing an in-situ Sediment camera, called the instagrain camera <a href="[https://uncw.edu/earsci/](https://github.com/UNCG-DAISY/Instagrain)">.
+In the past I have worked on the C-HaWC a low cost Coastal Hydrodynamics and Weather Camera for having real time images and videos of North Carolina beaches during hurricanes. I also love 3D design and have designed and developed parts for various other senosors and projects. Currently I am working on developing an in-situ Sediment camera, called the [instagrain camera](https://github.com/UNCG-DAISY/Instagrain).
