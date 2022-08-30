@@ -2,7 +2,7 @@
 layout: post
 title: Professor Phil Bresnahan
 img: Bresnahan_headshot.jpeg
-categories: lab-member
+categories: lab-member-current
 ---
 
 My ultimate goal is to contribute to our understanding of the marine environment in order to help protect the oceans for the good of those who rely on them (everyone!). I’m an Assistant Professor in the <a href="https://uncw.edu/earsci/">Department of Earth and Ocean Sciences<a/> at the University of North Carolina Wilmington and member of the <a href="https://uncw.edu/cms/">Center for Marine Science<a/>. I have served as a research engineer at <a href="https://scripps.ucsd.edu">Scripps Institution of Oceanography</a>, the Director of the <a href="https://scrippssandbox.ucsd.edu/">Sandbox: a Scripps Makerspace</a>, and the head of R&D for the <a href="./smartfin/">Smartfin Project</a>. I enjoy working on many aspects of ocean sensor networks, including sensor innovation (electrical and mechanical design as well as laboratory and field analysis), cloud data management, and, ultimately, data analysis and visualization. I invent and apply novel marine sensing techniques and analytical approaches in the (mostly coastal) ocean in order to investigate natural and human-caused phenomena. My primary R&D tools include Python, C/C++, LabVIEW, SolidWorks, and MATLAB and I have also dabbled in R, Altium Designer, and ArcGIS.

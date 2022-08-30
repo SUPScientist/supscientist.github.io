@@ -2,7 +2,7 @@
 layout: post
 title: Michael Tydings
 img: Michael_Headshot.JPG
-categories: lab-member
+categories: lab-member-past
 ---
 
 Summer/Fall 2021

@@ -3,7 +3,7 @@ title: "Liz Farquhar"
 layout: post
 img: fieldwork_Liz.JPG
 output: word_document
-categories: lab-member
+categories: lab-member-current
 ---
 
 2021&ndash;present 

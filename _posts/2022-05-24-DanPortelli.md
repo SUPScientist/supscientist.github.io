@@ -2,7 +2,7 @@
 title: "Dan Portelli"
 layout: post 
 img: Portelli_COAST.jpg 
-categories: lab-member
+categories: lab-member-past
 ---
 
 Summer 2022

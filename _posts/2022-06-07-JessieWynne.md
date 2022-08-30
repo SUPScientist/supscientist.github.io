@@ -3,7 +3,7 @@ title: "Jessie Wynne"
 layout: post
 img: fieldwork_Jessie.JPG
 output: word_document
-categories: lab-member
+categories: lab-member-current
 ---
 
 Summer of 2022 
