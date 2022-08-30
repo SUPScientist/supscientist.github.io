@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: lab-member
 title: Professor Phil Bresnahan
 img: Bresnahan_headshot.jpeg
 categories: lab-member-current

@@ -1226,6 +1226,11 @@ a.newer-posts:hover {
   height: 100%;
 }
 
+.page-cover-image .page-image-member {
+  width: 25%;
+  height: 25%;
+}
+
 .page-footer {
   display: -webkit-box;
   display: -webkit-flex;

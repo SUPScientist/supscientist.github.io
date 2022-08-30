@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: lab-member
 title: Jacob Stasiewicz
 img: stasiewicz_action_shot.JPG
 categories: lab-member-current
