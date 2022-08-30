@@ -12,8 +12,6 @@ Many people think that scientists are just geeks who like staring at beakers in 
 
 SUP, Science is my way of reminding myself and others about our role in environmental health and environmental science. Here are a few professional videos and articles that capture the essence of SUP, Science.
 
-[Full video at: CBS Innovate 8](https://www.cbs8.com/category/155799/video-landing-page?autoStart=true&topVideoCatNo=default&clipId=11751920)
-
 [KCET CA Coastal Trail KCET CA Coastal Trail](https://www.kcet.org/shows/california_coastal_trail/content/watch/scripps-wavephox.html)
 
 [Scripps Oceanography: Around the Pier](https://scripps.ucsd.edu/news/around-pier-standing-science)
