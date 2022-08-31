@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: lab-member
 title: Bentley Settin
 img: 8DEED568-F6AC-44EF-A9B3-060CE9C40680.jpeg
 categories: lab-member-current
