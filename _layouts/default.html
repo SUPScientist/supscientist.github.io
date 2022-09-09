@@ -1,12 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
 {% include head.html %}
+
+{% include analytics.html %} 
+
 <body>
 
   <div class="wrapper">
     {{ content }}
   </div>
   
-  {% include analytics.html %}
+  <!-- {% include analytics.html %} --> <!--moved from this line to line 5 on 9-Sep-22-->
 </body>
 </html>
