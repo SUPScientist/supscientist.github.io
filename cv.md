@@ -20,8 +20,8 @@ _2015 -- 2016:_&nbsp;&nbsp;Environmental Scientist, San Francisco Estuary Instit
 _2009 -- 2015:_&nbsp;&nbsp;Graduate Research Asst., Scripps Institution of Oceanography
 
 ### SELECTED GRANTS AND HONORS:
-·	Gordon and Betty Moore Foundation: Continuing the Mission: SeaHawk-1 Ocean Color CubeSat Satellite. **Bresnahan, P.J.** (PI), Rivero-Calle, S. (Co-PI), Frensley, B.T., and Brewin, R. (Sr. Research Personnel). Total budget $2.2M; UNCW portion $681K (2022).  
-·	NSF Major Research Instrumentation: Acquisition of a novel multi sensor-equipped unmanned aerial system (UAS) observatory for coastal mapping. Pricope, N. (PI), Leonard, L., Halls, J., **Bresnahan, P.J.**, and Eulie, D. (co-PIs). Total budget $851K (2022).  
+·	Gordon and Betty Moore Foundation: Continuing the Mission: SeaHawk-1 Ocean Color CubeSat Satellite. **Bresnahan, P.J.** (PI), Rivero-Calle, S. (Co-PI), Frensley, B.T., and Brewin, R. (Sr. Research Personnel). $2.2M (2022).  
+·	NSF Major Research Instrumentation: Acquisition of a novel multi sensor-equipped unmanned aerial system (UAS) observatory for coastal mapping. Pricope, N. (PI), Leonard, L., Halls, J., **Bresnahan, P.J.**, and Eulie, D. (co-PIs). $851K (2022).  
 ·	NOAA Small Business Innovative Research Phase II: The pHyter and Other Oceanographic Tools for Citizen Science and STEM Education. Spaulding, R. (PI), **Bresnahan, P.J.** (Key Individual). Total budget $500K; UNCW subaward $28K (2022).  
 ·	NOAA Small Business Innovative Research Phase I: pHyter: An Oceanographic Tool for Citizen Science and STEM Education. Spaulding, R. (PI, Sunburst Systems, Inc.), **Bresnahan, P.J.** (Key Individual), and others. Total budget $150K; UNCW subaward $15K (2021).  
 ·	Research Momentum Funds, UNCW Research Office. **Bresnahan, P.J.** (PI), Pricope, N. & Halls, J. (co-PIs). $5.5K (2020).  
@@ -42,7 +42,9 @@ _2009 -- 2015:_&nbsp;&nbsp;Graduate Research Asst., Scripps Institution of Ocean
 ·	Lehigh University William H. Chandler Prize in Chemistry & Chemical Engineering (2008).  
 
 ### PEER-REVIEWED PUBLICATIONS:
-_last updated Summer 2022_  
+_last updated Autumn 2022_  
+Bresnahan, P.J., Briggs, E., Davis, B.*, Rodriguez, A., Edwards, L.*, Peach, C., Merrifield, M. (in press). A low-cost, DIY ultrasonic water level sensor. Oceanography. Oceanography.
+
 Shipley, K., Martz, T.R., Bresnahan, P.J., Wirth, T. (in review). Metabolic rates in the Agua Hedionda Lagoon during the 2020 Southern California red tide event. Elementa: Science of the Anthropocene.
 
 Bresnahan, P.J., Cyronak, T., Brewin, R.J.W., Andersson, A., Wirth, T., Martz, T., Courtney, T., Hui, N., Kastner, R., Stern, A., McGrain, T., Reinicke, D., Richard, J., Hammond, K., Waters, S. (2022). A high-tech, low-cost, Internet of Things surfboard fin for coastal citizen science, outreach, and education. Continental Shelf Research. 242. [doi.org/10.1016/j.csr.2022.104748](https://doi.org/10.1016/j.csr.2022.104748).
