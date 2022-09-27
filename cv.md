@@ -42,8 +42,8 @@ _2009 -- 2015:_&nbsp;&nbsp;Graduate Research Asst., Scripps Institution of Ocean
 ·	Lehigh University William H. Chandler Prize in Chemistry & Chemical Engineering (2008).  
 
 ### PEER-REVIEWED PUBLICATIONS:
-_last updated Autumn 2022_  
-Bresnahan, P.J., Briggs, E., Davis, B.*, Rodriguez, A., Edwards, L.*, Peach, C., Merrifield, M. (in press). A low-cost, DIY ultrasonic water level sensor. Oceanography. Oceanography.
+_last updated Autumn 2022; * denotes student author_
+Bresnahan, P.J., Briggs, E., Davis*, B., Rodriguez, A., Edwards*, L., Peach, C., Merrifield, M. (in press). A low-cost, DIY ultrasonic water level sensor. Oceanography. Oceanography.
 
 Shipley, K., Martz, T.R., Bresnahan, P.J., Wirth, T. (in review). Metabolic rates in the Agua Hedionda Lagoon during the 2020 Southern California red tide event. Elementa: Science of the Anthropocene.
 
