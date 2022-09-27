@@ -20,16 +20,16 @@ _2015 -- 2016:_&nbsp;&nbsp;Environmental Scientist, San Francisco Estuary Instit
 _2009 -- 2015:_&nbsp;&nbsp;Graduate Research Asst., Scripps Institution of Oceanography
 
 ### SELECTED GRANTS AND HONORS:
-·	Gordon and Betty Moore Foundation: Continuing the Mission: SeaHawk-1 Ocean Color CubeSat Satellite. **Bresnahan, P.J.** (PI), Rivero-Calle, S. (Co-PI), Frensley, B.T., and Brewin, R. (Sr. Research Personnel). $2.2M (2022).  
-·	NSF Major Research Instrumentation: Acquisition of a novel multi sensor-equipped unmanned aerial system (UAS) observatory for coastal mapping. Pricope, N. (PI), Leonard, L., Halls, J., **Bresnahan, P.J.**, and Eulie, D. (co-PIs). $851K (2022).  
-·	NOAA Small Business Innovative Research Phase II: The pHyter and Other Oceanographic Tools for Citizen Science and STEM Education. Spaulding, R. (PI), **Bresnahan, P.J.** (Key Individual). Total budget $500K; UNCW subaward $28K (2022).  
+·	Gordon and Betty Moore Foundation: Continuing the Mission: SeaHawk-1 Ocean Color CubeSat Satellite. **Bresnahan, P.J.** (PI), Rivero-Calle, S. (Co-PI), Frensley, B.T., and Brewin, R. (Sr. Research Personnel). $2.2M (2022-25).  
+·	NSF Major Research Instrumentation: Acquisition of a novel multi sensor-equipped unmanned aerial system (UAS) observatory for coastal mapping. Pricope, N. (PI), Leonard, L., Halls, J., **Bresnahan, P.J.**, and Eulie, D. (co-PIs). $851K (2022-25).  
+·	NOAA Small Business Innovative Research Phase II: The pHyter and Other Oceanographic Tools for Citizen Science and STEM Education. Spaulding, R. (PI), **Bresnahan, P.J.** (Key Individual). Total budget $500K; UNCW subaward $28K (2022-24).  
 ·	NOAA Small Business Innovative Research Phase I: pHyter: An Oceanographic Tool for Citizen Science and STEM Education. Spaulding, R. (PI, Sunburst Systems, Inc.), **Bresnahan, P.J.** (Key Individual), and others. Total budget $150K; UNCW subaward $15K (2021).  
 ·	Research Momentum Funds, UNCW Research Office. **Bresnahan, P.J.** (PI), Pricope, N. & Halls, J. (co-PIs). $5.5K (2020).  
 ·	UNCW Office of Innovation and Commercialization MARBIONC Blue Economy Grant (PI). $11.5K (2020).  
 ·	Ellen Browning Scripps Foundation Award (PI). $15K (2019).  
 ·	San Diego Gas & Electric Community Engagement Award (PI). $7.5K (2018).  
 ·	UCSD Institute for the Global Entrepreneur Award (PI). $1K (2018).  
-·	NSF-OTIC Award 1736905: Collaborative Research: Self-Calibrating pH Sensors for Autonomous Collection of Climate Quality Data. **Bresnahan, P.J.**, and Takeshita, Y. (Co-Lead PIs), Martz, T. (co-PI). $567K (2017).  
+·	NSF-OTIC Award 1736905: Collaborative Research: Self-Calibrating pH Sensors for Autonomous Collection of Climate Quality Data. **Bresnahan, P.J.**, and Takeshita, Y. (Co-Lead PIs), Martz, T. (co-PI). $567K (2017-2020).  
 ·	Helped attract major research donation from Lost Bird Project and led research and project/budget management. In collaboration with Martz, T., Andersson, A., and Cyronak, T. $1.25M (2016).  
 ·	UC Ship Funds awardee and Chief Scientist (as a Ph.D. Candidate) on-board the R/V Sproul (2014).  
 ·	Dissertations Symposium in Chemical Oceanography (DISCO) XXIV Invitee (2014).  
@@ -99,21 +99,24 @@ Bresnahan, P.J., The Mooring Report: February 2016. El Niño’s effects on San 
 
 ### INTELLECTUAL PROPERTY AND INVENTION DISCLOSURES:
 ·	Martz, T.R., Bresnahan, P.J., Wirth, T., Takeshita, Y. (2022). Self-Calibrating SeapHOx. U.S. Provisional Application Serial No. _63/297,782_, filed by UCSD, Jan. 9, 2022.  
-·	Bresnahan, P.J. (2021). An air–water ∆pCO2 monitoring device. UNCW Docket 2021-003.  
+·	Bresnahan, P.J., and Farquhar, E. (2021). An air–water ∆pCO2 monitoring device. UNCW Docket 2021-003.  
 ·	Bresnahan, P.J., Martz, T.R. (2018). An internet of things smart sensor accessory for watersports. UCSD Docket SD2018-342.  
 ·	Martz, T.R., Bresnahan, P.J. (2014). A profiling float Micro-Rosette. UCSD Docket SD2014-193.
 
 ### STUDENT MENTORING:
-·	Elizabeth Farquhar, MS Marine Science student (current), advisor  
-·	Michael Tydings, BS Oceanography student (current), summer research and fall DIS advisor  
-·	Committee member for 3 MS Geoscience students: Greer Shivers (2022), Carter Eckhardt (2022), Jesse Scopa (current)  
+Please see [Lab Members](../lab-members.html) for the most up-to-date information on our research team.  
+·	Primary Advisor for MS students: Elizabeth Farquhar (current), Jessie Wynne (current), Mitch Torkelson (current), Gina Carney (current)  
+·	Undergraduate research mentor for: Michael Tydings (2021 summer research and fall directed independent study), Daniel Portelli (2022 summer research), Luke Edwards (2022 summer research experiences for undergraduates), Bentley Settin (2022 fall directed independent study), Jacob Stasiewicz (2022 fall directed independent study)  
+·	Committee member for MS Geoscience students: Greer Shivers (2022), Carter Eckhardt (2022), Jesse Scopa (2022), Thomas Paine (current)  
+·	Undergraduate honors thesis committee member for Phoebe Whitbeck (current) and Jordan Pilcher (current)
 ·	Mentored six NSF Research Experiences for Undergraduates students as Research Engineer at Scripps Institution of Oceanography, UC San Diego (2014–2021).  
 ·	Mentored/co-mentored four graduate students as Research Engineer at Scripps Institution of Oceanography, UC San Diego (capstone committee chair for one; 2017–2020).  
 ·	Scripps Peers Mentor for two junior graduate students as a senior graduate student (2013–14).
 
 ### TEACHING EXPERIENCE AND INVITED PRESENTATIONS:
 Please see [Teaching & Outreach](../teaching-outreach.html) for the most up-to-date information on my courses.  
-·	UNCW Advanced Oceanography (OCN 350; Fall 2020, 2021).  
+·	UNCW Smart Coasts (OCN 479; Fall 2020, 2021, 2022).  
+·	UNCW Advanced Oceanography (OCN 350; Fall 2020, 2021, 2022).  
 ·	UNCW Introduction to Oceanography (OCN 150; Fall 2020, Spring 2021, Fall 2021).  
 ·	UNCW Field Methods in Oceanography (OCN 390; Spring 2021).  
 ·	Summer Ventures in Science & Mathematics course on Coastal Science & Engineering (Summer 2021, Summer 2022).  
@@ -129,13 +132,13 @@ Please see [Teaching & Outreach](../teaching-outreach.html) for the most up-to-d
 ·	Invited presentation at Ocean Sciences Meeting and organizer/chair of town hall named “Citizen Oceanography: crowdsourcing ocean data collection in a sea of new technologies” (2018).  
 
 ### SERVICE TO UNIVERSITY AND COMMUNITY:
-·	UNCW Dept. of Earth & Ocean Sciences Diversity, Equity, and Inclusion Committee (Chair 2021–22)  
-·	UNCW Dept. of Earth & Ocean Sciences Public Relations & Awards Committee (2020–22; Chair 2021–22)  
-·	UNCW Dept. of Earth & Ocean Sciences ad hoc Committee on Cape Fear CC Articulation (Chair 2021–22)  
+·	UNCW Dept. of Earth & Ocean Sciences Diversity, Equity, and Inclusion Committee (Chair 2021–23)  
+·	UNCW Dept. of Earth & Ocean Sciences Marketing & Public Relations Committee (2022–23)  
+·	UNCW Dept. of Earth & Ocean Sciences ad hoc Committee on Cape Fear CC Articulation (Chair 2021–23)  
+·	UNCW Dept. of Earth & Ocean Sciences Events & Awards Committee (2020–22; Chair 2021–22)  
 ·	UNCW Dept. of Earth & Ocean Sciences Chair’s Advisory Committee (Elected 2021)  
-·	UNCW Marine & Coastal Sciences Council (2021)  
-·	UNCW Marine & Coastal Sciences Council Subcommittee for Diversity, Equity, and Inclusion (2021)  
-·	UNCW Center for Marine Science Makerspace Faculty Director (2020–22)  
+·	UNCW Marine & Coastal Sciences Council (2021-23)  
+·	UNCW Center for Marine Science Makerspace Faculty Director (2020–23)  
 ·	UNCW College of Arts & Sciences Crews Scholarship Review Committee (2021)  
 ·	Proposal reviewer for NSF OTIC (2021).  
 ·	Proposal reviewer for NOAA Ocean Acidification Program (2020).  
@@ -149,7 +152,7 @@ Please see [Teaching & Outreach](../teaching-outreach.html) for the most up-to-d
 ·	Invited presentations at ASLO Aquatic Sciences Meeting, CERF Meeting, Solana Beach Eco Rotary Club, San Francisco Bay–Delta Science Conference, SF Bay Regional Monitoring Program Annual Meeting (2015).
 
 ### OUTREACH AND INFORMAL EDUCATION:
-·	Local news interview on rising ocean temperatures (2022): https://www.wect.com/2022/01/25/surfers-help-scientists-study-changing-ocean-temperatures-by-catching-waves-with-smartfin/  
+·	WECT local news interview on SeaHawk satellite program (2022): https://www.wect.com/2022/09/26/uncw-nanosatellite-captures-5000th-photo-space/ and rising ocean temperatures (2022): https://www.wect.com/2022/01/25/surfers-help-scientists-study-changing-ocean-temperatures-by-catching-waves-with-smartfin/.  
 ·	Keynote speaker at Creative Mornings/San Diego event (2018): The Science of Community: https://creativemornings.com/talks/phil-bresnahan/1.  
 ·	Invited panelist at South by Southwest, Sustainability at Scripps event, Particle.io’s Spectra conference, Citizens’ Climate Lobby chapter film screening, Scripps Chasing Coral film screening (2018–19).  
 ·	Invited presentations at IEEE/MTS Oceans Conference (also session chair), Scripps Institutional Seminar, Scripps Applied Ocean Sciences Seminar, Scripps Marine Chemistry Seminar, La Jolla Rotary Club, Surfrider Foundation Chapter Meeting, Boardroom Show, National Instruments Technical Seminar (2017).  
