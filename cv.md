@@ -14,7 +14,7 @@ Lehigh University, Bethlehem, PA
 
 ### APPOINTMENTS:
 _2020 -- present:_&nbsp;&nbsp;Assistant Professor, UNC Wilmington's Department of Earth and Ocean Sciences and Center for Marine Science  
-_2019 -- 2020:_&nbsp;&nbsp;[Director of the Sandbox: a Scripps Makerspace](https://scrippssandbox.ucsd.edu/), Scripps Institution of Oceanography  
+_2019 -- 2020:_&nbsp;&nbsp;Director of the Sandbox: a Scripps Makerspace, Scripps Institution of Oceanography  
 _2017 -- 2020:_&nbsp;&nbsp;Research & Development Engineer, Scripps Institution of Oceanography  
 _2015 -- 2016:_&nbsp;&nbsp;Environmental Scientist, San Francisco Estuary Institute  
 _2009 -- 2015:_&nbsp;&nbsp;Graduate Research Asst., Scripps Institution of Oceanography
@@ -42,8 +42,9 @@ _2009 -- 2015:_&nbsp;&nbsp;Graduate Research Asst., Scripps Institution of Ocean
 ·	Lehigh University William H. Chandler Prize in Chemistry & Chemical Engineering (2008).  
 
 ### PEER-REVIEWED PUBLICATIONS:
-_last updated Autumn 2022; * denotes student author_
-Bresnahan, P.J., Briggs, E., Davis*, B., Rodriguez, A., Edwards*, L., Peach, C., Merrifield, M. (in press). A low-cost, DIY ultrasonic water level sensor. Oceanography. Oceanography.
+_last updated Autumn 2022; * denotes student author_  
+
+Bresnahan, P.J., Briggs, E., Davis\*, B., Rodriguez, A., Edwards\*, L., Peach, C., Merrifield, M. (in press). A low-cost, DIY ultrasonic water level sensor. Oceanography.
 
 Shipley, K., Martz, T.R., Bresnahan, P.J., Wirth, T. (in review). Metabolic rates in the Agua Hedionda Lagoon during the 2020 Southern California red tide event. Elementa: Science of the Anthropocene.
 
