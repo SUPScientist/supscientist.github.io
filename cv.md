@@ -104,8 +104,8 @@ Bresnahan, P.J., The Mooring Report: February 2016. El Niño’s effects on San 
 ·	Martz, T.R., Bresnahan, P.J. (2014). A profiling float Micro-Rosette. UCSD Docket SD2014-193.
 
 ### STUDENT MENTORING:
-Please see [Lab Members](../lab-members.html) for the most up-to-date information on our research team.  
-·	Primary Advisor for MS students: Elizabeth Farquhar (current), Jessie Wynne (current), Mitch Torkelson (current), Gina Carney (current)  
+Please see [Lab Members](../lab-members/) for the most up-to-date information on our research team.  
+·	Primary advisor for MS students: Elizabeth Farquhar (current), Jessie Wynne (current), Mitch Torkelson (current), Gina Carney (current)  
 ·	Undergraduate research mentor for: Michael Tydings (2021 summer research and fall directed independent study), Daniel Portelli (2022 summer research), Luke Edwards (2022 summer research experiences for undergraduates), Bentley Settin (2022 fall directed independent study), Jacob Stasiewicz (2022 fall directed independent study)  
 ·	Committee member for MS Geoscience students: Greer Shivers (2022), Carter Eckhardt (2022), Jesse Scopa (2022), Thomas Paine (current)  
 ·	Undergraduate honors thesis committee member for Phoebe Whitbeck (current) and Jordan Pilcher (current)
