@@ -46,7 +46,7 @@ _last updated Autumn 2022; * denotes student author_
 
 Bresnahan, P.J., Briggs, E., Davis\*, B., Rodriguez, A., Edwards\*, L., Peach, C., Merrifield, M. (in press). A low-cost, DIY ultrasonic water level sensor. Oceanography.
 
-Shipley, K., Martz, T.R., Bresnahan, P.J., Wirth, T. (in review). Metabolic rates in the Agua Hedionda Lagoon during the 2020 Southern California red tide event. Elementa: Science of the Anthropocene.
+Shipley, K., Martz, T.R., Bresnahan, P.J., Wirth, T. (2022). Metabolic rates in the Agua Hedionda Lagoon during the 2020 Southern California red tide event. Elementa: Science of the Anthropocene. [doi.org/10.1525/elementa.2022.00018](https://doi.org/10.1525/elementa.2022.00018).
 
 Bresnahan, P.J., Cyronak, T., Brewin, R.J.W., Andersson, A., Wirth, T., Martz, T., Courtney, T., Hui, N., Kastner, R., Stern, A., McGrain, T., Reinicke, D., Richard, J., Hammond, K., Waters, S. (2022). A high-tech, low-cost, Internet of Things surfboard fin for coastal citizen science, outreach, and education. Continental Shelf Research. 242. [doi.org/10.1016/j.csr.2022.104748](https://doi.org/10.1016/j.csr.2022.104748).
 
