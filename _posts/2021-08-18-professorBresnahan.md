@@ -14,5 +14,5 @@ I am passionate about not just studying the planet but also about getting resear
 Just for fun, here's a map of some of my outdoor activities over the last couple years, made using Python, Folium/Leaflet, and my Garmin Vivoactive HR watch. Color represents activity (magenta = bike; blue = surf; green = run; orange = hike; and sometimes I hit the wrong button on my watch and things get switched up...). Pan around and zoom into different places to see how I spend my time when I'm not coding.
 
 <div class="resp-container">
-    <iframe class="resp-iframe" src="../gps-self-tracking.html"></iframe>
+    <iframe class="resp-iframe" src="../interactive-pages/gps-self-tracking.html"></iframe>
 </div>
