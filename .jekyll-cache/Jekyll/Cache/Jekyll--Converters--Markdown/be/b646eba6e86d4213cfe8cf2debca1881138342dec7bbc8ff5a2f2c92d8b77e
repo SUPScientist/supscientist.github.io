@@ -1,0 +1,22 @@
+I"n<p>The Coastal Ocean Applied Science &amp; Technology Lab (<a href="/professorBresnahan/">PI Phil Bresnahan</a>) at the University of North Carolina Wilmington (affiliated with the <a href="https://uncw.edu/earsci/">Department of Earth and Ocean Sciences<a></a> and <a href="https://uncw.edu/cms/">Center for Marine Science<a></a>) seeks to find answers to and develop and communicate solutions for our most pressing environmental questions and problems. We focus largely on coastal and estuarine environments and use a combination of environmental engineering and applied science approaches. Our tools include (1) existing sensors and our own inventions paired with buoys, profilers, ships, and autonomous vessels for in situ monitoring, (2) satellites and drones for remote sensing, and (3) techniques including time-series analysis and machine learning approaches to better understand the changing planet. We also enjoy working in the interrelated fields of science/engineering education, outreach, and citizen science<sup>1, see footnote</sup> as we firmly believe that our urgent environmental problems demand much more than just academic research. We frequently post open code and other design files to GitHub (see links attached to individual projects on this website) and we rely heavily on others’ contributions to the free and open source ecosystem as well.</a></a></p>
+
+<p>Topics of interest include (but aren’t limited to!):</p>
+<ul>
+    <li>carbon dioxide removal, blue carbon, and carbon cycling,</li>
+    <li>ocean acidification, deoxygenation, and eutrophication,</li>
+    <li>monitoring the effects of human activity on water quality,</li>
+    <li>variability in water quality over small spatial and temporal scales,</li>
+    <li>low-cost sensor development to facilitate public participation in scientific research and expanded monitoring networks, and</li>
+    <li>platform development and sensor integration for novel sensing approaches.</li>
+</ul>
+
+<p><strong>We are actively seeking new undergraduate and graduate students.</strong> Potential undergraduate student researchers: please reach out to me at bresnahanp@uncw.edu to explore opportunities for a Directed Independent Study (DIS), Honors Thesis, or other ways of getting involved in COAST Lab research. Potential graduate student researchers: please take a look at the <a href="https://uncw.edu/cms/eddegrees.html">Ph.D. in Applied Coastal and Ocean Sciences<a></a>, the <a href="https://uncw.edu/mms/">M.S. in Marine Science<a></a>, and the <a href="https://uncw.edu/msgeoscience/">M.S. in Geoscience<a></a> options and reach out if one of those and COAST Lab research are of interest.</a></a></a></p>
+
+<p>The primary qualities we seek in students are curiosity and a determination to learn. While lab members use skills like coding, simple circuit design and wiring, 3D design and printing, laboratory analyses, etc., we do not require that candidates have prior experience in these. Rather, we strive to teach new skills to those who are excited to put the time and effort into learning them and applying them toward specific scientific and engineering challenges with societal relevance. If you do have such skills, they will likely be put to good use, but if you do not, you might still be a great candidate for this lab!</p>
+
+<p>The source code for this website, including that for most of the data visualizations, is available at <a href="https://github.com/SUPScientist/supscientist.github.io">github.com/SUPScientist/supscientist.github.io</a>.</p>
+
+<p>Huge thanks to <a href="/LukeEdwards/">Luke Edwards</a> for our awesome lab logo!</p>
+
+<p><sup>1</sup>Citizen science is sometimes also referred to as public participation in scientific research or community science; please see <a href="https://twitter.com/CoopSciScoop/status/1413472363862183936">this thread</a> for an explanation of our choice to use the fraught term of <em>citizen</em> science.</p>
+:ET
