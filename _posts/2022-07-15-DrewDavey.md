@@ -1,7 +1,7 @@
 ---
 layout: lab-member
 title: Drew Davey
-img: update.JPG
+img: davey_sail.jpeg
 categories: lab-member-past
 ---
 
