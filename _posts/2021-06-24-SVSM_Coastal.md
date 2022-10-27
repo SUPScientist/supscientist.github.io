@@ -3,7 +3,7 @@ layout: post
 title: Applied Coastal Science & Engineering for Summer Ventures in Science & Mathematics
 date: 2022-07-27
 img: masonboro-kayak.JPG # Add image post (optional)
-categories: teaching-outreach
+categories: teaching
 ---
 
 UNCW is one of a few NC hosts for Summer Ventures in Science and Mathematics (SVSM) Institutes administered by the North Carolina School of Science and Mathematics (NCSSM). SVSM is a cost-free, state-funded program for academically talented students who may pursue careers based in science and mathematics.
