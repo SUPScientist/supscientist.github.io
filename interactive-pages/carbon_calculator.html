@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en-US">
+ 
+<head>
+
+<table>
+    <tr>
+        <td>Carbon Sequestered:</td>
+        <td>
+            <input type="text" id="value1" name="value1" />
+        </td>
+    </tr>
+    <tr>
+        <td>Units In:</td>
+        <td>
+            <select id="units_in">
+                <option value="tonnes C/yr">tonnes C/yr</option>
+                <option value="tonnes CO2/yr">tonnes CO2/yr</option>
+                <option value="trees">trees</option>
+            </select>
+        </td>
+    </tr>
+    <tr>
+        <td>Units Out:</td>
+        <td>
+            <select id="units_out">
+                <option value="seconds">seconds</option>
+                <option value="minutes">minutes</option>
+                <option value="hours">hours</option>
+                <option value="days">days</option>
+                <option value="years">years</option>
+            </select>
+        </td>
+    </tr>
+    <tr>
+        <td>Result:</td>
+        <td>
+            <input type="text" id="result" name="result" />
+        </td>
+    </tr>
+</table>
+<input type="submit" id="btn_sub" name="btn_sub" value="Submit" onclick="calculate();" />
+<input type="reset" id="btn_res" name="btn_res" value="Reset" />
+
+</head>
+ 
+<body>
+ 
+<script src="../assets/js/script.js"></script>
+
+</body> 
+ 
+</html>

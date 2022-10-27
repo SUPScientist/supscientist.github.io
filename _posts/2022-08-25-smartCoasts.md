@@ -3,7 +3,7 @@ layout: post
 title: OCN479, Smart Coasts
 date: 2022-08-25
 img: smart_coasts.jpg # Add image post (optional)
-categories: teaching-outreach
+categories: teaching
 ---
 
 *Fall 2022*

@@ -3,7 +3,7 @@ layout: post
 title: OCN390, Oceanographic Field Methods
 date: 2021-08-18
 img: ocn390.jpeg # Add image post (optional)
-categories: teaching-outreach
+categories: teaching
 ---
 
 *Spring 2021* 

@@ -5,7 +5,7 @@ date: 2019-05-09 00:00:00 -0700
 description: A quick dive into the tank of @MontereyAq's tweets.
 img: montereyAq_twitter_poll_results.png
 tags: [twitter, data science, python] # add tag
-categories: teaching-outreach
+categories: outreach
 ---
 
 On May 8, 2019, the venerable Monterey Bay Aquarium social media team asked its followers to name their favorite ocean critters.

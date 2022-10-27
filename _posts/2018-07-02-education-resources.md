@@ -5,7 +5,7 @@ date: 2018-07-29 00:00:00 -0700
 description: Collection of tools for marine chemistry and ocean engineering teaching
 img: marine-co2.png
 tags: [teaching, education, marine, oceanography, engineering] # add tag
-categories: teaching-outreach
+categories: outreach
 ---
 
 ### Life in the Balance: Coastal Carbonate Chemistry

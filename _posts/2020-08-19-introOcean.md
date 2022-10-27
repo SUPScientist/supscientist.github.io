@@ -3,7 +3,7 @@ layout: post
 title: OCN150, Introduction to Oceanography
 date: 2022-08-19
 img: ocn150.jpeg # Add image post (optional)
-categories: teaching-outreach
+categories: teaching
 ---
 
 *Fall 2020, Spring 2021, Fall 2021, Spring 2023*  
