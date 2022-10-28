@@ -25,9 +25,9 @@ function convert(value1, units_in, units_out) {
     }
 
     if (units_in == 'tonnes C/yr') {
-        return c_fac * value1 / 10200000000; // using units of [metric] tonnes
+        return c_fac * value1 / 10600000000; // using units of [metric] tonnes
     } else if (units_in == 'tonnes CO2/yr') {
-        return c_fac * value1 / 37400000000; 
+        return c_fac * value1 / 38900000000; 
     } else if (units_in == 'trees') {
         return c_fac * value1 / 37400000000 * (25/1000);
     } 
