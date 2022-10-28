@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Carbon Time Machine
+title: Carbon Drawdown Time Machine
 date: 2022-10-26 00:00:00 -0700
 description: Simple javascript/html carbon calculator
 img: matt-artz-nTRDnDdDYk8-unsplash.jpeg
@@ -24,6 +24,6 @@ Give it a shot:
     <iframe src="../interactive-pages/carbon_calculator.html" width="600"></iframe>
 </div>
 
-The calculator uses 2020's total anthropogenic emissions of 10.2±0.8 GtC/yr (37.4±2.9 GtCO2/yr) from the Global Carbon Budget: [https://essd.copernicus.org/articles/14/1917/2022/essd-14-1917-2022.pdf](https://essd.copernicus.org/articles/14/1917/2022/essd-14-1917-2022.pdf). 
+The calculator uses 2011&ndash;2020's total anthropogenic emissions of 10.6 GtC/yr (38.9 GtCO2/yr) from the Global Carbon Budget: [https://essd.copernicus.org/articles/14/1917/2022/essd-14-1917-2022.pdf](https://essd.copernicus.org/articles/14/1917/2022/essd-14-1917-2022.pdf). 
 
 Important note: this webpage has no agenda beyond encouraging careful consideration of scale when discussing carbon and carbon offsets. We are pro-trees, pro-whales, etc., and hope that blue and green carbon ecosystems are preserved and restored, for many reasons!
