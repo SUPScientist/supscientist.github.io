@@ -44,7 +44,7 @@ _2009 -- 2015:_&nbsp;&nbsp;Graduate Research Asst., Scripps Institution of Ocean
 ### PEER-REVIEWED PUBLICATIONS:
 _last updated Autumn 2022; * denotes student author_  
 
-Bresnahan, P.J., Briggs, E., Davis\*, B., Rodriguez, A., Edwards\*, L., Peach, C., Merrifield, M. (in press). A low-cost, DIY ultrasonic water level sensor. Oceanography.
+Bresnahan, P.J., Briggs, E., Davis\*, B., Rodriguez, A., Edwards\*, L., Peach, C., Merrifield, M. (2022). A Low-Cost, DIY Ultrasonic Water Level Sensor for Education, Citizen Science, and Research. Oceanography. doi.org/10.5670/oceanog.2023.101. 
 
 Shipley, K., Martz, T.R., Bresnahan, P.J., Wirth, T. (2022). Metabolic rates in the Agua Hedionda Lagoon during the 2020 Southern California red tide event. Elementa: Science of the Anthropocene. [doi.org/10.1525/elementa.2022.00018](https://doi.org/10.1525/elementa.2022.00018).
 
@@ -86,7 +86,13 @@ Bresnahan, P.J., Martz T.R., Takeshita Y., Johnson K.S., LaShomb M. (2014), Best
 Martz, T.R., Takeshita, Y., Rolph, R., Bresnahan, P.J. (2012), Tracer Monitored Titrations: Measurement of Dissolved Oxygen. Analytical Chemistry, 84, 290-296. [doi.org/10.1021/ac202537f](https://doi.org/10.1021/ac202537f).
 
 ### NON-PEER-REVIEWED PUBLICATIONS:
-Bresnahan, P.J., Cyronak, T., Martz, T.R., Andersson, A., Waters, S., Stern, A., Richard, J., Hammond, K., Griffin, J., Thompson, B. (2017). Engineering a Smartfin for surf-zone oceanography, in OCEANS 2017, Anchorage, Alaska, 2017, p. 1-4.
+Technical contributor to report titled “Coastal Communities Vulnerability Assessment” led by NOAA and Intergovernmental Working Group on Ocean Acidification. In prep.
+
+Bresnahan, P.J., Briggs, E., Davis, B.*, Rodriguez, A., Edwards, L.*, Peach, C., Merrifield, M. (2022). GitHub Design files for Seaport Water Level and Sea Level Rise Monitor. [doi.org/10.5281/zenodo.7324757](https://doi.org/10.5281/zenodo.7324757). 
+
+Martz, Todd R., Wirth, Taylor, Takeshita, Yuichiro, Bresnahan, Philip (2021). SeaFET & SeapHOx User Manual, Version 2.1. In SeaFET & SeapHOx. UC San Diego Library Digital Collections. [doi.org/10.6075/J08P60P2](https://doi.org/10.6075/J08P60P2). 
+
+Bresnahan, P.J., Cyronak, T., Martz, T.R., Andersson, A., Waters, S., Stern, A., Richard, J., Hammond, K., Griffin, J., Thompson, B. (2017). Engineering a Smartfin for surf-zone oceanography, in OCEANS 2017, Anchorage, Alaska, 2017, p. 1-4. [ieeexplore.ieee.org/document/8232342](https://ieeexplore.ieee.org/document/8232342).
 
 Trowbridge, P., Shimabuku, I., Bresnahan, P.J., Nielsen, K., Largier, J., Sutula, M., Valiela, L., Nutters, H., Wheeler, S., Knight, E. (2017). Summary of Workshop on Monitoring for Acidification in West Coast Estuaries: A San Francisco Bay Case Study. Richmond, CA.
 
