@@ -44,11 +44,13 @@ _2009 -- 2015:_&nbsp;&nbsp;Graduate Research Asst., Scripps Institution of Ocean
 ### PEER-REVIEWED PUBLICATIONS:
 _last updated Autumn 2022; * denotes student author_  
 
+Bresnahan, P.J., Farquhar, E.\*, Portelli, D.\*, Tydings, M.\*, Wirth, T., Martz, T.R. (in review), A low-cost ∆pCO2 monitoring system for coastal and estuarine sensor networks. [Under consideration as an invited submission to a special issue in the journal Oceanography].
+
 Bresnahan, P.J., Briggs, E., Davis\*, B., Rodriguez, A., Edwards\*, L., Peach, C., Merrifield, M. (2022). A Low-Cost, DIY Ultrasonic Water Level Sensor for Education, Citizen Science, and Research. Oceanography. [doi.org/10.5670/oceanog.2023.101](https://doi.org/10.5670/oceanog.2023.101). 
 
 Shipley, K., Martz, T.R., Bresnahan, P.J., Wirth, T. (2022). Metabolic rates in the Agua Hedionda Lagoon during the 2020 Southern California red tide event. Elementa: Science of the Anthropocene. [doi.org/10.1525/elementa.2022.00018](https://doi.org/10.1525/elementa.2022.00018).
 
-Bresnahan, P.J., Cyronak, T., Brewin, R.J.W., Andersson, A., Wirth, T., Martz, T., Courtney, T., Hui, N., Kastner, R., Stern, A., McGrain, T., Reinicke, D., Richard, J., Hammond, K., Waters, S. (2022). A high-tech, low-cost, Internet of Things surfboard fin for coastal citizen science, outreach, and education. Continental Shelf Research. 242. [doi.org/10.1016/j.csr.2022.104748](https://doi.org/10.1016/j.csr.2022.104748).
+Bresnahan, P.J., Cyronak, T., Brewin, R.J.W., Andersson, A., Wirth, T., Martz, T., Courtney, T., Hui, N., Kastner, R., Stern, A., McGrain, T., Reinicke, D., Richard, J., Hammond, K., Waters, S. (2022). A high-tech, low-cost, Internet of Things surfboard fin for coastal citizen science, outreach, and education. Continental Shelf Research. 242. [doi.org/10.1016/j.csr.2022.104748](https://doi.org/10.1016/j.csr.2022.104748). [Invited submission to special issue.]
 
 McCluskey, E., Brewin, R.J.W., Vanhellemont, Q., Jones, O., Cummings, D., Tilstone, G., Jackson, T., Widdicombe, C., Woodward, M., Bresnahan, P.J., Cyronak, T., Andersson, A.J. (2022). An unconventional investigation into the seasonal dynamics of phytoplankton in nearshore coastal waters of southwest England. Oceans. 3(2), 125-146. [doi.org/10.3390/oceans3020011](https://doi.org/10.3390/oceans3020011). 
 
@@ -70,7 +72,7 @@ Bresnahan, P.J., Martz, T.R. (2018). Gas Diffusion Cell Geometry for a Microflui
 
 Cyronak, T., Andersson, A.J., D’Angelo, S., Bresnahan, P.J., Davidson, C., et al. (2018). Short-term spatial and temporal carbonate chemistry variability in two contrasting seagrass meadows: implications for pH buffering capacities. Estuaries and Coasts, 41(5). [doi.org/10.1007/s12237-017-0356-5](https://doi.org/10.1007/s12237-017-0356-5).
 
-Bresnahan, P.J., Martz, T.R., Almeida, J., Ward, B., & Maguire, P. (2017). Looking Ahead: A Profiling Float Micro-Rosette. Oceanography, 30. [doi.org/10.5670/oceanog.2017.215](https://doi.org/10.5670/oceanog.2017.215).
+Bresnahan, P.J., Martz, T.R., Almeida, J., Ward, B., & Maguire, P. (2017). Looking Ahead: A Profiling Float Micro-Rosette. Oceanography, 30. [doi.org/10.5670/oceanog.2017.215](https://doi.org/10.5670/oceanog.2017.215). [Invited technical paper.]
 
 Brewin, R.J.W., Hyder, K., Andersson, A.J., Billson, O., Bresnahan, P.J., Brewin, T.G., Cyronak, T. et al. (2017). Expanding Aquatic Observations through Recreation. Frontiers in Marine Science, 4(351). [doi.org/10.3389/fmars.2017.00351](https://doi.org/10.3389/fmars.2017.00351).
 
@@ -88,7 +90,7 @@ Martz, T.R., Takeshita, Y., Rolph, R., Bresnahan, P.J. (2012), Tracer Monitored 
 ### NON-PEER-REVIEWED PUBLICATIONS:
 Technical contributor to report titled “Coastal Communities Vulnerability Assessment” led by NOAA and Intergovernmental Working Group on Ocean Acidification. In prep.
 
-Bresnahan, P.J., Briggs, E., Davis, B.*, Rodriguez, A., Edwards, L.*, Peach, C., Merrifield, M. (2022). GitHub Design files for Seaport Water Level and Sea Level Rise Monitor. [doi.org/10.5281/zenodo.7324757](https://doi.org/10.5281/zenodo.7324757). 
+Bresnahan, P.J., Briggs, E., Davis, B.\*, Rodriguez, A., Edwards, L.\*, Peach, C., Merrifield, M. (2022). GitHub Design Files for Seaport Water Level and Sea Level Rise Monitor. [doi.org/10.5281/zenodo.7324757](https://doi.org/10.5281/zenodo.7324757). 
 
 Martz, Todd R., Wirth, Taylor, Takeshita, Yuichiro, Bresnahan, Philip (2021). SeaFET & SeapHOx User Manual, Version 2.1. In SeaFET & SeapHOx. UC San Diego Library Digital Collections. [doi.org/10.6075/J08P60P2](https://doi.org/10.6075/J08P60P2). 
 
@@ -113,7 +115,7 @@ Bresnahan, P.J., The Mooring Report: February 2016. El Niño’s effects on San 
 ### STUDENT MENTORING:
 Please see [Lab Members](../lab-members/) for the most up-to-date information on our research team.  
 ·	Primary advisor for MS students: Elizabeth Farquhar (current), Jessie Wynne (current), Mitch Torkelson (current), Gina Carney (current)  
-·	Undergraduate research mentor for: Michael Tydings (2021 summer research and fall directed independent study), Daniel Portelli (2022 summer research), Luke Edwards (2022 summer research experiences for undergraduates), Bentley Settin (2022 fall directed independent study), Jacob Stasiewicz (2022 fall directed independent study)  
+·	Undergraduate research mentor for: Daniel Portelli (2022 summer research), Luke Edwards (2022 summer research experiences for undergraduates), Bentley Settin (2022 fall directed independent study), Jacob Stasiewicz (2022 fall directed independent study), Michael Tydings (2021 summer research and fall directed independent study) 
 ·	Committee member for MS Geoscience students: Greer Shivers (2022), Carter Eckhardt (2022), Jesse Scopa (2022), Thomas Paine (current)  
 ·	Undergraduate honors thesis committee member for Phoebe Whitbeck (current) and Jordan Pilcher (current)
 ·	Mentored six NSF Research Experiences for Undergraduates students as Research Engineer at Scripps Institution of Oceanography, UC San Diego (2014–2021).  
