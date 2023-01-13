@@ -1,0 +1,15 @@
+---
+title: "Gina Carney"
+layout: post
+img: coast.jpg
+output: word_document
+categories: lab-member
+---
+
+Hey, guys! My name is Gina Carney, and I am a current graduate student pursuing my Master's of Science in Geoscience within the Department of Earth and Ocean sciences, working with Dr. Bresnahan on an analytical chemistry water quality project. I received my B.S. in Geology from Appalachian State University and received an undergraduate research assistantship with the National Science Foundation, focusing on glacial sedimentology. 
+
+For my current graduate project, I hope to validate the pH data quality of a widely used commercial technology, YSI EXO2, through comparisons of pH from spectrophotometric measurements and a low-cost handheld sensor, known as pHyter, designed by Sunburst Sensors. 
+
+I have spent most of my life living in the Appalachian Mountains and working with water quality issues related to riverine/freshwater environments. They say the best geologist's have seen the most diverse landscapes, so I wanted to further my geologic career in a completely new landscape. The knowledge and skillsets I have acquired from being at UNCW and living near the beach are priceless, for I now understand the significance of the interrelation of marine environments in our world as a whole. 
+
+I enjoy walking on the beach, kayaking/canoeing, swimming, and hiking. Anything that gets me outside is a hobby I am guaranteed to enjoy. 
