@@ -1,42 +1,10 @@
+
 ---
-layout: post
-title: Smartfin
-date: 2022-06-01 00:00:00 -0700
-description: Brief description of Smartfin.
-img: smartfin.jpg # Add image post (optional)
-tags: [citizen science, oceanography, sensor development] # add tag
-categories: research outreach
+title: Lucas Cooper
+layout: lab-member
+img: cooperheadshot.JPG
+output: markdown file
+categories: lab-member-current
 ---
 
-Smartfin is an Internet of Things surfboard fin equipped with oceanographic sensors and a program designed to give environmental health advocates a way to contribute to cutting edge science just by doing what they love: surfing!
-
-Smartfin has been used in a number of research projects (see [CV](../cv/#peer-reviewed-publications) for examples) and an open-access summary article is available [here](https://www.sciencedirect.com/science/article/pii/S0278434322001029).
-
-Here's a data visualization that I made to show off some of Smartfin's capabilities. One of the surfers in this video is equipped with a Smartfin and is collecting temperature, motion, and position data while surfing. If you watch closely, you can probably guess which one by seeing who is riding waves when the graph of speed (MPH) shows large peaks!
-
-<div class="resp-container">
-    <iframe class="resp-iframe" src="https://www.youtube.com/embed/jhosHEJAw6I?autoplay=1" frameborder="0" allowfullscreen></iframe>
-</div>
-
-As head of R&D, I am designing new sensors and scientific applications for Smartfin and planning on integrating it with alternate "platforms of opportunity," such as kayaks, sailboats, scuba gear, etc. I am developing the Smartfin's core firmware and hardware in order to take advantage of ever-evolving wireless data transfer technologies. With global cellular connectivity, Smartfin will be able to transmit data to the cloud almost as soon as the surfer exits the water, enabling near-real-time coastal data analytics. I am also adapting/miniaturizing technology (e.g., pH and dissolved oxygen sensors) from the [WavepHOx](../sup-science) in order to enable biogeochemical research using Smartfins.
-
-We began a pilot project in late May, 2017. Since then, we've distributed roughly two hundred fins, with many more to come. Check out this GIF of session data popping up all over the world over the past year and a half!
-
-![](../assets/img/for_posts/SmartfinSeshAvg_lowres.gif)
-
-### Smartfin Surfrider Team Surfs
-On July 28th, 2018, several of the the [Surfrider Foundation San Diego Chapter](https://www.facebook.com/surfriderSD/) Smartfin riders gathered again, this time at Moonlight Beach in Encinitas. As a simple example of our technological capabilities, I put together these interactive figures so that anyone could explore the collected data. We're working to improve our project's website to include these types of features automatically but, in the meantime, check out this map and interactive time-series plot! Thanks for coming out, everybody!
-
-<div class="resp-container">
-    <iframe class="resp-iframe" src="../smartfin-surfrider-timeseries-20180428.html"></iframe>
-</div>
-
-<div class="resp-container">
-    <iframe class="resp-iframe" src="../smartfin-surfrider-map-20180428.html"></iframe>
-</div>
-
-Please explore the project's official website at [smartfin.org](https://smartfin.org) and this storymap I made (below; [full link here--it looks _way_ better in fullscreen mode)](https://www.arcgis.com/apps/Cascade/index.html?appid=7d74aeff9683496297059217e853bff7#storymap) for much more info.
-
-<div class="resp-container">
-    <iframe class="resp-iframe" src="https://www.arcgis.com/apps/Cascade/index.html?appid=7d74aeff9683496297059217e853bff7#storymap" frameborder="0"></iframe>
-</div>
+Hello my name is Lucas Cooper and I am an undergraduate student at UNCW studying oceanography. In my off time I love playing hockey and listening to audiobooks. 
