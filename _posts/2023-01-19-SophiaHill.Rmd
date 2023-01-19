@@ -1,0 +1,9 @@
+---
+title: "Sophia Hill"
+layout: lab-member
+img: IMG_6742.jpg
+output: word_document
+categories: lab-member-current
+---
+
+Hello! My name is Sophia Hill and I am an undergraduate student obtaining a degree in oceanography with a minor in biology and creative writing. I am an Honors student working on my thesis project in the COAST Lab. I am from Northern Virginia, and some of my interests include soccer, singing, reading, and watching movies. 
