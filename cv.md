@@ -44,7 +44,7 @@ _2009 -- 2015:_&nbsp;&nbsp;Graduate Research Asst., Scripps Institution of Ocean
 ### PEER-REVIEWED PUBLICATIONS:
 _last updated Autumn 2022; * denotes student author_  
 
-Bresnahan, P.J., Farquhar, E.\*, Portelli, D.\*, Tydings, M.\*, Wirth, T., Martz, T.R. (in review), A low-cost ∆pCO2 monitoring system for coastal and estuarine sensor networks. [Under consideration as an invited submission to a special issue in the journal Oceanography].
+Bresnahan, P.J., Farquhar, E.\*, Portelli, D.\*, Tydings, M.\*, Wirth, T., Martz, T.R. (in press), A low-cost ∆pCO2 monitoring system for coastal and estuarine sensor networks. [Under consideration as an invited submission to a special issue in the journal Oceanography].
 
 Bresnahan, P.J., Briggs, E., Davis\*, B., Rodriguez, A., Edwards\*, L., Peach, C., Merrifield, M. (2022). A Low-Cost, DIY Ultrasonic Water Level Sensor for Education, Citizen Science, and Research. Oceanography. [doi.org/10.5670/oceanog.2023.101](https://doi.org/10.5670/oceanog.2023.101). 
 
