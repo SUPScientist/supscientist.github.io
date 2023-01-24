@@ -1,7 +1,7 @@
 ---
 title: Lucas Cooper
 layout: lab-member
-img: CooperHeadShot.JPG
+img: CooperHeadShot.PNG
 output: markdown file
 categories: lab-member-current
 ---
