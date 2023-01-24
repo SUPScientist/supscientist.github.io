@@ -115,7 +115,8 @@ Bresnahan, P.J., The Mooring Report: February 2016. El Niño’s effects on San 
 ### STUDENT MENTORING:
 Please see [Lab Members](../lab-members/) for the most up-to-date information on our research team.  
 ·	Primary advisor for MS students: Elizabeth Farquhar (current), Jessie Wynne (current), Mitch Torkelson (current), Gina Carney (current)  
-·	Undergraduate research mentor for: Daniel Portelli (2022 summer research), Luke Edwards (2022 summer research experiences for undergraduates), Bentley Settin (2022 fall directed independent study), Jacob Stasiewicz (2022 fall directed independent study), Michael Tydings (2021 summer research and fall directed independent study) 
+·	Primary honors thesis advisor for BS student: Sophia Hill (current)  
+·	Undergraduate research mentor for: Dorothy Sue Grimmer (2023 spring directed independent study), Luke Cooper (2023 spring directed independent study, Daniel Portelli (2022 summer research), Luke Edwards (2022 summer research experiences for undergraduates), Bentley Settin (2022 fall directed independent study), Jacob Stasiewicz (2022 fall directed independent study), Michael Tydings (2021 summer research and fall directed independent study) 
 ·	Committee member for MS Geoscience students: Greer Shivers (2022), Carter Eckhardt (2022), Jesse Scopa (2022), Thomas Paine (current)  
 ·	Undergraduate honors thesis committee member for Phoebe Whitbeck (current) and Jordan Pilcher (current)
 ·	Mentored six NSF Research Experiences for Undergraduates students as Research Engineer at Scripps Institution of Oceanography, UC San Diego (2014–2021).  
@@ -125,10 +126,10 @@ Please see [Lab Members](../lab-members/) for the most up-to-date information on
 ### TEACHING EXPERIENCE AND INVITED PRESENTATIONS:
 Please see [Teaching](../teaching.html) for the most up-to-date information on my courses.  
 ·	UNCW Smart Coasts (OCN 479; Fall 2020, 2021, 2022).  
-·	UNCW Advanced Oceanography (OCN 350; Fall 2020, 2021, 2022).  
-·	UNCW Introduction to Oceanography (OCN 150; Fall 2020, Spring 2021, Fall 2021).  
+·	UNCW Advanced Oceanography (OCN 350; Fall 2020, 2021, 2022, Spring 2023).  
+·	UNCW Introduction to Oceanography (OCN 150; Fall 2020, Spring 2021, Fall 2021, Spring 2023).  
 ·	UNCW Field Methods in Oceanography (OCN 390; Spring 2021).  
-·	Summer Ventures in Science & Mathematics course on Coastal Science & Engineering (Summer 2021, Summer 2022).  
+·	Summer Ventures in Science & Mathematics course on Coastal Science & Engineering (Summer 2021, Summer 2022, Summer 2023, in prep.).  
 ·	Invited presenter at the National Science Foundation’s Frontiers in Ocean Sciences Symposium (2020 & 2021).  
 ·	University of Georgia, Skidaway Institute of Oceanography, invited seminar speaker (2021).  
 ·	University of Hawaii, Manoa, Ocean Resources & Engineering, invited seminar speaker (2021).  
