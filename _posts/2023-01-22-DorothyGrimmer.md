@@ -1,7 +1,7 @@
 ---
 layout: lab-member
 title: Dorothy Sue Grimmer
-img: Grimmer_headshot.JPG
+img: Grimmer_headshot.jpg
 categories: lab-member-current
 ---
 
