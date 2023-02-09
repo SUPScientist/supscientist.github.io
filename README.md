@@ -2,7 +2,9 @@ For the nicely rendered version of my website, please visit [supscientist.github
 
 TODO:
 - Update Research page with current projects
-- Check date for about and resume pages,
+- Check dates for about and resume pages
+- Add lab announcements
+- Find better format for lab members page
 - ~Add navigation (added to left of web/top of mobile)~
 - ~Add "sandbox" with, e.g., leaflet garmin mapping~
 - ~Link to SFEI mooring report~
