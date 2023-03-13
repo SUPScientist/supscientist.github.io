@@ -172,11 +172,11 @@ Please see [Teaching](../teaching.html) for the most up-to-date information on m
 ·	Served as CFO of UCSD’s Entrepreneur Challenge, a student-organized business plan competition, with responsibilities including fundraising ($100K) and event coordination (2010–11).  
 
 ### ADDITIONAL EXPERIENCE:
-<iframe src="https://api.badgr.io/public/assertions/Q1ELQ0uxSPqb5Isy0Mg2nw?embedVersion=1&amp;embedWidth=330&amp;embedHeight=191&amp;identity__email=pjbresnahan%40gmail.com" title="Badge: Scientific Community Engagement Fundamentals (CEF)" style="width: 330px; height: 191px; border: 0px;"></iframe>  
 ·	NAUI dive certified (advanced diver, Nitrox diver, rescue diver) and small-boat certified  
 ·	Proficiency programming in Python, C/C++/Arduino, MATLAB, R, LabVIEW, SolidWorks, MS Office  
 ·	Spanish (reading, writing, and basic speaking)  
 ·	Field/cruise experience with over ninety days at sea  
+<iframe src="https://api.badgr.io/public/assertions/Q1ELQ0uxSPqb5Isy0Mg2nw?embedVersion=1&amp;embedWidth=330&amp;embedHeight=191&amp;identity__email=pjbresnahan%40gmail.com" title="Badge: Scientific Community Engagement Fundamentals (CEF)" style="width: 330px; height: 191px; border: 0px;"></iframe>  
 
 ### PROFESSIONAL AFFILIATIONS:
 Association for the Sciences of Limnology and Oceanography  
