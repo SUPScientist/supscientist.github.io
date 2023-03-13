@@ -42,7 +42,7 @@ _2009 -- 2015:_&nbsp;&nbsp;Graduate Research Asst., Scripps Institution of Ocean
 ·	Lehigh University William H. Chandler Prize in Chemistry & Chemical Engineering (2008).  
 
 ### PEER-REVIEWED PUBLICATIONS:
-_last updated Autumn 2022; * denotes student author_  
+_last updated Spring 2023; * denotes student author_  
 
 Bresnahan, P.J., Farquhar, E.\*, Portelli, D.\*, Tydings, M.\*, Wirth, T., Martz, T.R. (2023). A low-cost carbon dioxide monitoring system for coastal and estuarine sensor networks. In Frontiers in Ocean Observing: Emerging Technologies for Understanding and Managing a Changing Ocean. Kappel, E.S., et al., eds. Oceanography 36(Supplement 1), [doi.org/10.5670/oceanog.2023.s1.4](https://doi.org/10.5670/oceanog.2023.s1.4).
 
@@ -107,8 +107,8 @@ Bresnahan, P.J., The Mooring Report: June 2016. Vertical variability of dissolve
 Bresnahan, P.J., The Mooring Report: February 2016. El Niño’s effects on San Francisco Bay water quality. SFEI’s water quality science e-newsletter: www.sfei.org/tmr/2016-02.
 
 ### INTELLECTUAL PROPERTY AND INVENTION DISCLOSURES:
-·	Martz, T.R., Bresnahan, P.J., Wirth, T., Takeshita, Y. (2022). Self-Calibrating SeapHOx. U.S. Provisional Application Serial No. _63/297,782_, filed by UCSD, Jan. 9, 2022.  
-·	Bresnahan, P.J., and Farquhar, E. (2021). An air–water ∆pCO2 monitoring device. UNCW Docket 2021-003.  
+·	Bresnahan, P.J., Tydings, M., Farquhar, E. (2023). Systems and methods for carbon dioxide measurement. U.S. Provisional Patent Application Serial No. _63/441,858_, filed by UNCW, Jan. 30, 2023.  
+·	Martz, T.R., Bresnahan, P.J., Wirth, T., Takeshita, Y. (2022). Self-Calibrating SeapHOx. U.S. Provisional Patent Application Serial No. _63/297,782_, filed by UCSD, Jan. 9, 2022.  
 ·	Bresnahan, P.J., Martz, T.R. (2018). An internet of things smart sensor accessory for watersports. UCSD Docket SD2018-342.  
 ·	Martz, T.R., Bresnahan, P.J. (2014). A profiling float Micro-Rosette. UCSD Docket SD2014-193.
 
@@ -171,6 +171,7 @@ Please see [Teaching](../teaching.html) for the most up-to-date information on m
 ·	Served as CFO of UCSD’s Entrepreneur Challenge, a student-organized business plan competition, with responsibilities including fundraising ($100K) and event coordination (2010–11).  
 
 ### ADDITIONAL EXPERIENCE:
+·	<iframe src="https://api.badgr.io/public/assertions/Q1ELQ0uxSPqb5Isy0Mg2nw?embedVersion=1&amp;embedWidth=330&amp;embedHeight=191&amp;identity__email=pjbresnahan%40gmail.com" title="Badge: Scientific Community Engagement Fundamentals (CEF)" style="width: 330px; height: 191px; border: 0px;"></iframe>  
 ·	NAUI dive certified (advanced diver, Nitrox diver, rescue diver) and small-boat certified  
 ·	Proficiency programming in Python, C/C++/Arduino, MATLAB, R, LabVIEW, SolidWorks, MS Office  
 ·	Spanish (reading, writing, and basic speaking)  
