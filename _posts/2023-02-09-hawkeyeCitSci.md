@@ -7,3 +7,4 @@ tags: [oceanography, sensor development, citizen science, remote sensing] # add 
 categories: research
 ---
 
+![Flyer for SeaHawk/HawkEye Citizen Science Project](../assets/img/SeaHawk HawkEye informational flyer.jpg "SeaHawk/HawkEye Citizen Science Project")
