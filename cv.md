@@ -147,20 +147,20 @@ Please see [Teaching](../teaching.html) more details on my courses.
 ·	Invited guest lessons for high school environmental science and chemistry classes; High Tech High International and Chula Vista High (2018).  
 
 ### INVITED SEMINARS AND CONFERENCE LEADERSHIP ROLES:
-·	Global Marine Science Summit, UNCW, invited speaker (2023).
-·	Moss Landing Marine Laboratory, SJSU, invited seminar speaker (2022).  
-·	Nova Southeastern University’s NSF Field Course in Australia, invited speaker and student mentor (2022).
-·	National Science Foundation’s Frontiers in Ocean Sciences Symposium, invited speaker (2020 & 2021).  
-·	University of Georgia, Skidaway Institute of Oceanography, invited seminar speaker (2021).
-·	University of Hawaiʻi at Mānoa, Ocean Resources & Engineering, invited seminar speaker (2021). 
-·	Invited presentation at Ocean Sciences Meeting and organizer/chair of town hall named “Citizen Oceanography: crowdsourcing ocean data collection in a sea of new technologies” (2018).  
-·	Session Chair and invited presentations at IEEE/MTS Oceans Conference (2017) 
+·	Global Marine Science Summit, UNCW, invited speaker (2023)  
+·	Moss Landing Marine Laboratory, SJSU, invited seminar speaker (2022)  
+·	Nova Southeastern University’s NSF Field Course in Australia, invited speaker and student mentor (2022)  
+·	National Science Foundation’s Frontiers in Ocean Sciences Symposium, invited speaker (2020 & 2021)  
+·	University of Georgia, Skidaway Institute of Oceanography, invited seminar speaker (2021)  
+·	University of Hawaiʻi at Mānoa, Ocean Resources & Engineering, invited seminar speaker (2021)  
+·	Invited presentation at Ocean Sciences Meeting and organizer/chair of town hall named “Citizen Oceanography: crowdsourcing ocean data collection in a sea of new technologies” (2018)  
+·	Session Chair and invited presentations at IEEE/MTS Oceans Conference (2017)  
 ·	UC San Diego, Scripps Institutional Seminar (2017, invited by Scripps Director of Innovation and Commercialization)
-·	UC San Diego, Scripps Applied Ocean Sciences Seminar (2017)
-·	UC San Diego, Scripps Marine Chemistry Seminar (2017)
-·	Session Chair and invited presentation at IEEE/MTS Oceans Conference (2017) 
-·	Co-organizer of workshop titled “Monitoring for Acidification Threats in West Coast Estuaries: A San Francisco Bay Case Study” (2016).  
-·	Invited panelist at the 2015 Coastal & Estuarine Research Federation’s Quality Control and Management of Biogeochemical Sensors Workshop (2015).  
+·	UC San Diego, Scripps Applied Ocean Sciences Seminar (2017)  
+·	UC San Diego, Scripps Marine Chemistry Seminar (2017)  
+·	Session Chair and invited presentation at IEEE/MTS Oceans Conference (2017)  
+·	Co-organizer of workshop titled “Monitoring for Acidification Threats in West Coast Estuaries: A San Francisco Bay Case Study” (2016)  
+·	Invited panelist at the 2015 Coastal & Estuarine Research Federation’s Quality Control and Management of Biogeochemical Sensors Workshop (2015)  
 
 ### SERVICE TO UNIVERSITY:
 ·	UNCW Dept. of Earth & Ocean Sciences Diversity, Equity, and Inclusion Committee (Chair 2021–present)  
@@ -168,7 +168,7 @@ Please see [Teaching](../teaching.html) more details on my courses.
 ·	Established and chaired UNCW Dept. of Earth & Ocean Sciences ad hoc Committee on Cape Fear CC Transfer Partnership (Chair 2021–present)  
 ·	UNCW Dept. of Earth & Ocean Sciences Events & Awards Committee (2020–present; Chair 2021–22)  
 ·	UNCW Dept. of Earth & Ocean Sciences Chair’s Advisory Committee (Elected 2021)  
-·	UNCW Marine & Coastal Sciences Council (elected member 2021-present) and vice-chair-elect (current)
+·	UNCW Marine & Coastal Sciences Council (elected member 2021-present) and vice-chair-elect (current)  
 ·	UNCW Center for Marine Science Makerspace Faculty Coordinator (2020–23)  
 ·	UNCW College of Arts & Sciences Crews Scholarship Review Committee (2021, 2023)  
 ·	Global Marine Science Summit steering committee member (2023)  
@@ -187,8 +187,8 @@ Please see [Teaching](../teaching.html) more details on my courses.
 
 ### OUTREACH AND INFORMAL EDUCATION:
 ·	For a list of and hyperlinks to > 30 interviews, please see 
-[Press](../press/). 
-·	Keynote speaker at Creative Mornings/San Diego event (2018): The Science of Community: https://creativemornings.com/talks/phil-bresnahan/1.
+[Press](../press/).  
+·	Keynote speaker at Creative Mornings/San Diego event (2018): The Science of Community: https://creativemornings.com/talks/phil-bresnahan/1.  
 ·	Community and school presentations to High Point Academy, High Tech High, Solana Beach Eco Rotary Club, La Jolla Rotary Club, Surfrider Foundation Chapter Meeting, Boardroom Show, National Instruments Technical Seminar (2014-present).  
 ·	Invited panelist at South by Southwest, Sustainability at Scripps event, Particle.io’s Spectra conference, Citizens’ Climate Lobby chapter film screening, Scripps Chasing Coral film screening (2018–19).  
 ·	Invited ocean acidification demos for Sustainable Surf/Scripps Oceanography collaboration @ The Boardroom Show & The Mingei International Museum (2014).  
@@ -200,14 +200,14 @@ Please see [Teaching](../teaching.html) more details on my courses.
 ·	Proficiency programming in Python, C/C++/Arduino, MATLAB, R, LabVIEW, SolidWorks, MS Office  
 ·	Spanish (reading, writing, and basic speaking)  
 ·	Field/cruise experience with over ninety days at sea  
-·	Participant (led by MS student E. Farquhar) in NSF I-Corps Mid-Atlantic Hub Customer Discovery Workshops
+·	Participant (led by MS student E. Farquhar) in NSF I-Corps Mid-Atlantic Hub Customer Discovery Workshops  
 ·	UC San Diego Office of Innovation and Commercialization Entrepreneurship Certificate (2019)  
 <iframe src="https://api.badgr.io/public/assertions/Q1ELQ0uxSPqb5Isy0Mg2nw?embedVersion=1&amp;embedWidth=330&amp;embedHeight=191&amp;identity__email=pjbresnahan%40gmail.com" title="Badge: Scientific Community Engagement Fundamentals (CEF)" style="width: 330px; height: 191px; border: 0px;"></iframe>  
 
 ### PROFESSIONAL AFFILIATIONS:
 ·	Association for the Sciences of Limnology and Oceanography (2013–present)  
 ·	The Oceanography Society (2015-present)  
-·	Coastal and Estuarine Research Federation (2015–present) 
+·	Coastal and Estuarine Research Federation (2015–present)  
 ·	California Estuarine Research Society (2017-2020)  
 ·	Institute for Electrical and Electronics Engineers (2017-2020)  
 ·	Tau Beta Pi Engineering Honor Society (inducted 2006)  
