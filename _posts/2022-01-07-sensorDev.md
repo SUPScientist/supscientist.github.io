@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sensor Development
+title: Miscellaneous Sensor Development
 date: 2022-07-07 00:00:00 -0400
 img: pCO2_lab.jpeg # Add image post (optional)
 tags: [oceanography, sensor development] # add tag
