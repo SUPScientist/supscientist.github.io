@@ -11,5 +11,5 @@ Through a collaboration between our research team, the Birch Aquarium at Scripps
 
 The sensor ended up working so well (~ 1 cm root mean squared error vs. a much more expensive commercial unit) that we are now beginning deployments in coastal and estuarine settings where communities need additional real-time water level monitoring solutions. We also continue to use this device to teach sensor development courses including OCN 479/579 Smart Coasts (Bresnahan, UNCW), Applied Coastal Science and Engineering (Bresnahan, UNCW/Summer Ventures), and ORE 203L Surf Science and Culture (Briggs, UHM).
 
-The article, A Low-Cost, DIY Ultrasonic Water Level Sensor for Education, Citizen Science, and Research, can be found here: https://doi.org/10.5670/oceanog.2023.101.
+The article, A Low-Cost, DIY Ultrasonic Water Level Sensor for Education, Citizen Science, and Research, can be found here: [doi.org/10.5670/oceanog.2023.101](https://doi.org/10.5670/oceanog.2023.101).
 
