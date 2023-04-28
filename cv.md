@@ -137,8 +137,7 @@ Please see [Teaching](../teaching.html) more details on my courses.
 ·	UNCW Introduction to Oceanography (OCN 150; Fall 2020, Spring 2021, Fall 2021, Spring 2023).  
 ·	UNCW Smart Coasts (OCN 479; Fall 2020, 2021, 2022).  
 ·	UNCW Field Methods in Oceanography (OCN 390; Spring 2021).  
-·	Applied Coastal Science and Engineering (Summer 2021, Summer 2022, Summer 2023, in prep.). Invited to design and teach pre-college research course for NC School of Science and Mathematics' Summer Ventures program.   
-·	Center for Teaching Excellence Course Design Institute participant (summer 2022)  
+·	Applied Coastal Science and Engineering (Summer 2021, Summer 2022, Summer 2023, in prep.). Invited to design and teach pre-college research course for NC School of Science and Mathematics' Summer Ventures program.  
 ·	Invited instructor for two-week summer course: “Instrumenting our oceans for better observation: a training course on biogeochemical sensors,” Kristineberg, Sweden (2015, 19). I delivered four lectures and led three practical, project-based exercises for students designed to teach how oceanographic sensors function and are operated in the field.  
 ·	Invited instructor for two-week summer course: “Satellite Remote Sensing” (2019). I delivered one week of lectures and spent two weeks teaching students with interactive lessons on Python programming for ocean satellite data analysis.  
 ·	Designed and taught project-based learning portion of Observational Physical Oceanography with Prof. Fiamma Straneo. Students learned to make an ocean sensor package using open source code and hardware and we contributed to improvements for the GitHub repository (2019).  
@@ -195,13 +194,15 @@ Please see [Teaching](../teaching.html) more details on my courses.
 ·	Judge for high school National Ocean Sciences Bowl (2010–13).  
 ·	Invited ocean acidification demos for BE-WiSE (Better Education for Women in Science & Engineering) La Jolla chapter (2010–14).  
 
-### ADDITIONAL EXPERIENCE:
+### ADDITIONAL TRAINING:
+·	Center for Teaching Excellence Course Design Institute participant (summer 2022)  
 ·	NAUI dive certified (advanced diver, Nitrox diver, rescue diver) and small-boat certified  
 ·	Proficiency programming in Python, C/C++/Arduino, MATLAB, R, LabVIEW, SolidWorks, MS Office  
 ·	Spanish (reading, writing, and basic speaking)  
 ·	Field/cruise experience with over ninety days at sea  
 ·	Participant (led by MS student E. Farquhar) in NSF I-Corps Mid-Atlantic Hub Customer Discovery Workshops  
 ·	UC San Diego Office of Innovation and Commercialization Entrepreneurship Certificate (2019)  
+·	Center for Scientific Collaboration and Community Engagement's Certificate in Community Engagement Fundamentals:  
 <iframe src="https://api.badgr.io/public/assertions/Q1ELQ0uxSPqb5Isy0Mg2nw?embedVersion=1&amp;embedWidth=330&amp;embedHeight=191&amp;identity__email=pjbresnahan%40gmail.com" title="Badge: Scientific Community Engagement Fundamentals (CEF)" style="width: 330px; height: 191px; border: 0px;"></iframe>  
 
 ### PROFESSIONAL AFFILIATIONS:
