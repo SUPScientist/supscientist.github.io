@@ -20,7 +20,7 @@ _2015 -- 2016:_&nbsp;&nbsp;Environmental Scientist, San Francisco Estuary Instit
 _2009 -- 2015:_&nbsp;&nbsp;Graduate Research Asst., Scripps Institution of Oceanography
 
 ### GRANTS:
-·	Charles L. Cahill Grant, UNCW Research Office. Rother, M. (PI), **Bresnahan, P.J.**, and Hawkes, A. (co-PIs). A multidisciplinary approach to assessing the vulnerability of baldcypress wetlands to flooding and increased salinity levels. $12K (2023–24).
+·	Charles L. Cahill Grant, UNCW Research Office. Rother, M. (PI), **Bresnahan, P.J.**, and Hawkes, A. (co-PIs). A multidisciplinary approach to assessing the vulnerability of baldcypress wetlands to flooding and increased salinity levels. $12K (2023–24).  
 ·	Gordon and Betty Moore Foundation: Continuing the Mission: SeaHawk-1 Ocean Color CubeSat Satellite. **Bresnahan, P.J.** (PI), Rivero-Calle, S. (Co-PI), Frensley, B.T., and Brewin, R. (Sr. Research Personnel). $2.2M (2022-25).  
 ·	NSF Major Research Instrumentation: Acquisition of a novel multi sensor-equipped unmanned aerial system (UAS) observatory for coastal mapping. Pricope, N. (PI), Leonard, L., Halls, J., **Bresnahan, P.J.**, and Eulie, D. (co-PIs). $851K (2022-25).  
 ·	NOAA Small Business Innovative Research Phase II: The pHyter and Other Oceanographic Tools for Citizen Science and STEM Education. Spaulding, R. (PI), **Bresnahan, P.J.** (Key Individual). Total budget $500K; UNCW subaward $28K (2022-24).  
