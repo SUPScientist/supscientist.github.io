@@ -176,7 +176,7 @@ Please see [Teaching](../teaching.html) more details on my courses.
 ·	UCSD Scripps Sandbox Makerspace committee (ex officio, 2019–20)  
 
 ### SERVICE TO SCIENTIFIC COMMUNITY:
-·	NASA FINESST review panelist (2023)  
+·	NASA Grant Proposal Panelist (2023)  
 ·	Southeast Ocean and Coastal Acidification Network Science Working Group member (2021–present)  
 ·	Proposal reviewer for NSF OTIC (2021)  
 ·	Proposal reviewer for NOAA Ocean Acidification Program (2020)  
