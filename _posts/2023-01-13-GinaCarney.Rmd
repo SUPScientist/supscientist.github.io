@@ -3,7 +3,7 @@ title: "Gina Carney"
 layout: post
 img: coast.jpg
 output: word_document
-categories: lab-member-current
+categories: lab-member-past
 ---
 
 Hey, guys! My name is Gina Carney, and I am a current graduate student pursuing my Master's of Science in Geoscience within the Department of Earth and Ocean sciences, working with Dr. Bresnahan on an analytical chemistry water quality project. I received my B.S. in Geology from Appalachian State University and received an undergraduate research assistantship with the National Science Foundation, focusing on glacial sedimentology. 
