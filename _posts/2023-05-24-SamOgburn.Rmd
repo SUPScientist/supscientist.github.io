@@ -1,0 +1,12 @@
+---
+title: "Sam Ogburn"
+layout: lab-member
+img: Sam_Headshot2.jpg
+output: word_document
+categories: lab-member-current
+---
+
+I am a freshman at Western Carolina University interning at UNCW for the summer. I am a biology major interested in conservation, science communication, and developing sustainable infrastructure.
+
+My favorite things besides doing science are drawing, reading, and other nerdy activities like playing Magic.
+
