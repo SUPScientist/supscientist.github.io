@@ -1,7 +1,7 @@
 ---
 layout: lab-member
 title: Hailey Seppey
-img: 
+img: https://github.com/hseppey/supscientist.github.io/blob/main/assets/img/haileyseppeyimg.jpg
 categories: lab-member-current
 ---
 
