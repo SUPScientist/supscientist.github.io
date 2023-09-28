@@ -9,15 +9,22 @@ categories: research
 
 We are beginning a citizen/community science project as part of the SeaHawk/HawkEye ocean color remote sensing mission. For more information on the broader mission, please visit [SeaHawk/HawkEye Ocean Color Remote Sensing](../seahawk).
 
-![Flyer for SeaHawk/HawkEye Citizen Science Project](../assets/img/SeaHawk HawkEye informational flyer.jpg "SeaHawk/HawkEye Citizen Science Project")
+![Flyer for SeaHawk/HawkEye Citizen Science Project](../assets/img/SeaHawk HawkEye informational flyer.png "SeaHawk/HawkEye Citizen Science Project")
 
 # How-To Videos
 ## How to use the Mini-Secchi Disk
-[Written instructions](../assets/pdf/Mini-Secchi How-To Guide.pdf "Mini-Secchi How-To Guide").
+[Here are written instructions for using the mini-Secchi disk, followed by an instructional video below](../assets/pdf/Mini-Secchi How-To Guide.pdf "Mini-Secchi How-To Guide").
 
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/827438726?h=1ab832388d&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Secchi disk how to guide"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 If you wish to log data and don't have access to the mobile app, please fill out this [Data Log](../assets/pdf/Mini-Secchi Data Log.pdf "Mini-Secchi Data Log.pdf").
 
 ## How to access data on the MONOCLE website
+See the [MONOCLE Mini-Secchi disk activity dashboard](https://rsg.pml.ac.uk/dashboards/d/P0tWxs97k/monocle-secchi) to see all of the data collected in this and interrelated projects!
+<div class="resp-container">
+    <iframe class="resp-iframe" src="https://rsg.pml.ac.uk/dashboards/d/P0tWxs97k/monocle-secchi"></iframe>
+</div>
+
+Please watch the following video for more information on the MONOCLE website and data access:
 <div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/827438261?h=cac9356710&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Monocle data access_updated"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
