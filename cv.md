@@ -204,12 +204,13 @@ Please see [Teaching](../teaching.html) more details on my courses.
 
 ### ADDITIONAL TRAINING:
 ·	Center for Teaching Excellence Course Design Institute participant (summer 2022)  
+·	Participant (led by MS student E. Farquhar) in NSF I-Corps Mid-Atlantic Hub Customer Discovery Workshops (2022)
+·	NASA SeaDAS, NASA ARSET Hyperspectral Data for Land and Coastal Systems, NASA ARSET Measuring Atmospheric Carbon Dioxide from Space in Support of Climate Related Studies (2020–2022)
+·	UC San Diego Office of Innovation and Commercialization Entrepreneurship Certificate (2019)  
+·	Field/cruise experience with over ninety days at sea  
 ·	NAUI dive certified (advanced diver, Nitrox diver, rescue diver) and small-boat certified  
 ·	Proficiency programming in Python, C/C++/Arduino, MATLAB, R, LabVIEW, SolidWorks, MS Office  
 ·	Spanish (reading, writing, and basic speaking)  
-·	Field/cruise experience with over ninety days at sea  
-·	Participant (led by MS student E. Farquhar) in NSF I-Corps Mid-Atlantic Hub Customer Discovery Workshops  
-·	UC San Diego Office of Innovation and Commercialization Entrepreneurship Certificate (2019)  
 ·	Center for Scientific Collaboration and Community Engagement's Certificate in Community Engagement Fundamentals:  
 <iframe src="https://api.badgr.io/public/assertions/Q1ELQ0uxSPqb5Isy0Mg2nw?embedVersion=1&amp;embedWidth=330&amp;embedHeight=191&amp;identity__email=pjbresnahan%40gmail.com" title="Badge: Scientific Community Engagement Fundamentals (CEF)" style="width: 330px; height: 191px; border: 0px;"></iframe>  
 
@@ -217,6 +218,7 @@ Please see [Teaching](../teaching.html) more details on my courses.
 ·	Association for the Sciences of Limnology and Oceanography (2013–present)  
 ·	The Oceanography Society (2015-present)  
 ·	Coastal and Estuarine Research Federation (2015–present)  
+·	American Geophysical Union (AGU, 2023–present)  
 ·	California Estuarine Research Society (2017-2020)  
 ·	Institute for Electrical and Electronics Engineers (2017-2020)  
 ·	Tau Beta Pi Engineering Honor Society (inducted 2006)  
