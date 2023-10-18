@@ -48,12 +48,12 @@ _2009 -- 2015:_&nbsp;&nbsp;Graduate Research Asst., Scripps Institution of Ocean
 
 ### PEER-REVIEWED PUBLICATIONS:
 _last updated Fall 2023; * denotes student author_  
-**In Review:**
+#### In Review:
 Brewin, R.J.W., Brewin, T., Bresnahan, P.J., Davis, K., Sun, X., Wilson, N., Brunner, L., Dall’Olmo, G. (in review). Lab on a Secchi disk: A prototype opensource profiling package for low-cost monitoring in aquatic environments. Limnology and Oceanography: Methods.
 
 Skelton, Z., McCormick, L., Kwan, G., Lonthair, J., … Bresnahan, P.J., et al. (8th of 34 authors) (in review). Organismal responses to deteriorating water quality during the historic 2020 red tide off Southern California. Elementa: Science of the Anthropocene.
 
-**Published**
+#### Published:
 Bresnahan, P.J., Farquhar, E.\*, Portelli, D.\*, Tydings, M.\*, Wirth, T., Martz, T.R. (2023). A low-cost carbon dioxide monitoring system for coastal and estuarine sensor networks. Oceanography 36(Supplement 1), [doi.org/10.5670/oceanog.2023.s1.4](https://doi.org/10.5670/oceanog.2023.s1.4).
 
 Hogan, R., Ford, M., Battaglia, M., Sturdivant, J., Dogan, G., Bresnahan, P.J. (2022). Predicting Water Quality Estimates Using Satellite Images in Coastal and Estuarine Environments. Journal of Computing Sciences in Colleges. 38(5), 87–95. [dl.acm.org/doi/epdf/10.5555/3581625.3581633](https://dl.acm.org/doi/epdf/10.5555/3581625.3581633).  
@@ -132,7 +132,7 @@ Bresnahan, P.J., The Mooring Report: February 2016. El Niño’s effects on San 
 Please see [Lab Members](../lab-members/) for the most up-to-date information on our research team.  
 ·	Primary advisor for MS students: Elizabeth Farquhar (current), Jessie Wynne (current), Mitch Torkelson (current), Stephen Lail (current), Gina Carney (2023)  
 ·	Primary honors thesis advisor for BS student: Sophia Hill (current) and Bentley Settin (current)  
-·	Undergraduate research mentor for: Hailey Seppey (2023 directed independent study), Russell Isobe (summer research assistant), Dorothy Sue Grimmer (2023 directed independent study), Luke Cooper (2023 directed independent study, Daniel Portelli (2022 summer research), Luke Edwards (2022 summer research experiences for undergraduates), Bentley Settin (2022 directed independent study), Jacob Stasiewicz (2022 directed independent study), Michael Tydings (2021 summer research and directed independent study) 
+·	Undergraduate research mentor for: Hailey Seppey (2023 directed independent study), Russell Isobe (2023 summer research assistant), Dorothy Sue Grimmer (2023 directed independent study), Luke Cooper (2023 directed independent study, Daniel Portelli (2022 summer research), Luke Edwards (2022 summer research experiences for undergraduates), Bentley Settin (2022 directed independent study), Jacob Stasiewicz (2022 directed independent study), Michael Tydings (2021 summer research and directed independent study) 
 ·	Committee member for MS Geoscience and Marine Science students: Greer Shivers (2022), Carter Eckhardt (2022), Jesse Scopa (2022), Thomas Paine (2023), Kendra Devereux (current), Allison Dombrowski (current).  
 ·	Undergraduate honors thesis committee member for Phoebe Whitbeck (current) and Jordan Pilcher (current).
 ·	Mentored six NSF Research Experiences for Undergraduates students as Research Engineer at Scripps Institution of Oceanography, UC San Diego (2014–2021).  
@@ -141,11 +141,11 @@ Please see [Lab Members](../lab-members/) for the most up-to-date information on
 
 ### TEACHING EXPERIENCE:
 Please see [Teaching](../teaching.html) more details on my courses.  
-·	UNCW Advanced Oceanography (OCN 350; Fall 2020, 2021, 2022, Spring 2023).  
-·	UNCW Introduction to Oceanography (OCN 150; Fall 2020, Spring 2021, Fall 2021, Spring 2023).  
+·	UNCW Advanced Oceanography (OCN 350; Fall 2020, 2021, 2022, 2023, Spring 2023).  
+·	UNCW Introduction to Oceanography (OCN 150; Fall 2020, 2021, 2023, Spring 2021, Spring 2023).  
 ·	UNCW Smart Coasts (OCN 479; Fall 2020, 2021, 2022).  
 ·	UNCW Field Methods in Oceanography (OCN 390; Spring 2021).  
-·	Applied Coastal Science and Engineering (Summer 2021, Summer 2022, Summer 2023, in prep.). Invited to design and teach pre-college research course for NC School of Science and Mathematics' Summer Ventures program.  
+·	Applied Coastal Science and Engineering (Summer 2021, 2022, 2023). Invited to design and teach pre-college research course for NC School of Science and Mathematics' Summer Ventures program.  
 ·	Invited instructor for two-week summer course: “Instrumenting our oceans for better observation: a training course on biogeochemical sensors,” Kristineberg, Sweden (2015, 19). I delivered four lectures and led three practical, project-based exercises for students designed to teach how oceanographic sensors function and are operated in the field.  
 ·	Invited instructor for two-week summer course: “Satellite Remote Sensing” (2019). I delivered one week of lectures and spent two weeks teaching students with interactive lessons on Python programming for ocean satellite data analysis.  
 ·	Designed and taught project-based learning portion of Observational Physical Oceanography with Prof. Fiamma Straneo. Students learned to make an ocean sensor package using open source code and hardware and we contributed to improvements for the GitHub repository (2019).  
