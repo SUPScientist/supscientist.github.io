@@ -19,6 +19,18 @@ _2017 -- 2020:_&nbsp;&nbsp;Research & Development Engineer, Scripps Institution 
 _2015 -- 2016:_&nbsp;&nbsp;Environmental Scientist, San Francisco Estuary Institute  
 _2009 -- 2015:_&nbsp;&nbsp;Graduate Research Asst., Scripps Institution of Oceanography
 
+### AWARDS AND HONORS
+·	Departmental Citizenship Award, Department of Earth and Ocean Sciences, UNCW (Inaugural recipient, 2023). *"To recognize exemplary behavior of a Department of Earth and Ocean Sciences faculty member based on overall and well-rounded contributions to all three evaluative areas (Teaching, Research+Scholarship, Service) in combination with outstanding collegial behavior."*  
+·	Invited as one of four speakers for the National Science Foundation Frontiers in Ocean Science Symposium (2020) and as a return alumnus panelist (2021).  
+·	UC Ship Funds awardee and Chief Scientist (as a Ph.D. Candidate) on-board the R/V Sproul (2014).  
+·	Dissertations Symposium in Chemical Oceanography (DISCO) XXIV Invitee (2014).  
+·	Scripps Student Symposium (S3) award for best talk (2014).  
+·	Scripps student video competition: Best Video in Climate, Ocean, and Atmosphere Program (2014).  
+·	Scripps Community Outreach Program for Education most frequent volunteer (2013 & 2014).    
+·	National Defense Science & Engineering Graduate Fellowship (2010 – 13).  
+·	Elizabeth Nevius Award & Lehigh University President’s Scholarship (2008 – 09).  
+·	Lehigh University William H. Chandler Prize in Chemistry & Chemical Engineering (2008).  
+
 ### GRANTS:
 ·	Charles L. Cahill Grant, UNCW Research Office. Rother, M. (PI), **Bresnahan, P.J.**, and Hawkes, A. (co-PIs). A multidisciplinary approach to assessing the vulnerability of baldcypress wetlands to flooding and increased salinity levels. $12K (2023–24).  
 ·	Gordon and Betty Moore Foundation: Continuing the Mission: SeaHawk-1 Ocean Color CubeSat Satellite. **Bresnahan, P.J.** (PI), Rivero-Calle, S. (Co-PI), Frensley, B.T., and Brewin, R. (Sr. Research Personnel). $2.2M (2022-25).  
@@ -33,18 +45,6 @@ _2009 -- 2015:_&nbsp;&nbsp;Graduate Research Asst., Scripps Institution of Ocean
 ·	NSF-OTIC Award 1736905: Collaborative Research: Self-Calibrating pH Sensors for Autonomous Collection of Climate Quality Data. **Bresnahan, P.J.**, and Takeshita, Y. (Co-Lead PIs), Martz, T. (co-PI). $567K (2017-2020).  
 ·	Helped attract major research donation from Lost Bird Project and led research and project/budget management. In collaboration with Martz, T., Andersson, A., and Cyronak, T. $1.25M (2016).  
 ·	Research donation from Scripps Foundation for Science & the Environment. $5K (2013).  
-
-### AWARDS AND HONORS
-·	Departmental Citizenship Award, Department of Earth and Ocean Sciences, UNCW (Inaugural recipient, 2023). To recognize exemplary behavior of a Department of Earth and Ocean Sciences faculty member based on overall and well-rounded contributions to all three evaluative areas (Teaching, Research+Scholarship, Service) in combination with outstanding collegial behavior.  
-·	Invited as one of four speakers for the National Science Foundation Frontiers in Ocean Science Symposium (2020) and as a return alumnus panelist (2021).  
-·	UC Ship Funds awardee and Chief Scientist (as a Ph.D. Candidate) on-board the R/V Sproul (2014).  
-·	Dissertations Symposium in Chemical Oceanography (DISCO) XXIV Invitee (2014).  
-·	Scripps Student Symposium (S3) award for best talk (2014).  
-·	Scripps student video competition: Best Video in Climate, Ocean, and Atmosphere Program (2014).  
-·	Scripps Community Outreach Program for Education most frequent volunteer (2013 & 2014).    
-·	National Defense Science & Engineering Graduate Fellowship (2010 – 13).  
-·	Elizabeth Nevius Award & Lehigh University President’s Scholarship (2008 – 09).  
-·	Lehigh University William H. Chandler Prize in Chemistry & Chemical Engineering (2008).  
 
 ### PEER-REVIEWED PUBLICATIONS:
 _last updated Fall 2023; * denotes student author_  
