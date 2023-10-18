@@ -140,7 +140,7 @@ Please see [Lab Members](../lab-members/) for the most up-to-date information on
 ·	Scripps Peers Mentor for two junior graduate students as a senior graduate student (2013–14).
 
 ### TEACHING EXPERIENCE:
-Please see [Teaching](../teaching.html) more details on my courses.  
+Please see [Teaching](../teaching/) more details on my courses.  
 ·	UNCW Advanced Oceanography (OCN 350; Fall 2020, 2021, 2022, 2023, Spring 2023).  
 ·	UNCW Introduction to Oceanography (OCN 150; Fall 2020, 2021, 2023, Spring 2021, Spring 2023).  
 ·	UNCW Smart Coasts (OCN 479; Fall 2020, 2021, 2022).  
