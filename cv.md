@@ -42,7 +42,7 @@ _2009 -- 2015:_&nbsp;&nbsp;Graduate Research Asst., Scripps Institution of Ocean
 ·	Ellen Browning Scripps Foundation Award (PI). $15K (2019).  
 ·	San Diego Gas & Electric Community Engagement Award (PI). $7.5K (2018).  
 ·	UCSD Institute for the Global Entrepreneur Award (PI). $1K (2018).  
-·	NSF-OTIC Award 1736905: Collaborative Research: Self-Calibrating pH Sensors for Autonomous Collection of Climate Quality Data. **Bresnahan, P.J.**, and Takeshita, Y. (Co-Lead PIs), Martz, T. (co-PI). $567K (2017-2020).  
+·	NSF-OTIC Award 1736905: Collaborative Research: Self-Calibrating pH Sensors for Autonomous Collection of Climate Quality Data. **Bresnahan, P.J.**, and Takeshita, Y. (Co-Lead PIs), Martz, T. (co-PI). $675K (2017-2020).  
 ·	Helped attract major research donation from Lost Bird Project and led research and project/budget management. In collaboration with Martz, T., Andersson, A., and Cyronak, T. $1.25M (2016).  
 ·	Research donation from Scripps Foundation for Science & the Environment. $5K (2013).  
 
