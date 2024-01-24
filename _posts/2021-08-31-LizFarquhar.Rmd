@@ -3,7 +3,7 @@ title: "Liz Farquhar"
 layout: lab-member
 img: fieldwork_Liz.JPG
 output: word_document
-categories: lab-member-current
+categories: lab-member-past
 ---
 
 I am a Marine Science Master's student in the COAST lab, working with Dr. Bresnahan. For my undergraduate, I received a BS in Environmental Science, minoring in Marine Science and Spanish, from UNC Chapel Hill. 

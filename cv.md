@@ -56,8 +56,6 @@ Skelton, Z., McCormick, L., Kwan, G., Lonthair, J., … Bresnahan, P.J., et al. 
 #### Published:
 Bresnahan, P.J., Farquhar, E.\*, Portelli, D.\*, Tydings, M.\*, Wirth, T., Martz, T.R. (2023). A low-cost carbon dioxide monitoring system for coastal and estuarine sensor networks. Oceanography 36(Supplement 1), [doi.org/10.5670/oceanog.2023.s1.4](https://doi.org/10.5670/oceanog.2023.s1.4).
 
-Hogan, R., Ford, M., Battaglia, M., Sturdivant, J., Dogan, G., Bresnahan, P.J. (2022). Predicting Water Quality Estimates Using Satellite Images in Coastal and Estuarine Environments. Journal of Computing Sciences in Colleges. 38(5), 87–95. [dl.acm.org/doi/epdf/10.5555/3581625.3581633](https://dl.acm.org/doi/epdf/10.5555/3581625.3581633).  
-
 Bresnahan, P.J., Briggs, E., Davis\*, B., Rodriguez, A., Edwards\*, L., Peach, C., Merrifield, M. (2022). A Low-Cost, DIY Ultrasonic Water Level Sensor for Education, Citizen Science, and Research. Oceanography. [doi.org/10.5670/oceanog.2023.101](https://doi.org/10.5670/oceanog.2023.101). 
 
 Shipley, K., Martz, T.R., Bresnahan, P.J., Wirth, T. (2022). Metabolic rates in the Agua Hedionda Lagoon during the 2020 Southern California red tide event. Elementa: Science of the Anthropocene. [doi.org/10.1525/elementa.2022.00018](https://doi.org/10.1525/elementa.2022.00018).
@@ -100,6 +98,8 @@ Bresnahan, P.J., Martz T.R., Takeshita Y., Johnson K.S., LaShomb M. (2014), Best
 Martz, T.R., Takeshita, Y., Rolph, R., Bresnahan, P.J. (2012), Tracer Monitored Titrations: Measurement of Dissolved Oxygen. Analytical Chemistry, 84, 290-296. [doi.org/10.1021/ac202537f](https://doi.org/10.1021/ac202537f).
 
 ### PEER-REVIEWED CONFERENCE PROCEEDINGS:
+Hogan, R., Ford, M., Battaglia, M., Sturdivant, J., Dogan, G., Bresnahan, P.J. (2022). Predicting Water Quality Estimates Using Satellite Images in Coastal and Estuarine Environments. Journal of Computing Sciences in Colleges. 38(5), 87–95. [dl.acm.org/doi/epdf/10.5555/3581625.3581633](https://dl.acm.org/doi/epdf/10.5555/3581625.3581633).  
+
 Bresnahan, P.J., Cyronak, T., Martz, T.R., Andersson, A., Waters, S., Stern, A., Richard, J., Hammond, K., Griffin, J., Thompson, B. (2017). Engineering a Smartfin for surf-zone oceanography, in OCEANS 2017, Anchorage, Alaska, 2017, p. 1-4. [ieeexplore.ieee.org/document/8232342](https://ieeexplore.ieee.org/document/8232342).
 
 ### REPORTS AND TECHNICAL CONTRIBUTIONS:
