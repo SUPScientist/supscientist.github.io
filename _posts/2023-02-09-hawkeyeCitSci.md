@@ -7,7 +7,7 @@ tags: [oceanography, sensor development, citizen science, remote sensing] # add 
 categories: research
 ---
 
-We are beginning a citizen/community science project as part of the SeaHawk/HawkEye ocean color remote sensing mission. For more information on the broader mission, please visit [SeaHawk/HawkEye Ocean Color Remote Sensing](../seahawk).
+We have launched a participatory science project as part of the SeaHawk/HawkEye ocean color remote sensing mission. For more information on the broader mission, please visit [SeaHawk/HawkEye Ocean Color Remote Sensing](../seahawk).
 
 ![Flyer for SeaHawk/HawkEye Citizen Science Project](../assets/img/SeaHawk HawkEye informational flyer.png "SeaHawk/HawkEye Citizen Science Project")
 
