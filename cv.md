@@ -56,7 +56,7 @@ Skelton, Z., McCormick, L., Kwan, G., Lonthair, J., … Bresnahan, P.J., et al. 
 #### Published:
 Bresnahan, P.J., Farquhar, E.\*, Portelli, D.\*, Tydings, M.\*, Wirth, T., Martz, T.R. (2023). A low-cost carbon dioxide monitoring system for coastal and estuarine sensor networks. Oceanography 36(Supplement 1), [doi.org/10.5670/oceanog.2023.s1.4](https://doi.org/10.5670/oceanog.2023.s1.4).
 
-Bresnahan, P.J., Briggs, E., Davis\*, B., Rodriguez, A., Edwards\*, L., Peach, C., Merrifield, M. (2022). A Low-Cost, DIY Ultrasonic Water Level Sensor for Education, Citizen Science, and Research. Oceanography. [doi.org/10.5670/oceanog.2023.101](https://doi.org/10.5670/oceanog.2023.101). 
+Bresnahan, P.J., Briggs, E., Davis\*, B., Rodriguez, A., Edwards\*, L., Peach, C., Renner, N., Merrifield, M. (2022). A Low-Cost, DIY Ultrasonic Water Level Sensor for Education, Citizen Science, and Research. Oceanography. [doi.org/10.5670/oceanog.2023.101](https://doi.org/10.5670/oceanog.2023.101). 
 
 Shipley, K., Martz, T.R., Bresnahan, P.J., Wirth, T. (2022). Metabolic rates in the Agua Hedionda Lagoon during the 2020 Southern California red tide event. Elementa: Science of the Anthropocene. [doi.org/10.1525/elementa.2022.00018](https://doi.org/10.1525/elementa.2022.00018).
 
