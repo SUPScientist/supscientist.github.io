@@ -12,4 +12,4 @@ I am focusing on Chl sensors and deveoping a way to communicate their data to a 
 
 In the past I have worked on projects such as herbaceous growth in aqauponic systems, as well as tree seedling regeneration after forest fires. Working with biological systems has allowed me to have an in-depth unerstanding of how differing nutrient levels can impact ecosystems.
 
-See more of my current work here: https://github.com/COAST-Lab/Chlorophyll-Fluorometer-. 
+See more of my current work here: [https://github.com/COAST-Lab/Chlorophyll-Fluorometer-](https://github.com/COAST-Lab/Chlorophyll-Fluorometer-). 

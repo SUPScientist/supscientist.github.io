@@ -11,4 +11,4 @@ I soon involved myself with <a href="https://www.coralrestoration.org/">Coral Re
 
 I am thrilled to be a Graduate Student in the department of Earth and Ocean Sciences, getting my Master's in Marine Science and working in the COAST Lab. When my nose is not in a book, I enjoy running, cycling, cooking, geocaching, and scuba diving. The best part is, I no longer have to drive 18 hours to get to the beach.
 
-See more of my work here https://github.com/COAST-Lab/HawkEye_Evaluation. 
+See more of my work here [https://github.com/COAST-Lab/HawkEye_Evaluation](https://github.com/COAST-Lab/HawkEye_Evaluation). 
