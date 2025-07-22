@@ -1,3 +1,8 @@
+# DEPRECATED
+This repository is deprecated in favor of https://github.com/COAST-Lab/COAST-Lab.github.io which is rendered at https://coast-lab.org/. The github page built with this repository is badly out of date.
+
+
+
 For the nicely rendered version of my website, please visit [supscientist.github.io](https://supscientist.github.io)
 
 TODO:
